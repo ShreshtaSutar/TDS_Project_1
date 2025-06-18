@@ -1,0 +1,2519 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 603963,
+        "name": "Jivraj Singh Shekhawat",
+        "username": "Jivraj",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "created_at": "2025-03-06T13:48:39.245Z",
+        "cooked": "Please post any questions related to Graded Assignment 6 - Data Analysis\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline 2025-03-15T18:30:00Z",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:48:39.245Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 143,
+        "readers_count": 142,
+        "score": 37.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Jivraj Singh Shekhawat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23",
+            "internal": false,
+            "reflection": false,
+            "title": "Nptel Seekh",
+            "clicks": 11
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-various-issues-graded-assignments-project-doubts-and-roe-score-updates/170147",
+            "internal": true,
+            "reflection": true,
+            "title": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 15651,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/1",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 603964,
+        "name": "Jivraj Singh Shekhawat",
+        "username": "Jivraj",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "created_at": "2025-03-06T13:49:29.690Z",
+        "cooked": "",
+        "post_number": 2,
+        "post_type": 3,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:49:29.690Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 139,
+        "readers_count": 138,
+        "score": 26.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Jivraj Singh Shekhawat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 15651,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "pinned.enabled",
+        "post_url": "/t/graded-assignment-6/169283/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 603966,
+        "name": "Lovepreet Singh",
+        "username": "24f2006061",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2006061/{size}/112404_2.png",
+        "created_at": "2025-03-02T11:45:12.668Z",
+        "cooked": "The answer choices for questions 1 and 2 in graded assignment 6 are quite confusing. Both questions are single-select, yet three out of the four options are correct in each case. I\u2019m unsure whether to choose one of the correct options or if the question is actually asking for the incorrect one. Could someone please clarify?\n@carlton",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:50:45.170Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 117,
+        "readers_count": 116,
+        "score": 72.6,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Lovepreet Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 43125,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/3",
+        "user_cakedate": "2025-01-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602355,
+        "name": "Sarang Tambe",
+        "username": "23f2005138",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005138/{size}/66754_2.png",
+        "created_at": "2025-03-02T11:57:04.636Z",
+        "cooked": "@Jivraj @Saransh_Saini\nI have similar concern\nFor Q1, I used the following code:\nprint(f'Pearson correlation for Karnataka between price retention and column')\nkk = df[df['State'] == 'Karnataka']\nfor col in ['Mileage (km/l)', 'Avg Daily Distance (km)', 'Engine Capacity (cc)']:\n    pearson_corr = kk['price_retention'].corr(kk[col])\n    print(f'\\t{col:25} : {pearson_corr:.2f}')\n\nAnd got the following output:\nPearson correlation for Karnataka between price retention and column\n\tMileage (km/l)            : 0.03\n\tAvg Daily Distance (km)   : -0.06\n\tEngine Capacity (cc)      : -0.04\n\nWhereas options are below where none of them are correct.\nimage281\u00d7219 9.1 KB\nWhereas for Q2 (Punjab and Yamaha) I used the following code:\nprint(f'Pearson correlation for Punjab and Yamaha between price retention and column')\npb = df[(df['State'] == 'Punjab') & (df['Brand'] == 'Yamaha')]\nfor col in ['Mileage (km/l)', 'Avg Daily Distance (km)', 'Engine Capacity (cc)']:\n    pearson_corr = pb['price_retention'].corr(pb[col])\n    print(f'\\t{col:25} : {pearson_corr:.2f}')\n\nand got the following answers:\nPearson correlation for Punjab and Yamaha between price retention and column\n\tMileage (km/l)            : 0.24\n\tAvg Daily Distance (km)   : -0.06\n\tEngine Capacity (cc)      : -0.08\n\nThe options for Q2 are given below and 2 of them are correct (AvgDistance and Mileage).\nimage278\u00d7216 9.19 KB",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:50:45.323Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 141,
+        "readers_count": 140,
+        "score": 52.6,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Sarang Tambe",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22197,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/4",
+        "user_cakedate": "2023-09-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 603367,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-04T10:11:22.975Z",
+        "cooked": "@24f2006061 We are looking into it. We will update based on our analysis. Thanks for letting us know.\nKind regards",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:50:45.326Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 118,
+        "readers_count": 117,
+        "score": 23.2,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 603970,
+        "name": "Abhinav",
+        "username": "AbhinavOhri",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/abhinavohri/{size}/66966_2.png",
+        "created_at": "2025-03-03T18:06:51.395Z",
+        "cooked": "I used a python script to get the solution to quesiton 1 of week 6 graded assignment. It matches three options. Is this a bug or like we then need to analyze using the pearson coefficient to determine which option is the correct one\nimage1383\u00d7263 25 KB",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-06T13:51:35.154Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 101,
+        "readers_count": 100,
+        "score": 39.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Abhinav",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 31621,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/6",
+        "user_cakedate": "2024-06-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 604313,
+        "name": "Wasim Ansari",
+        "username": "24ds3000090",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000090/{size}/114005_2.png",
+        "created_at": "2025-03-07T17:12:28.199Z",
+        "cooked": "Dear Sirs, Can we have some response on these issues related particularly to the questions 1 and 2 of Graded Assignment 6. It looks like multiple options are correct in the given options. Any guidance or hint, on how to arrive at the right answer will be helpful. Thanks and regards. @carlton @Jivraj @Saransh_Saini",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-07T17:12:28.199Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 110,
+        "readers_count": 109,
+        "score": 46.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Wasim Ansari",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 38771,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/7",
+        "user_cakedate": "2024-09-26",
+        "user_birthdate": "1904-10-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 604590,
+        "name": "Shashannk",
+        "username": "23f2003413",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003413/{size}/66883_2.png",
+        "created_at": "2025-03-08T15:17:03.743Z",
+        "cooked": "Yeah\u2026Even I am facing the same issue. Out of the 4 options provided, 3 options are correct in my case both for Q1 & Q2, but both these questions are single-choice questions. Kindly look into it and help us out @carlton !",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-08T15:17:28.697Z",
+        "reply_count": 0,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 103,
+        "readers_count": 102,
+        "score": 25.6,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Shashannk",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 38771,
+          "username": "24ds3000090",
+          "name": "Wasim Ansari",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000090/{size}/114005_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22439,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/8",
+        "user_cakedate": "2023-09-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605292,
+        "name": "RAJ K BOOPATHI",
+        "username": "23ds2000092",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000092/{size}/67132_2.png",
+        "created_at": "2025-03-10T07:56:14.493Z",
+        "cooked": "I guess for both Q1 & Q2, we need to find the option that is having stronger correlation (positive/negative). Please correct me if I am wrong.",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-10T07:56:14.493Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 99,
+        "readers_count": 98,
+        "score": 19.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "RAJ K BOOPATHI",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17694,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/9",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605551,
+        "name": "Pradeep Mondal",
+        "username": "21f2000709",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "created_at": "2025-03-11T06:42:12.463Z",
+        "cooked": "Any updates on these? I am too facing the same issue.\n@carlton @Jivraj @Saransh_Saini",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-11T06:42:26.216Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 98,
+        "readers_count": 97,
+        "score": 24.6,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Pradeep Mondal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7034,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/10",
+        "user_cakedate": "2021-09-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605753,
+        "name": "Udipth",
+        "username": "Udipth",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/udipth/{size}/110859_2.png",
+        "created_at": "2025-03-11T17:42:32.616Z",
+        "cooked": "In GA6 for first 2 questions 3 out of 4 options are correct. Even the question is not clearly asking anything. Kindly suggest are we supposed to select the wrong one\nimage2083\u00d7575 47.6 KB",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-11T22:37:17.408Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 96,
+        "readers_count": 95,
+        "score": 19.2,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Udipth",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/revised-dates-tds-jan-2025/168506/6",
+            "internal": true,
+            "reflection": true,
+            "title": "Revised dates [TDS Jan 2025]",
+            "clicks": 6
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 26197,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/11",
+        "user_cakedate": "2024-01-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605798,
+        "name": "Shashannk",
+        "username": "23f2003413",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003413/{size}/66883_2.png",
+        "created_at": "2025-03-12T03:42:05.053Z",
+        "cooked": "Kindly update us regarding the status of Q1 & Q2 @carlton @Jivraj",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-12T03:42:05.053Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 18.4,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Shashannk",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22439,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/12",
+        "user_cakedate": "2023-09-22",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605954,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-03-12T11:29:04.042Z",
+        "cooked": "@Jivraj @carlton @Saransh_Saini\nDear TDS Team,\nThere are multiple issues in Graded Assignment 6 that require urgent attention:\n\nQuestions 1 and 2, along with their options, are ambiguous.\nIn Questions 3 and 4, I am unable to obtain an exact answer that matches any of the given options, despite trying multiple approaches, including the Excel regression method and other models in a Google Colab file.\nThe data for Question 10 is missing. I attempted to run the shapefile in QGIS, but it resulted in an error. Additionally, I searched for the shapefile of New York roads on official websites, but their servers are currently under maintenance.\n\nThe assignment deadline is approaching, but these issues remain unresolved. Kindly look into this matter at the earliest and provide a resolution as soon as possible.\nThank you for your support.",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-12T11:29:04.042Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 43.2,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/13",
+        "user_cakedate": "2021-09-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 605995,
+        "name": "Pradeep Mondal",
+        "username": "21f2000709",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "created_at": "2025-03-12T13:30:00.912Z",
+        "cooked": "Yes, there are no specifics in Q1 to Q4 and are quite ambiguous.\nFor instance:\n\nforecast the 2027 resale value of the Hero - HF Deluxe in Gujarat, using historical data.\n\nbut is this talking about the average resale value as no input features are specified?",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-12T13:37:30.962Z",
+        "reply_count": 1,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 28.2,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Pradeep Mondal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 7193,
+          "username": "lakshaygarg654",
+          "name": "LAKSHAY",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7034,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/14",
+        "user_cakedate": "2021-09-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606007,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-03-12T14:11:15.210Z",
+        "cooked": "Let\u2019s wait for their response.\nI submitted nearby option for Q3 and Q4",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-12T14:11:15.210Z",
+        "reply_count": 1,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 93,
+        "readers_count": 92,
+        "score": 28.4,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 7034,
+          "username": "21f2000709",
+          "name": "Pradeep Mondal",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/15",
+        "user_cakedate": "2021-09-12",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606017,
+        "name": "Vivek Rekha Ashoka",
+        "username": "23f3001745",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001745/{size}/122251_2.png",
+        "created_at": "2025-03-12T14:36:43.739Z",
+        "cooked": "@Jivraj @carlton @Saransh_Saini\nCan you please provide any update ASAP as the deadline for this GA coincides with Quiz 2. With many ambiguities unresolved it\u2019s hard to solve this and study for Quiz 2 (and do offline college work even though that\u2019s not your problem).\nThanks",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-12T14:36:43.739Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 93,
+        "readers_count": 92,
+        "score": 23.4,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Vivek Rekha Ashoka",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24623,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/16",
+        "user_cakedate": "2024-01-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606228,
+        "name": "Jivraj Singh Shekhawat",
+        "username": "Jivraj",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "created_at": "2025-03-13T09:47:03.906Z",
+        "cooked": "Hi @all\nQuestion intends you to select most correlated one.\nSelect option which is absolute highest.",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-13T09:47:03.906Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 89,
+        "readers_count": 88,
+        "score": 42.6,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Jivraj Singh Shekhawat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 15651,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/17",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606558,
+        "name": "M v Sunil",
+        "username": "Sunil_mv",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunil_mv/{size}/67570_2.png",
+        "created_at": "2025-03-14T14:30:12.725Z",
+        "cooked": "@Jivraj  - Can you please check answer choices for Q7 for GA6 where no choices are matching with the answer. The answer is coming to around 11.5 kms which is 11500 meters.\nQ.A wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Pine Pines Junction : (26.5596,-99.5336) ;Maple Fields Station : (26.4212,-99.4597);South Glen Crossing : (26.5962,-99.5243);Cedar Creek Retreat : (26.56,-99.4519) & Central Command Post Location: (26.4644,-99.4771) Using the Haversine package, calculate the distance from the Central Command Post to Pine Pines Junction. Which of the following is the MOST ACCURATE distance",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-14T14:30:12.725Z",
+        "reply_count": 2,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 83,
+        "readers_count": 82,
+        "score": 31.4,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "M v Sunil",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 43125,
+          "username": "24f2006061",
+          "name": "Lovepreet Singh",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2006061/{size}/112404_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 34965,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/18",
+        "user_cakedate": "2024-06-26",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606603,
+        "name": "Shashank Tripathi",
+        "username": "23f3001601",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001601/{size}/66764_2.png",
+        "created_at": "2025-03-14T16:06:48.081Z",
+        "cooked": "image1318\u00d7377 34.2 KB\nwhat to do if 3 options have same value -0.04 and all are correct?",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-14T16:06:48.081Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 78,
+        "readers_count": 77,
+        "score": 35.4,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Shashank Tripathi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23601,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/19",
+        "user_cakedate": "2023-10-05",
+        "user_birthdate": "1904-11-10",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 606761,
+        "name": "Khushi Shah",
+        "username": "23f2005471",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005471/{size}/68610_2.png",
+        "created_at": "2025-03-15T05:54:10.148Z",
+        "cooked": "@carlton @Jivraj\nMy question 7 for GA6 is :\nA wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Silver Springs Community : (42.1029,-85.665) ;Pleasant Harbor Community : (42.1238,-85.9043);Summit Shores Village : (42.0415,-85.8696);River Retreat Outpost : (42.0417,-85.6836) & Central Command Post Location: (42.0587,-85.7226) Using the Haversine package, calculate the distance from the Central Command Post to Silver Springs Community. Which of the following is the MOST ACCURATE distance\nWhose options provided are :\n10418 meters\n12287 meters\n10965 meters\n11149 meters\nHowever, after trying all methods out there my distance comes out to be 6873 meters, I selected 10418 as the answer (closest approximation to 6873 meters)\nI assume that the question must have been central command post to summit shores village (whose answer turns out to be 12287 meters)\nKindly look into the question, and let me know about the same (the destination from central command post)",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 44,
+        "updated_at": "2025-03-15T05:54:10.148Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 87,
+        "readers_count": 86,
+        "score": 16.8,
+        "yours": false,
+        "topic_id": 169283,
+        "topic_slug": "graded-assignment-6",
+        "display_username": "Khushi Shah",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 26496,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6/169283/20",
+        "user_cakedate": "2024-01-31",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      603963,
+      603964,
+      603966,
+      602355,
+      603367,
+      603970,
+      604313,
+      604590,
+      605292,
+      605551,
+      605753,
+      605798,
+      605954,
+      605995,
+      606007,
+      606017,
+      606228,
+      606558,
+      606603,
+      606761,
+      606802,
+      606808,
+      606825,
+      606854,
+      606897,
+      607050,
+      607057,
+      607119,
+      607151,
+      607211,
+      607252,
+      607272,
+      607273,
+      607277,
+      607316,
+      607333,
+      608219,
+      608222,
+      608561,
+      608883,
+      609762,
+      618164,
+      618197,
+      618321
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      98
+    ],
+    [
+      3,
+      102
+    ],
+    [
+      5,
+      100
+    ],
+    [
+      6,
+      101
+    ],
+    [
+      7,
+      97
+    ],
+    [
+      8,
+      96
+    ],
+    [
+      9,
+      94
+    ],
+    [
+      10,
+      93
+    ],
+    [
+      12,
+      92
+    ],
+    [
+      17,
+      91
+    ],
+    [
+      18,
+      90
+    ],
+    [
+      20,
+      89
+    ],
+    [
+      29,
+      88
+    ],
+    [
+      36,
+      87
+    ],
+    [
+      37,
+      86
+    ],
+    [
+      39,
+      85
+    ],
+    [
+      40,
+      84
+    ],
+    [
+      41,
+      82
+    ],
+    [
+      42,
+      62
+    ]
+  ],
+  "tags": [
+    "term1-2025",
+    "week-6"
+  ],
+  "tags_descriptions": {},
+  "id": 169283,
+  "title": "Graded assignment 6",
+  "fancy_title": "Graded assignment 6",
+  "posts_count": 44,
+  "created_at": "2025-03-06T13:48:38.931Z",
+  "views": 444,
+  "reply_count": 21,
+  "like_count": 16,
+  "last_posted_at": "2025-04-11T16:31:37.494Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "graded-assignment-6",
+  "category_id": 34,
+  "word_count": 2330,
+  "deleted_at": null,
+  "user_id": 15651,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_169283",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 46,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 1,
+  "participant_count": 23,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 7193,
+        "username": "lakshaygarg654",
+        "name": "LAKSHAY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7034,
+        "username": "21f2000709",
+        "name": "Pradeep Mondal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 34965,
+        "username": "Sunil_mv",
+        "name": "M v Sunil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunil_mv/{size}/67570_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 22439,
+        "username": "23f2003413",
+        "name": "Shashannk",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003413/{size}/66883_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 29558,
+        "username": "vidushi",
+        "name": "Vidushi Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vidushi/{size}/68215_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 26496,
+        "username": "23f2005471",
+        "name": "Khushi Shah",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005471/{size}/68610_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 24244,
+        "username": "swatikap",
+        "name": "Swati Kapoor",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/swatikap/{size}/66760_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 38011,
+        "username": "24ds3000028",
+        "name": "Amala Natarajan ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000028/{size}/111486_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 18074,
+        "username": "23f1001231",
+        "name": "PREMDEEP MAITI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001231/{size}/67068_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17736,
+        "username": "23f2000573",
+        "name": "B R GIRI SUBRAHMANYA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 11218,
+        "username": "Muthupalaniappan",
+        "name": "Muthupalaniappan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muthupalaniappan/{size}/18686_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20017,
+        "username": "Rishabh2",
+        "name": "Kumar Rishabh ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rishabh2/{size}/66901_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 26197,
+        "username": "Udipth",
+        "name": "Udipth",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/udipth/{size}/110859_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17694,
+        "username": "23ds2000092",
+        "name": "RAJ K BOOPATHI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000092/{size}/67132_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 43125,
+        "username": "24f2006061",
+        "name": "Lovepreet Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2006061/{size}/112404_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 31621,
+        "username": "AbhinavOhri",
+        "name": "Abhinav",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/abhinavohri/{size}/66966_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22197,
+        "username": "23f2005138",
+        "name": "Sarang Tambe",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005138/{size}/66754_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 24623,
+        "username": "23f3001745",
+        "name": "Vivek Rekha Ashoka",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001745/{size}/122251_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23601,
+        "username": "23f3001601",
+        "name": "Shashank Tripathi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001601/{size}/66764_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 38771,
+        "username": "24ds3000090",
+        "name": "Wasim Ansari",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000090/{size}/114005_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16397,
+        "username": "22f3001315",
+        "name": "Guddu Kumar Mishra ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001315/{size}/90556_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 15651,
+      "username": "Jivraj",
+      "name": "Jivraj Singh Shekhawat",
+      "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png"
+    },
+    "last_poster": {
+      "id": 24244,
+      "username": "swatikap",
+      "name": "Swati Kapoor",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/swatikap/{size}/66760_2.png"
+    },
+    "links": [
+      {
+        "url": "https://www2.census.gov/geo/tiger/TIGER2024/PRISECROADS/tl_2024_36_prisecroads.zip",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 16,
+        "user_id": 7034,
+        "domain": "www2.census.gov",
+        "root_domain": "census.gov"
+      },
+      {
+        "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23",
+        "title": "Nptel Seekh",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 11,
+        "user_id": 15651,
+        "domain": "seek.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/revised-dates-tds-jan-2025/168506/6",
+        "title": "Revised dates [TDS Jan 2025]",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 6,
+        "user_id": 15651,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "http://census.gov",
+        "title": "Census.gov | U.S. Census Bureau Homepage",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 7034,
+        "domain": "census.gov",
+        "root_domain": "census.gov"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

@@ -1,0 +1,1351 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 575221,
+        "name": "Shiya Rajendra Ramteke",
+        "username": "24ds3000064",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png",
+        "created_at": "2025-01-01T16:20:54.915Z",
+        "cooked": "I missed the end-term exam due to an urgent emergency.\nThe grading assignment indicates I\u2019m NOT eligible for a final score. Does that mean this subject wont be considered at all for the final course card?\nCan I still take the end-term exam and be excused from submitting the assignments and projects?",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2025-01-01T16:20:54.915Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 70,
+        "readers_count": 69,
+        "score": 22.8,
+        "yours": false,
+        "topic_id": 161072,
+        "topic_slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+        "display_username": "Shiya Rajendra Ramteke",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40442,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072/1",
+        "user_cakedate": "2024-10-20",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 575341,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2025-01-02T02:23:26.873Z",
+        "cooked": "\n\n\n 24ds3000064:\n\nCan I still take the end-term exam and be excused from submitting the assignments and projects?\n\n\nYes you dont have to submit your assignments but just give the End term. Just check if you have got the I grade",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2025-01-02T02:23:26.873Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 1,
+        "incoming_link_count": 1,
+        "reads": 66,
+        "readers_count": 65,
+        "score": 22.0,
+        "yours": false,
+        "topic_id": 161072,
+        "topic_slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072/2",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 579360,
+        "name": "Shiya Rajendra Ramteke",
+        "username": "24ds3000064",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png",
+        "created_at": "2025-01-13T16:11:47.948Z",
+        "cooked": "Yes, I got I grade, I registered for the courses opting for end term only and not repeating the entire course,\nI still got the assignments though, I can complete those, but I am not sure the new ones will be considered for evaluation, please clarify",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2025-01-13T16:11:47.948Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 36,
+        "readers_count": 35,
+        "score": 11.0,
+        "yours": false,
+        "topic_id": 161072,
+        "topic_slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+        "display_username": "Shiya Rajendra Ramteke",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40442,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072/3",
+        "user_cakedate": "2024-10-20",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 579366,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2025-01-13T16:14:37.047Z",
+        "cooked": "New ones wont be considered",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 4,
+        "updated_at": "2025-01-13T16:14:37.047Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 35,
+        "readers_count": 34,
+        "score": 40.8,
+        "yours": false,
+        "topic_id": 161072,
+        "topic_slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 40442,
+          "username": "24ds3000064",
+          "name": "Shiya Rajendra Ramteke",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072/4",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      575221,
+      575341,
+      579360,
+      579366
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      162
+    ],
+    [
+      3,
+      150
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 5,
+      "unread": 0,
+      "new_posts": 5,
+      "unread_posts": 5,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 173,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 30,
+      "unread": 0,
+      "new_posts": 56,
+      "unread_posts": 56,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1221,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178878,
+      "title": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+      "fancy_title": "Getting an api key error upon running npx -y promptfoo eval &ndash;config project-tds-virtual-ta-promptfoo.yaml",
+      "slug": "getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T15:59:44.146Z",
+      "last_posted_at": "2025-06-12T09:04:32.396Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T09:04:32.396Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 34,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23837,
+            "username": "23f1000129",
+            "name": "Suyash Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000129/{size}/122013_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 178898,
+      "title": "Api Key Error",
+      "fancy_title": "Api Key Error",
+      "slug": "api-key-error",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T18:29:53.636Z",
+      "last_posted_at": "2025-06-12T06:50:28.438Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T06:50:28.438Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 37,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 30904,
+            "username": "24ds2000087",
+            "name": "Banani Mallick",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds2000087/{size}/119469_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178881,
+      "title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "slug": "ga4-data-sourcing-discussion-thread-tds-may-2025",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2025-06-11T16:23:45.872Z",
+      "last_posted_at": "2025-06-11T16:23:46.149Z",
+      "bumped": true,
+      "bumped_at": "2025-06-11T16:23:46.149Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term2-2025",
+        "graded-assignment",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 42,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "miscellaneous",
+    "diploma-level"
+  ],
+  "tags_descriptions": {},
+  "id": 161072,
+  "title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+  "fancy_title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+  "posts_count": 4,
+  "created_at": "2025-01-01T16:20:54.529Z",
+  "views": 92,
+  "reply_count": 2,
+  "like_count": 2,
+  "last_posted_at": "2025-01-13T16:14:37.047Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+  "category_id": 34,
+  "word_count": 153,
+  "deleted_at": null,
+  "user_id": 40442,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_161072",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 4,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 1,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 161073,
+      "title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+      "fancy_title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+      "slug": "can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2025-01-01T16:22:19.528Z",
+      "last_posted_at": "2025-01-01T16:55:13.200Z",
+      "bumped": true,
+      "bumped_at": "2025-01-01T16:55:13.200Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 45,
+      "category_id": 7,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 40442,
+            "username": "24ds3000064",
+            "name": "Shiya Rajendra Ramteke",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15475,
+            "username": "22f3002293",
+            "name": "Rajat Goel",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 119,
+            "username": "SahuUtkarsh03",
+            "name": "Utkarsh Sahu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sahuutkarsh03/{size}/115915_2.png",
+            "primary_group_name": "24t2_ms4001",
+            "flair_name": "24t2_ms4001",
+            "flair_group_id": 404,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 41602,
+      "title": "Clarification Regarding End term Examination",
+      "fancy_title": "Clarification Regarding End term Examination",
+      "slug": "clarification-regarding-end-term-examination",
+      "posts_count": 11,
+      "reply_count": 3,
+      "highest_post_number": 12,
+      "image_url": null,
+      "created_at": "2022-03-24T08:38:16.152Z",
+      "last_posted_at": "2023-08-12T05:18:06.331Z",
+      "bumped": true,
+      "bumped_at": "2022-12-09T07:05:52.995Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 6,
+      "views": 456,
+      "category_id": 75,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 8728,
+            "username": "Srinidhi2268",
+            "name": "Srinidhi K",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/8dc957/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12375,
+            "username": "jayanth.v",
+            "name": "jayanth",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jayanth.v/{size}/31360_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12895,
+            "username": "Ganeshr",
+            "name": "Ganesh Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ganeshr/{size}/25473_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13448,
+            "username": "22f2000155",
+            "name": "Aanantha Priya S M",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000155/{size}/14225_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 13670,
+            "username": "pds_staff",
+            "name": "Discourse Staff",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/pds_staff/{size}/71791_2.png",
+            "admin": true,
+            "moderator": true,
+            "trust_level": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 85207,
+      "title": "Failing to attend the End Term exam",
+      "fancy_title": "Failing to attend the End Term exam",
+      "slug": "failing-to-attend-the-end-term-exam",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2023-04-28T10:14:18.244Z",
+      "last_posted_at": "2023-04-28T12:55:17.494Z",
+      "bumped": true,
+      "bumped_at": "2023-04-28T12:55:17.494Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational",
+        "end-term-exam"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 81,
+      "category_id": 32,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 1449,
+            "username": "89shayan",
+            "name": "SHAYAN CHAKRABORTY",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/89shayan/{size}/277_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 5662,
+            "username": "GBh",
+            "name": "Ganesh ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/g/9fc348/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 73063,
+      "title": "What will happen if i choose not to give End term exam?",
+      "fancy_title": "What will happen if i choose not to give End term exam?",
+      "slug": "what-will-happen-if-i-choose-not-to-give-end-term-exam",
+      "posts_count": 7,
+      "reply_count": 4,
+      "highest_post_number": 7,
+      "image_url": null,
+      "created_at": "2022-12-08T16:16:22.526Z",
+      "last_posted_at": "2022-12-09T08:15:12.749Z",
+      "bumped": true,
+      "bumped_at": "2022-12-09T08:15:12.749Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 165,
+      "category_id": 32,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 4211,
+            "username": "riddhima",
+            "name": "Riddhima Tanwar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/riddhima/{size}/495_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 4025,
+            "username": "M_NAGARAJAN",
+            "name": "M NAGARAJAN",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/m_nagarajan/{size}/466_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2382,
+            "username": "VikasJha",
+            "name": "Vikas Jha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikasjha/{size}/77_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 2554,
+            "username": "harshil",
+            "name": "Harshil",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harshil/{size}/61425_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 145235,
+      "title": "Absent for end term",
+      "fancy_title": "Absent for end term",
+      "slug": "absent-for-end-term",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2024-09-09T13:54:20.268Z",
+      "last_posted_at": "2024-09-15T12:29:17.317Z",
+      "bumped": true,
+      "bumped_at": "2024-09-10T13:31:57.634Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "guidelines"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 62,
+      "category_id": 7,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 32937,
+            "username": "24f2001880",
+            "name": "Ghantasala G P H Dhruvann ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2001880/{size}/123056_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 25930,
+            "username": "24f1000637",
+            "name": "Soham Biren Katlariwala",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1000637/{size}/89426_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3230,
+            "username": "shriaviator",
+            "name": "Srinivas Chilukuri",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/59ef9b/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 15475,
+        "username": "22f3002293",
+        "name": "Rajat Goel",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 40442,
+        "username": "24ds3000064",
+        "name": "Shiya Rajendra Ramteke",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      }
+    ],
+    "created_by": {
+      "id": 40442,
+      "username": "24ds3000064",
+      "name": "Shiya Rajendra Ramteke",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000064/{size}/111221_2.png"
+    },
+    "last_poster": {
+      "id": 15475,
+      "username": "22f3002293",
+      "name": "Rajat Goel",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

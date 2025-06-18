@@ -1,0 +1,2605 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 592179,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2025-02-08T14:39:41.571Z",
+        "cooked": "Please post any questions related to Graded Assignment 5 - Data Preparation.\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\nDeadline:  2025-02-15T18:30:00Z\n@Jivraj @Saransh_Saini @carlton",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-19T10:45:28.590Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 339,
+        "reads": 311,
+        "readers_count": 310,
+        "score": 1756.2,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://exam.sanand.workers.dev/tds-2025-01-ga5",
+            "internal": false,
+            "reflection": false,
+            "title": "Technical Assessment",
+            "clicks": 16
+          }
+        ],
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/1",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 592180,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2025-02-08T14:40:01.609Z",
+        "cooked": "",
+        "post_number": 2,
+        "post_type": 3,
+        "posts_count": 103,
+        "updated_at": "2025-02-08T14:40:01.609Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 299,
+        "readers_count": 298,
+        "score": 63.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "pinned.enabled",
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/2",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 593372,
+        "name": "Hisham Kadambot",
+        "username": "23f1002630",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png",
+        "created_at": "2025-02-10T06:17:22.155Z",
+        "cooked": "image1448\u00d7623 16.3 KB\ni can\u2019t load my questions",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-10T06:17:22.155Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 284,
+        "readers_count": 283,
+        "score": 70.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Hisham Kadambot",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24685,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/3",
+        "user_cakedate": "2024-01-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 593409,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2025-02-10T07:29:12.849Z",
+        "cooked": "@23f1002630 - thanks for raising this. It\u2019s fixed and won\u2019t re-occur for anyone.\nWhat happened? I picked random duration from the video of 10-40 seconds, but forgot to ensure that the end time should not exceed the video length. That\u2019s what I fixed.",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-10T07:29:12.849Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 241,
+        "readers_count": 240,
+        "score": 57.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "reply_to_user": {
+          "id": 24685,
+          "username": "23f1002630",
+          "name": "Hisham Kadambot",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/4",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 593506,
+        "name": "Hisham Kadambot",
+        "username": "23f1002630",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png",
+        "created_at": "2025-02-10T11:25:56.044Z",
+        "cooked": "image1158\u00d7466 11.8 KB\nIt was solved but again I\u2019m facing the same issue",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-10T11:25:56.044Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 227,
+        "readers_count": 226,
+        "score": 70.2,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Hisham Kadambot",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24685,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/5",
+        "user_cakedate": "2024-01-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 593671,
+        "name": "Hisham Kadambot",
+        "username": "23f1002630",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png",
+        "created_at": "2025-02-10T18:54:19.804Z",
+        "cooked": "@s.anand @Jivraj  I\u2019m still facing the issue.",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-10T18:54:19.804Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 218,
+        "readers_count": 217,
+        "score": 53.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Hisham Kadambot",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 24685,
+          "username": "23f1002630",
+          "name": "Hisham Kadambot",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24685,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/6",
+        "user_cakedate": "2024-01-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 593896,
+        "name": "Nilay Chugh",
+        "username": "nilaychugh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nilaychugh/{size}/84996_2.png",
+        "created_at": "2025-02-11T16:21:34.546Z",
+        "cooked": "i guess there\u2019s some issue in 5th question as i have correctly filtered the data in OpenRefine 2-3 times but still getting incorrect in the portal.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-11T16:21:34.546Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 211,
+        "readers_count": 210,
+        "score": 56.8,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Nilay Chugh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23523,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/7",
+        "user_cakedate": "2023-10-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 594108,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-12T12:52:01.867Z",
+        "cooked": "OpenRefine question has historically been a tricky question to get right. Check out some past TA sessions in previous term for solving it, or previous discourse posts.\nKind regards",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-12T12:52:01.867Z",
+        "reply_count": 3,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 201,
+        "readers_count": 200,
+        "score": 54.8,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 23523,
+          "username": "nilaychugh",
+          "name": "Nilay Chugh",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nilaychugh/{size}/84996_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 594381,
+        "name": "Guddu Kumar Mishra ",
+        "username": "22f3001315",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001315/{size}/90556_2.png",
+        "created_at": "2025-02-13T08:51:51.360Z",
+        "cooked": "DOUBT IN -Q 9 Sir @carlton\nMiranda followed the elusive figure.  In the dim corridor,......................\n\nI listened it ,every words and spellings are matching still this error:\nError: Words are too different",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-13T08:51:51.360Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 199,
+        "readers_count": 198,
+        "score": 44.4,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Guddu Kumar Mishra ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16397,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/9",
+        "user_cakedate": "2023-01-27",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 594585,
+        "name": "Nelson Jochim DSouza",
+        "username": "Nelson",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nelson/{size}/66583_2.png",
+        "created_at": "2025-02-13T13:56:56.738Z",
+        "cooked": "Cleaning Data with OpenRefine\nKindly check the question and the answer. I found below cities for S\u00e3o Paulo.\nHowever, it says my answer is incorrect.\n\nHow many units of Bacon were sold in S\u00e3o Paulo on transactions with at least 151 units?\n\ncity\nSao Paolo\nSao Paoulo\nSao Paulo\nSao Pualo\nSau Paulo\nS\u00e3o Paulo\n\n\nimage318\u00d7183 5.46 KB",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-13T13:56:56.738Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 196,
+        "readers_count": 195,
+        "score": 38.8,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Nelson Jochim DSouza",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12220,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/10",
+        "user_cakedate": "2022-04-30",
+        "user_birthdate": "1904-08-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595055,
+        "name": "Aniruddha Mukherjee",
+        "username": "23f1003186",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png",
+        "created_at": "2025-02-14T16:15:42.519Z",
+        "cooked": "Wrong / Confusing question Prof\nThe top line mentions \u201cSaturdays\u201d whereas the bottom line mentions \u201cSundays\u201d\nPlease clarify \u201cSUNDAY\u201d or \u201cSATURDAY\u201d?\ngrab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__0032531920\u00d71816 271 KB",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-14T16:15:42.519Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 184,
+        "readers_count": 183,
+        "score": 51.4,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Aniruddha Mukherjee",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19230,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/11",
+        "user_cakedate": "2023-06-08",
+        "user_birthdate": "1904-09-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595057,
+        "name": "Aniruddha Mukherjee",
+        "username": "23f1003186",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png",
+        "created_at": "2025-02-14T16:19:36.462Z",
+        "cooked": "Update: I tried for both (thank god for filters in Excel) and Sunday is what the question is asking for. The Instruction above for \u201cSaturday\u201d is incorrect- maybe the logic generating different questions for different students can be tweaked-\nThank you",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-14T16:19:36.462Z",
+        "reply_count": 1,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 170,
+        "readers_count": 169,
+        "score": 53.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Aniruddha Mukherjee",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19230,
+          "username": "23f1003186",
+          "name": "Aniruddha Mukherjee",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19230,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/12",
+        "user_cakedate": "2023-06-08",
+        "user_birthdate": "1904-09-19",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595100,
+        "name": "Aniruddha Mukherjee",
+        "username": "23f1003186",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png",
+        "created_at": "2025-02-14T17:47:55.912Z",
+        "cooked": "I\u2019ve attempted this question several times and I\u2019m fairly certain that the answer to this question is incorrect. I\u2019d be grateful if the answer to this question was re-checked. I can share the answer I\u2019m certain about here, however I do not think it would be prudent to do so given this is a public forum.\nPlease consider my request and double check-\n@Jivraj, @carlton\nThank you\ngrab-IIT-Madras--Microsoft Edge_at_23.15.25_on__14-02-2025__0032551920\u00d71317 210 KB",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-14T17:50:12.707Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 174,
+        "readers_count": 173,
+        "score": 49.4,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Aniruddha Mukherjee",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19230,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/13",
+        "user_cakedate": "2023-06-08",
+        "user_birthdate": "1904-09-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595527,
+        "name": "NamanBeri",
+        "username": "23f2003717",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png",
+        "created_at": "2025-02-15T16:24:23.831Z",
+        "cooked": "image817\u00d7458 29.3 KB\nthis is my data before date filter - for question 1 please conform am i doing correct. and tell how to do the date filtering as some are in mm-dd-yyyy or yyyy-mm-dd format.\nas this data is less i did it manually\n\n\n\n\nSUM OF COST\n14891.00\n\n\n\n\nSUM OF SALES\n31004.00\n\n\nTOTAL\n45895.00\n\n\nTOTAL MARGIN\n0.351083996\n\n\n\nbut this is not correct please guide",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T16:24:23.831Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 167,
+        "readers_count": 166,
+        "score": 43.0,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "NamanBeri",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22327,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/14",
+        "user_cakedate": "2023-09-20",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595540,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2025-02-15T16:45:07.123Z",
+        "cooked": "@23f1003186 \u2013 thanks for flagging this. You\u2019re right. I\u2019ve fixed this error. ",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T16:45:07.123Z",
+        "reply_count": 0,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 156,
+        "readers_count": 155,
+        "score": 60.8,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "reply_to_user": {
+          "id": 19230,
+          "username": "23f1003186",
+          "name": "Aniruddha Mukherjee",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/15",
+        "user_cakedate": "2022-01-03",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595564,
+        "name": "Aniruddha Mukherjee",
+        "username": "23f1003186",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png",
+        "created_at": "2025-02-15T17:05:24.887Z",
+        "cooked": "Any signal for this question?\n@s.anand @carlton",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T17:05:24.887Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 157,
+        "readers_count": 156,
+        "score": 51.0,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Aniruddha Mukherjee",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19230,
+          "username": "23f1003186",
+          "name": "Aniruddha Mukherjee",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19230,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/16",
+        "user_cakedate": "2023-06-08",
+        "user_birthdate": "1904-09-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595571,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2025-02-15T17:13:23.480Z",
+        "cooked": "@23f1003186 thanks again for flagging this. This is fixed, too. ",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T17:13:23.480Z",
+        "reply_count": 1,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 157,
+        "readers_count": 156,
+        "score": 36.0,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "reply_to_user": {
+          "id": 19230,
+          "username": "23f1003186",
+          "name": "Aniruddha Mukherjee",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/17",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595576,
+        "name": "NamanBeri",
+        "username": "23f2003717",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png",
+        "created_at": "2025-02-15T17:19:27.591Z",
+        "cooked": "tried google sheets - it autoformatted my date data, also i realized later i was applying the formula the wrong way.\nimage987\u00d7176 14.4 KB\nDate formatted and filtered successfully",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T17:19:27.591Z",
+        "reply_count": 0,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 155,
+        "readers_count": 154,
+        "score": 50.6,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "NamanBeri",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 22327,
+          "username": "23f2003717",
+          "name": "NamanBeri",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22327,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/18",
+        "user_cakedate": "2023-09-20",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595702,
+        "name": "Ansh bansal",
+        "username": "23f2004752",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004752/{size}/68296_2.png",
+        "created_at": "2025-02-15T23:22:12.712Z",
+        "cooked": "Can you provide the link for that session.",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-15T23:22:12.712Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 167,
+        "readers_count": 166,
+        "score": 32.8,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "Ansh bansal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21948,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/19",
+        "user_cakedate": "2023-09-18",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 595747,
+        "name": "NamanBeri",
+        "username": "23f2003717",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png",
+        "created_at": "2025-02-16T04:42:44.483Z",
+        "cooked": "image441\u00d7323 4.22 KB\nHow many units of Computer were sold in London on transactions with at least 39 units?\nplease check my answer is not correct - (6193)\nplease guide",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 103,
+        "updated_at": "2025-02-16T04:42:44.483Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 7,
+        "reads": 169,
+        "readers_count": 168,
+        "score": 68.2,
+        "yours": false,
+        "topic_id": 166576,
+        "topic_slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+        "display_username": "NamanBeri",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22327,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576/20",
+        "user_cakedate": "2023-09-20",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      592179,
+      592180,
+      593372,
+      593409,
+      593506,
+      593671,
+      593896,
+      594108,
+      594381,
+      594585,
+      595055,
+      595057,
+      595100,
+      595527,
+      595540,
+      595564,
+      595571,
+      595576,
+      595702,
+      595747,
+      595979,
+      595983,
+      595999,
+      596142,
+      596509,
+      596567,
+      596689,
+      596731,
+      596739,
+      596942,
+      596979,
+      596975,
+      596996,
+      597009,
+      597106,
+      597114,
+      597131,
+      597134,
+      597161,
+      597165,
+      597169,
+      597175,
+      597221,
+      597225,
+      597255,
+      597259,
+      597263,
+      597269,
+      597270,
+      597271,
+      597357,
+      597379,
+      597381,
+      597382,
+      597380,
+      597387,
+      597394,
+      597430,
+      597455,
+      597462,
+      597465,
+      597466,
+      597521,
+      597544,
+      597549,
+      597558,
+      597701,
+      597704,
+      597724,
+      597737,
+      597752,
+      597754,
+      597825,
+      597896,
+      597907,
+      597922,
+      597932,
+      597958,
+      597969,
+      597974,
+      597982,
+      597983,
+      598021,
+      598086,
+      598087,
+      598105,
+      598106,
+      598140,
+      598141,
+      598199,
+      598766,
+      598869,
+      599117,
+      599196,
+      599197,
+      599198,
+      599200,
+      599201,
+      599346,
+      602912,
+      602915,
+      603351,
+      605775
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      124
+    ],
+    [
+      3,
+      122
+    ],
+    [
+      7,
+      121
+    ],
+    [
+      8,
+      120
+    ],
+    [
+      9,
+      119
+    ],
+    [
+      11,
+      118
+    ],
+    [
+      14,
+      117
+    ],
+    [
+      20,
+      116
+    ],
+    [
+      25,
+      114
+    ],
+    [
+      30,
+      113
+    ],
+    [
+      43,
+      112
+    ],
+    [
+      67,
+      111
+    ],
+    [
+      90,
+      110
+    ],
+    [
+      91,
+      109
+    ],
+    [
+      92,
+      108
+    ],
+    [
+      99,
+      107
+    ],
+    [
+      100,
+      102
+    ],
+    [
+      101,
+      101
+    ],
+    [
+      102,
+      100
+    ],
+    [
+      103,
+      93
+    ]
+  ],
+  "tags": [
+    "term1-2025",
+    "graded-assignment",
+    "week-5"
+  ],
+  "tags_descriptions": {},
+  "id": 166576,
+  "title": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]",
+  "fancy_title": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]",
+  "posts_count": 103,
+  "created_at": "2025-02-08T14:39:41.393Z",
+  "views": 883,
+  "reply_count": 61,
+  "like_count": 30,
+  "last_posted_at": "2025-03-11T22:41:00.273Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": true,
+  "archetype": "regular",
+  "slug": "ga5-data-preparation-discussion-thread-tds-jan-2025",
+  "category_id": 34,
+  "word_count": 4410,
+  "deleted_at": null,
+  "user_id": 9419,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_166576",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 107,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 1,
+  "participant_count": 40,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "indirectly_assigned_to": {
+    "602912": {
+      "assigned_to": {
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+      },
+      "post_number": 104,
+      "assignment_note": null,
+      "assignment_status": null
+    }
+  },
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 10,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 8,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 15845,
+        "username": "22f3002498",
+        "name": "Nanditha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002498/{size}/67221_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 35950,
+        "username": "Algsoch",
+        "name": "Vicky Kumar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25580,
+        "username": "23f3004114",
+        "name": "Naga durga prasad E",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004114/{size}/68102_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19230,
+        "username": "23f1003186",
+        "name": "Aniruddha Mukherjee",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003186/{size}/66745_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7193,
+        "username": "lakshaygarg654",
+        "name": "LAKSHAY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 9419,
+        "username": "s.anand",
+        "name": "Anand S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "post_count": 4,
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_color": "000",
+        "flair_bg_color": "f2c26e",
+        "flair_group_id": 54,
+        "trust_level": 4
+      },
+      {
+        "id": 16397,
+        "username": "22f3001315",
+        "name": "Guddu Kumar Mishra ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001315/{size}/90556_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 24685,
+        "username": "23f1002630",
+        "name": "Hisham Kadambot",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002630/{size}/123041_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25583,
+        "username": "23f3004024",
+        "name": "Thereasa Joe J",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004024/{size}/67189_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 35256,
+        "username": "Jayeshbansal",
+        "name": "Jayesh Bansal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jayeshbansal/{size}/66832_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 30376,
+        "username": "24f2003130",
+        "name": "Shambhavi ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2003130/{size}/132501_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22327,
+        "username": "23f2003717",
+        "name": "NamanBeri",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17694,
+        "username": "23ds2000092",
+        "name": "RAJ K BOOPATHI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000092/{size}/67132_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 18297,
+        "username": "23f1002382",
+        "name": "Andrew David",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 26197,
+        "username": "Udipth",
+        "name": "Udipth",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/udipth/{size}/110859_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23523,
+        "username": "nilaychugh",
+        "name": "Nilay Chugh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nilaychugh/{size}/84996_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21948,
+        "username": "23f2004752",
+        "name": "Ansh bansal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004752/{size}/68296_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22439,
+        "username": "23f2003413",
+        "name": "Shashannk",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003413/{size}/66883_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22530,
+        "username": "22f2000113",
+        "name": "Maheshwar Ture",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000113/{size}/67775_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23311,
+        "username": "23f2004313",
+        "name": "Vedant Baburao Kornule",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004313/{size}/113925_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 13078,
+        "username": "Saransh_Saini",
+        "name": "Saransh Saini",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16874,
+        "username": "23ds1000022",
+        "name": "Srividhya",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000022/{size}/66982_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 9419,
+      "username": "s.anand",
+      "name": "Anand S",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+    },
+    "last_poster": {
+      "id": 15651,
+      "username": "Jivraj",
+      "name": "Jivraj Singh Shekhawat",
+      "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png"
+    },
+    "links": [
+      {
+        "url": "https://exam.sanand.workers.dev/tds-2025-01-ga5",
+        "title": "Technical Assessment",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 16,
+        "user_id": 9419,
+        "domain": "exam.sanand.workers.dev",
+        "root_domain": "sanand.workers.dev"
+      },
+      {
+        "url": "https://duckdb.org/docs/sql/query_syntax/unnest.html",
+        "title": "Unnesting \u2013 DuckDB",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 11,
+        "user_id": 16094,
+        "domain": "duckdb.org",
+        "root_domain": "duckdb.org"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1iTygvMAQdNY9O09An0LZMyt2sFZufcLl/view?usp=sharing&t=4431",
+        "title": "Live Session - TDS - 2025/02/18 16:56 GMT+05:30 - Recording - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 13078,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

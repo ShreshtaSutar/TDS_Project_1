@@ -1,0 +1,2348 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 601985,
+        "name": "HARISH. S",
+        "username": "HARISH.S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png",
+        "created_at": "2025-03-02T04:22:49.352Z",
+        "cooked": "My project 1 marks are not showing in the dashboard. please check on that. i submitted my project on 16.02,2025\n23f3000975@ds.study.iitm.ac.in  - my id",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-02T04:25:23.832Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 151,
+        "readers_count": 150,
+        "score": 44.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "HARISH. S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23180,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/1",
+        "user_cakedate": "2023-10-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 602014,
+        "name": "Sakthivel S",
+        "username": "23f2000237",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000237/{size}/66999_2.png",
+        "created_at": "2025-03-02T05:18:57.250Z",
+        "cooked": "Project results have not been released yet. They have posponed everything.\nPlease look into this post.\n\n\n\n\nRevised dates [TDS Jan 2025] Tools in Data Science\n\n\n    A few updates on dates. Hope this eases pressure a little. \n\nGraded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.\nProject 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.\nGraded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.\nProject 1 results will be released by 16 Mar 2025.\n\nThe TDS course page now reflects these dates.\n  \n\n",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-02T05:18:57.250Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 145,
+        "readers_count": 144,
+        "score": 48.0,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Sakthivel S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/revised-dates-tds-jan-2025/168506",
+            "internal": true,
+            "reflection": false,
+            "title": "Revised dates [TDS Jan 2025]",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17862,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/2",
+        "user_cakedate": "2023-06-03",
+        "user_birthdate": "1904-08-13",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 611830,
+        "name": "Ajit",
+        "username": "Nomad",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nomad/{size}/345_2.png",
+        "created_at": "2025-03-27T07:45:03.147Z",
+        "cooked": "Hi @carlton,\nMy Project 1 scores are not visible on the part, I have definitely submitted before the deadline and on the grades section - its coming as not submitted. I have mailed support team as well. Will it be possible to check the same in any manner.\nRegards,\nAjit",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-27T07:45:03.147Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 34.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Ajit",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 5168,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/4",
+        "user_cakedate": "2021-05-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 611833,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-27T07:49:58.069Z",
+        "cooked": "No one has received their Project 1 scores yet. We are hoping to very soon announce preliminary results. (maybe in 24 hours or so). Depends how many bugs we get bitten by.\nKind regards",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-27T07:49:58.069Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 87,
+        "readers_count": 86,
+        "score": 37.4,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 5168,
+          "username": "Nomad",
+          "name": "Ajit",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nomad/{size}/345_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612137,
+        "name": "Pradeep Mondal",
+        "username": "21f2000709",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "created_at": "2025-03-28T08:08:38.183Z",
+        "cooked": "@carlton any updates on the Project 1 results?",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T08:08:38.183Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 85,
+        "readers_count": 84,
+        "score": 21.8,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Pradeep Mondal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7034,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/6",
+        "user_cakedate": "2021-09-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612148,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-28T08:59:17.000Z",
+        "cooked": "We are releasing them today. You will get an email with lots of goodies in it \nKind regards",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T08:59:57.331Z",
+        "reply_count": 3,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 83,
+        "readers_count": 82,
+        "score": 91.4,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 7034,
+          "username": "21f2000709",
+          "name": "Pradeep Mondal",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/7",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612152,
+        "name": "Pradeep Mondal",
+        "username": "21f2000709",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "created_at": "2025-03-28T09:19:54.084Z",
+        "cooked": "\n\n\n carlton:\n\nlots of goodies in it \n\n\nIt is more frightening now\u2026",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T09:19:54.084Z",
+        "reply_count": 0,
+        "reply_to_post_number": 7,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 80,
+        "readers_count": 79,
+        "score": 45.6,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Pradeep Mondal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7034,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/8",
+        "user_cakedate": "2021-09-09",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612166,
+        "name": "Shouvik Roy ",
+        "username": "roy2003",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/roy2003/{size}/66760_2.png",
+        "created_at": "2025-03-28T09:33:09.741Z",
+        "cooked": "If we failed in project1 then we will be awarded free marks in Project2 Please conform that @carlton at least give us some awards for our hard work (Summer special offer), what do you say?",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T09:33:09.741Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 80,
+        "readers_count": 79,
+        "score": 30.6,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Shouvik Roy ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17483,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/9",
+        "user_cakedate": "2023-06-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612270,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-03-28T16:02:30.298Z",
+        "cooked": "I think something heavy is coming\u2026 But it\u2019s 9:30, and nothing\u2019s here yet. Taking their time, I see!",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T16:02:30.298Z",
+        "reply_count": 1,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 73,
+        "readers_count": 72,
+        "score": 54.4,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/10",
+        "user_cakedate": "2021-09-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "rocket",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612280,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-28T16:58:47.000Z",
+        "cooked": "We have marks but we are sending you a package of items as well, for your benefit.",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T16:59:05.497Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 76,
+        "readers_count": 75,
+        "score": 95.0,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 7193,
+          "username": "lakshaygarg654",
+          "name": "LAKSHAY",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/11",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          },
+          {
+            "id": "clap",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612316,
+        "name": "ABHIJEET KUMAR ",
+        "username": "23f2004912",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+        "created_at": "2025-03-28T18:29:24.959Z",
+        "cooked": "We have been waiting for you for a month\u2026 and our patience is wearing thin\n1306411745_marco_telugu-jpg-11280\u00d7720 133 KB",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-28T18:29:24.959Z",
+        "reply_count": 2,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 12,
+        "reads": 75,
+        "readers_count": 74,
+        "score": 174.6,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "ABHIJEET KUMAR ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 6,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21980,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/12",
+        "user_cakedate": "2023-09-18",
+        "reactions": [
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 5
+          },
+          {
+            "id": "open_mouth",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 6,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 612556,
+        "name": "Shouvik Roy ",
+        "username": "roy2003",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/roy2003/{size}/66760_2.png",
+        "created_at": "2025-03-29T08:27:09.865Z",
+        "cooked": "you are dealing with the wrong wrong person",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-29T08:27:09.865Z",
+        "reply_count": 0,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 58,
+        "readers_count": 57,
+        "score": 11.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Shouvik Roy ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 21980,
+          "username": "23f2004912",
+          "name": "ABHIJEET KUMAR ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17483,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/13",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 613018,
+        "name": "Diya Dogra",
+        "username": "22f3000118",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000118/{size}/119476_2.png",
+        "created_at": "2025-03-29T17:41:52.273Z",
+        "cooked": "sir its not showing anything for me, ive got no mail, what should i do?",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-29T17:41:52.273Z",
+        "reply_count": 1,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 55,
+        "readers_count": 54,
+        "score": 15.6,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Diya Dogra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15168,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/14",
+        "user_cakedate": "2022-09-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 613033,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-29T17:56:16.566Z",
+        "cooked": "Screenshot 2025-03-29 at 11.24.19 pm811\u00d7206 29.2 KB\nYou failed pre requisites check. Hence there is no evaluation email.\ni.e. the score is 0 which will be pushed to dashboard on after 1/4/25\nOnly those that passed the pre requisite check got emails with scores.",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-29T17:56:16.566Z",
+        "reply_count": 3,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 31.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 15168,
+          "username": "22f3000118",
+          "name": "Diya Dogra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000118/{size}/119476_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/15",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 613123,
+        "name": "HARISH. S",
+        "username": "HARISH.S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png",
+        "created_at": "2025-03-30T03:54:28.227Z",
+        "cooked": "Sir can you check and say if I passed or not. The link that I submitted for project 1 in the gform contains two links. I wrote \u2018and\u2019 between two website link.\nMy mail id: 23f3000975@ds.study.iitm.ac.in",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-30T03:55:24.354Z",
+        "reply_count": 1,
+        "reply_to_post_number": 15,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 21.8,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "HARISH. S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23180,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/16",
+        "user_cakedate": "2023-10-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 613874,
+        "name": "Rahul Pathak",
+        "username": "rahul_pathak12",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rahul_pathak12/{size}/68308_2.png",
+        "created_at": "2025-03-31T12:19:54.944Z",
+        "cooked": "Sir, I hope you\u2019re doing well. I haven\u2019t received any email regarding Project 1 results. Could you please confirm if there\u2019s an issue?\nmy mail id: 23f2000798@ds.study.iitm.ac.in",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-03-31T12:19:54.944Z",
+        "reply_count": 1,
+        "reply_to_post_number": 15,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 29.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Rahul Pathak",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20318,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/17",
+        "user_cakedate": "2023-06-12",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 615198,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-04-04T09:08:56.128Z",
+        "cooked": "No issue with your submission, you will get a good score.\nKind regards",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-04-04T09:08:56.128Z",
+        "reply_count": 0,
+        "reply_to_post_number": 17,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 13.0,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 20318,
+          "username": "rahul_pathak12",
+          "name": "Rahul Pathak",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rahul_pathak12/{size}/68308_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/18",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 615199,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-04-04T09:10:28.633Z",
+        "cooked": "Hi you were supposed to provide just one github link in the format specified. You failed to do that and therefore your submission was not evaluated.\nKind regards",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-04-04T09:10:28.633Z",
+        "reply_count": 0,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 8.2,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 23180,
+          "username": "HARISH.S",
+          "name": "HARISH. S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/19",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 615206,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-04-04T09:26:25.379Z",
+        "cooked": "\n\n\n 23f2004912:\n\n1306411745_marco_telugu-jpg-11280\u00d7720 133 KB\n\n\ntools in datascience1024\u00d7939 134 KB",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-04-04T09:26:56.571Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 133.6,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 8,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/20",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 7
+          },
+          {
+            "id": "open_mouth",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 8,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 615216,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-04-04T09:52:13.054Z",
+        "cooked": "\n\n\n carlton:\n\n1024\u00d7939 134 KB\n\n\n\u201cHarder the shell, softer the soul\u201d \nContext - form acceptance",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 23,
+        "updated_at": "2025-04-04T09:52:13.054Z",
+        "reply_count": 1,
+        "reply_to_post_number": 20,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 50,
+        "readers_count": 49,
+        "score": 29.4,
+        "yours": false,
+        "topic_id": 168916,
+        "topic_slug": "project-1-tds-score-not-showing-i",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/project-1-tds-score-not-showing-i/168916/21",
+        "user_cakedate": "2021-09-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      601985,
+      602014,
+      611830,
+      611833,
+      612137,
+      612148,
+      612152,
+      612166,
+      612270,
+      612280,
+      612316,
+      612556,
+      613018,
+      613033,
+      613123,
+      613874,
+      615198,
+      615199,
+      615206,
+      615216,
+      615233,
+      615519,
+      615539
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      102
+    ],
+    [
+      3,
+      77
+    ],
+    [
+      5,
+      76
+    ],
+    [
+      12,
+      75
+    ],
+    [
+      15,
+      74
+    ],
+    [
+      16,
+      73
+    ],
+    [
+      17,
+      69
+    ],
+    [
+      22,
+      68
+    ]
+  ],
+  "tags": [
+    "clarification",
+    "tds-project-1"
+  ],
+  "tags_descriptions": {},
+  "id": 168916,
+  "title": "Project 1 tds score not showing i",
+  "fancy_title": "Project 1 tds score not showing i",
+  "posts_count": 23,
+  "created_at": "2025-03-02T04:22:49.157Z",
+  "views": 352,
+  "reply_count": 18,
+  "like_count": 35,
+  "last_posted_at": "2025-04-05T10:57:46.321Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "project-1-tds-score-not-showing-i",
+  "category_id": 34,
+  "word_count": 584,
+  "deleted_at": null,
+  "user_id": 23180,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_168916",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 24,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 12,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 7,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 21980,
+        "username": "23f2004912",
+        "name": "ABHIJEET KUMAR ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7193,
+        "username": "lakshaygarg654",
+        "name": "LAKSHAY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23180,
+        "username": "HARISH.S",
+        "name": "HARISH. S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7034,
+        "username": "21f2000709",
+        "name": "Pradeep Mondal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000709/{size}/92157_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17483,
+        "username": "roy2003",
+        "name": "Shouvik Roy ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/roy2003/{size}/66760_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 5168,
+        "username": "Nomad",
+        "name": "Ajit",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nomad/{size}/345_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15692,
+        "username": "23f1000598",
+        "name": "Mayank Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000598/{size}/56200_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20318,
+        "username": "rahul_pathak12",
+        "name": "Rahul Pathak",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rahul_pathak12/{size}/68308_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 11755,
+        "username": "21f3002277",
+        "name": "VIKASH PRASAD",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002277/{size}/12741_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17862,
+        "username": "23f2000237",
+        "name": "Sakthivel S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000237/{size}/66999_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15168,
+        "username": "22f3000118",
+        "name": "Diya Dogra",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000118/{size}/119476_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      }
+    ],
+    "created_by": {
+      "id": 23180,
+      "username": "HARISH.S",
+      "name": "HARISH. S",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png"
+    },
+    "last_poster": {
+      "id": 11755,
+      "username": "21f3002277",
+      "name": "VIKASH PRASAD",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002277/{size}/12741_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

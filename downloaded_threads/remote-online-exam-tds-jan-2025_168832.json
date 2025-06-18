@@ -1,0 +1,2672 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 601561,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-01T08:54:26.517Z",
+        "cooked": "This is the official page for discussing anything related to the ROE itself. Please limit posts on this thread to technical questions or doubts regarding the ROE itself.\nThe Remote Online Exam has been scheduled for\nSunday, 2nd March 2025 (02/03/2025 ) at 1:00pm\nThe exam link will become available at the below mentioned site, 1 hour before the start time:\nhttps://study.iitm.ac.in/ds/exam.html\n[EDIT]\n\nThere will be a Gmeet manned by the course team from Sunday, March 2, 2025 7:20 AM\u2192Sunday, March 2, 2025 8:20 AM to solve your technical issues (timeouts, question not visible etc).\nPlease do not ask concept related questions in this meet. Use this only for clarifying technical issues. If your issue is resolved, PLEASE EXIT THE MEET. Lurkers will be penalized \nThere is a bonus provided for student feedback on the ROE exam preparation and attempt. This will be available till Sunday, March 2, 2025 11:30 AM\n\nAll the best,\nTDS Team",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T07:13:59.937Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 176,
+        "reads": 504,
+        "readers_count": 503,
+        "score": 1009.4,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://study.iitm.ac.in/ds/exam.html",
+            "internal": false,
+            "reflection": false,
+            "clicks": 111
+          },
+          {
+            "url": "https://meet.google.com/bah-uytq-osu",
+            "internal": false,
+            "reflection": false,
+            "clicks": 22
+          },
+          {
+            "url": "https://forms.gle/TXxz1yr5fpcz5bh89",
+            "internal": false,
+            "reflection": false,
+            "clicks": 16
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/1",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 601562,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-01T08:55:17.920Z",
+        "cooked": "",
+        "post_number": 2,
+        "post_type": 3,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T08:55:17.920Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 455,
+        "readers_count": 454,
+        "score": 95.6,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "pinned.enabled",
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601566,
+        "name": "Bhashwar Sengupta",
+        "username": "bhashwar_sengupta",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/b/41988e/{size}.png",
+        "created_at": "2025-03-01T08:59:36.183Z",
+        "cooked": "Would we be able to start work on the questions 1 hour before the exam start time?",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T08:59:36.183Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 449,
+        "readers_count": 448,
+        "score": 99.4,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Bhashwar Sengupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 4285,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/3",
+        "user_cakedate": "2021-05-06",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601568,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-01T09:01:56.407Z",
+        "cooked": "@bhashwar_sengupta No that will not be possible. It will go live only at 1 pm.",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T09:01:56.407Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 437,
+        "readers_count": 436,
+        "score": 107.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 4285,
+          "username": "bhashwar_sengupta",
+          "name": "Bhashwar Sengupta",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/b/41988e/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/4",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601588,
+        "name": "Bhashwar Sengupta",
+        "username": "bhashwar_sengupta",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/b/41988e/{size}.png",
+        "created_at": "2025-03-01T09:40:09.245Z",
+        "cooked": "Got it. Thank you. Also, are there any standard set of instructions that we need to follow during the ROE, like in OPPEs?",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T09:40:09.245Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 419,
+        "readers_count": 418,
+        "score": 113.4,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Bhashwar Sengupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 4285,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/5",
+        "user_cakedate": "2021-05-06",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601648,
+        "name": "Yogesh",
+        "username": "Yogesh1",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/yogesh1/{size}/32697_2.png",
+        "created_at": "2025-03-01T11:19:35.700Z",
+        "cooked": "Is it 45 minutes long?",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T11:19:35.700Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 397,
+        "readers_count": 396,
+        "score": 84.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Yogesh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7795,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/7",
+        "user_cakedate": "2021-10-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601788,
+        "name": "Vinil",
+        "username": "23f2004837",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004837/{size}/67513_2.png",
+        "created_at": "2025-03-01T15:16:32.904Z",
+        "cooked": "No, it is 45 minutes \u2018short\u2019",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T15:16:32.904Z",
+        "reply_count": 0,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 372,
+        "readers_count": 371,
+        "score": 379.2,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Vinil",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 7795,
+          "username": "Yogesh1",
+          "name": "Yogesh",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/yogesh1/{size}/32697_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 19,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22191,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/8",
+        "user_cakedate": "2023-09-19",
+        "reactions": [
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 12
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 7
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 19,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601833,
+        "name": "Akshit Mittal",
+        "username": "23f2004636",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004636/{size}/86136_2.png",
+        "created_at": "2025-03-01T16:34:53.754Z",
+        "cooked": "@carlton will exam take place on the IITM Exam Portal (like other JAVA, Python OPPE) or will it take place on the TDS course portal like we had for Weekly GA?",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T16:34:53.754Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 362,
+        "readers_count": 361,
+        "score": 152.2,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Akshit Mittal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21840,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/9",
+        "user_cakedate": "2023-09-18",
+        "user_birthdate": "1904-05-18",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601837,
+        "name": "Muthupalaniappan",
+        "username": "Muthupalaniappan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muthupalaniappan/{size}/18686_2.png",
+        "created_at": "2025-03-01T16:45:45.614Z",
+        "cooked": "Hello @carlton sir, I could only find one live session of ROE in youtube. Can you please point out where are the other recordings?",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-01T16:45:45.614Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 365,
+        "readers_count": 364,
+        "score": 97.8,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Muthupalaniappan",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 11218,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/10",
+        "user_cakedate": "2022-01-07",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601950,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-03-02T02:43:00.880Z",
+        "cooked": "All week 7 sessions are ROE mock solving questions. Only the 4th session was a special session and was labelled as such, but it also has a mock solving component. These are all available on the Youtube channel",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T02:43:29.676Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 347,
+        "readers_count": 346,
+        "score": 94.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 11218,
+          "username": "Muthupalaniappan",
+          "name": "Muthupalaniappan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muthupalaniappan/{size}/18686_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/11",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602053,
+        "name": "Ashmeet Kaur",
+        "username": "21f3001303",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001303/{size}/66772_2.png",
+        "created_at": "2025-03-02T06:03:47.027Z",
+        "cooked": "Sir we have to join the google meet for ROE or it\u2019s an open book exam?",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:03:47.027Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 304,
+        "readers_count": 303,
+        "score": 60.4,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Ashmeet Kaur",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8822,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/12",
+        "user_cakedate": "2021-12-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602055,
+        "name": "Sridevi",
+        "username": "24f2007378",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2007378/{size}/119347_2.png",
+        "created_at": "2025-03-02T06:09:45.769Z",
+        "cooked": "Is there a google meet that we have to join for proctoring?",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:09:45.769Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 295,
+        "readers_count": 294,
+        "score": 63.6,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Sridevi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 45685,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/13",
+        "user_cakedate": "2025-03-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602070,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-03-02T06:27:21.092Z",
+        "cooked": "@carlton\nI hope the Remote Online Exam (ROE) is ready to be uploaded to the portal. Is there any update regarding the additional time request? Can we expect any consideration on this?\nI submitted my request at the following link:\nRequest for additional time for roe",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:27:21.092Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 283,
+        "readers_count": 282,
+        "score": 56.2,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/mock-roe-1-2-3-4-tds-jan-2025/168449/66",
+            "internal": true,
+            "reflection": false,
+            "title": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]",
+            "clicks": 30
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/14",
+        "user_cakedate": "2021-09-12",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602081,
+        "name": "Sarang Tambe",
+        "username": "23f2005138",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005138/{size}/66754_2.png",
+        "created_at": "2025-03-02T06:37:21.495Z",
+        "cooked": "@carlton Is the exam link enabled yet? Not able to see TDS in the table given at Exam",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:37:21.495Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 262,
+        "readers_count": 261,
+        "score": 52.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Sarang Tambe",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://study.iitm.ac.in/ds/exam.html",
+            "internal": false,
+            "reflection": false,
+            "clicks": 7
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22197,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/15",
+        "user_cakedate": "2023-09-19",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602084,
+        "name": "Samarup Bhattacharya",
+        "username": "23f2002562",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2002562/{size}/66753_2.png",
+        "created_at": "2025-03-02T06:40:08.093Z",
+        "cooked": "I am not being able to see the ROE link on the website where it is supposed to appear i.e. https://study.iitm.ac.in/ds/exam.html\nCan someone please inform if it is available for them ?",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:40:08.093Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 246,
+        "readers_count": 245,
+        "score": 69.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Samarup Bhattacharya",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://url237.study.iitm.ac.in/ls/click?upn=u001.MSZz9dweuQKJW5SH8JFO0zVRC9abYa2H370vulgnqCEB0rb2JRDpdYmZAeWnLDFA8gyP_TaYffKNLhcpM10MCY1PnqDJT-2FNuZ61KkdeQdP748DgJIHBveqWN7MW2nmp9Bjx3db0V90vnVF9WnUpGJGlsZN6MwgywOkzb3puCTwzELfNnojc907IGFhG9ML64oysTn-2BlcDdSHGC1MGGt4QK6j8a8WFZ7VDO0bxrABDpAMFrnmSgZ-2F96-2F-2F1uAWfuwcNW3oD566TaT-2FDDiskBrP4u0QaQXDO95Y59Flo6u2QCzEhb8k-3D",
+            "internal": false,
+            "reflection": false,
+            "title": "Exam",
+            "clicks": 7
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19238,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/16",
+        "user_cakedate": "2023-06-08",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602086,
+        "name": "Raushan Kumar ",
+        "username": "23f1003066",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003066/{size}/68114_2.png",
+        "created_at": "2025-03-02T06:41:16.706Z",
+        "cooked": "no it\u2019s not available",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:41:16.706Z",
+        "reply_count": 0,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 244,
+        "readers_count": 243,
+        "score": 63.6,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Raushan Kumar ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19238,
+          "username": "23f2002562",
+          "name": "Samarup Bhattacharya",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2002562/{size}/66753_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17381,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/17",
+        "user_cakedate": "2023-06-03",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602087,
+        "name": "K Hari Prasath",
+        "username": "23f2003853",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003853/{size}/67184_2.png",
+        "created_at": "2025-03-02T06:42:23.367Z",
+        "cooked": "Awaiting link\nimage1920\u00d71080 277 KB",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:42:23.367Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 268,
+        "readers_count": 267,
+        "score": 87.8,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "K Hari Prasath",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21529,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/18",
+        "user_cakedate": "2023-09-18",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602088,
+        "name": "Lokessh Rana",
+        "username": "Lokkiii",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lokkiii/{size}/124187_2.png",
+        "created_at": "2025-03-02T06:42:56.799Z",
+        "cooked": "Not available yet at the exam portal",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:42:56.799Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 264,
+        "readers_count": 263,
+        "score": 82.0,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Lokessh Rana",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 35287,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/19",
+        "user_cakedate": "2024-07-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602092,
+        "name": "Vishnuprasad A",
+        "username": "Vishnuprasad",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vishnuprasad/{size}/123208_2.png",
+        "created_at": "2025-03-02T06:46:23.314Z",
+        "cooked": "I still couldn\u2019t see the link being displayed in the link you mentioned?",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:46:23.314Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 253,
+        "readers_count": 252,
+        "score": 49.8,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Vishnuprasad A",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 33673,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/20",
+        "user_cakedate": "2024-06-09",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 602094,
+        "name": "Kabir Vyas",
+        "username": "Kabir1203",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kabir1203/{size}/66864_2.png",
+        "created_at": "2025-03-02T06:49:08.144Z",
+        "cooked": "Exam link is available now on the portal.",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 113,
+        "updated_at": "2025-03-02T06:49:08.144Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 238,
+        "readers_count": 237,
+        "score": 51.8,
+        "yours": false,
+        "topic_id": 168832,
+        "topic_slug": "remote-online-exam-tds-jan-2025",
+        "display_username": "Kabir Vyas",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15414,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/remote-online-exam-tds-jan-2025/168832/21",
+        "user_cakedate": "2022-11-16",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      601561,
+      601562,
+      601566,
+      601568,
+      601588,
+      601648,
+      601788,
+      601833,
+      601837,
+      601950,
+      602053,
+      602055,
+      602070,
+      602081,
+      602084,
+      602086,
+      602087,
+      602088,
+      602092,
+      602094,
+      602096,
+      602099,
+      602101,
+      602103,
+      602109,
+      602111,
+      602112,
+      602117,
+      602118,
+      602125,
+      602127,
+      602132,
+      602134,
+      602135,
+      602136,
+      602140,
+      602142,
+      602146,
+      602147,
+      602149,
+      602151,
+      602152,
+      602153,
+      602154,
+      602164,
+      602201,
+      602203,
+      602204,
+      602210,
+      602212,
+      602213,
+      602214,
+      602215,
+      602216,
+      602218,
+      602220,
+      602222,
+      602223,
+      602224,
+      602227,
+      602230,
+      602233,
+      602234,
+      602244,
+      602248,
+      602259,
+      602379,
+      602387,
+      602959,
+      602962,
+      602966,
+      602980,
+      602981,
+      602984,
+      602953,
+      602957,
+      602968,
+      602982,
+      602990,
+      602993,
+      602992,
+      602997,
+      602904,
+      602991,
+      602996,
+      603005,
+      603009,
+      603011,
+      603014,
+      603026,
+      603027,
+      603029,
+      603073,
+      603124,
+      603125,
+      603134,
+      603207,
+      603251,
+      603268,
+      603357,
+      604381,
+      604197,
+      604232,
+      604292,
+      604297,
+      604438,
+      604573,
+      604593,
+      604761,
+      604781,
+      604817,
+      604848,
+      605776
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      103
+    ],
+    [
+      11,
+      102
+    ],
+    [
+      69,
+      101
+    ],
+    [
+      74,
+      102
+    ],
+    [
+      75,
+      101
+    ],
+    [
+      80,
+      102
+    ],
+    [
+      81,
+      101
+    ],
+    [
+      82,
+      102
+    ],
+    [
+      83,
+      101
+    ],
+    [
+      98,
+      100
+    ],
+    [
+      101,
+      96
+    ],
+    [
+      102,
+      97
+    ],
+    [
+      106,
+      96
+    ],
+    [
+      109,
+      95
+    ],
+    [
+      113,
+      93
+    ]
+  ],
+  "tags": [
+    "term1-2025",
+    "tds-roe"
+  ],
+  "tags_descriptions": {},
+  "id": 168832,
+  "title": "Remote Online Exam [TDS Jan 2025]",
+  "fancy_title": "Remote Online Exam [TDS Jan 2025]",
+  "posts_count": 113,
+  "created_at": "2025-03-01T08:54:26.301Z",
+  "views": 1097,
+  "reply_count": 63,
+  "like_count": 111,
+  "last_posted_at": "2025-03-11T22:42:18.594Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": true,
+  "archetype": "regular",
+  "slug": "remote-online-exam-tds-jan-2025",
+  "category_id": 34,
+  "word_count": 4656,
+  "deleted_at": null,
+  "user_id": 16094,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_168832",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 124,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 2,
+  "participant_count": 51,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 12,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 9,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 13078,
+        "username": "Saransh_Saini",
+        "name": "Saransh Saini",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+        "post_count": 7,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17698,
+        "username": "23f2000599",
+        "name": "S Smriti",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000599/{size}/66764_2.png",
+        "post_count": 7,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7795,
+        "username": "Yogesh1",
+        "name": "Yogesh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/yogesh1/{size}/32697_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25580,
+        "username": "23f3004114",
+        "name": "Naga durga prasad E",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004114/{size}/68102_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 30376,
+        "username": "24f2003130",
+        "name": "Shambhavi ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2003130/{size}/132501_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 11218,
+        "username": "Muthupalaniappan",
+        "name": "Muthupalaniappan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muthupalaniappan/{size}/18686_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 6475,
+        "username": "21f2000588",
+        "name": "DIGVIJAYSINH SANDEEPSINH CHUDASAMA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000588/{size}/478_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 35256,
+        "username": "Jayeshbansal",
+        "name": "Jayesh Bansal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jayeshbansal/{size}/66832_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 11473,
+        "username": "21f3001161",
+        "name": "Pritika Guglani",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001161/{size}/14911_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 35950,
+        "username": "Algsoch",
+        "name": "Vicky Kumar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 45685,
+        "username": "24f2007378",
+        "name": "Sridevi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f2007378/{size}/119347_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 4285,
+        "username": "bhashwar_sengupta",
+        "name": "Bhashwar Sengupta",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/b/41988e/{size}.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22224,
+        "username": "Sagan",
+        "name": "Sagandeep Kaur",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8215,
+        "username": "iamsarthak",
+        "name": "Sarthak Singh Gaur",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iamsarthak/{size}/123712_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12242,
+        "username": "22f1000535",
+        "name": "Parmeet Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000535/{size}/15479_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 18669,
+        "username": "Haricharan",
+        "name": "D HARICHARAN ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/haricharan/{size}/130405_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15414,
+        "username": "Kabir1203",
+        "name": "Kabir Vyas",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kabir1203/{size}/66864_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7193,
+        "username": "lakshaygarg654",
+        "name": "LAKSHAY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 26736,
+        "username": "Vihaanv07",
+        "name": "Vihaan Verma",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vihaanv07/{size}/67243_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 20600,
+        "username": "23f1001174",
+        "name": "Karthik V",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001174/{size}/68167_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22327,
+        "username": "23f2003717",
+        "name": "NamanBeri",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003717/{size}/123997_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17381,
+        "username": "23f1003066",
+        "name": "Raushan Kumar ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1003066/{size}/68114_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    },
+    "last_poster": {
+      "id": 15651,
+      "username": "Jivraj",
+      "name": "Jivraj Singh Shekhawat",
+      "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png"
+    },
+    "links": [
+      {
+        "url": "http://study.iitm.ac.in/ds/exam.html",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 118,
+        "user_id": 16094,
+        "domain": "study.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/mock-roe-1-2-3-4-tds-jan-2025/168449/66",
+        "title": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 30,
+        "user_id": 7193,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://meet.google.com/bah-uytq-osu",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 22,
+        "user_id": 16094,
+        "domain": "meet.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://forms.gle/TXxz1yr5fpcz5bh89",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 16,
+        "user_id": 16094,
+        "domain": "forms.gle",
+        "root_domain": "forms.gle"
+      },
+      {
+        "url": "https://study.iitm.ac.in/ds/exam.html",
+        "title": "Exam",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 11,
+        "user_id": 8215,
+        "domain": "study.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "http://url237.study.iitm.ac.in/ls/click?upn=u001.MSZz9dweuQKJW5SH8JFO0zVRC9abYa2H370vulgnqCEB0rb2JRDpdYmZAeWnLDFA8gyP_TaYffKNLhcpM10MCY1PnqDJT-2FNuZ61KkdeQdP748DgJIHBveqWN7MW2nmp9Bjx3db0V90vnVF9WnUpGJGlsZN6MwgywOkzb3puCTwzELfNnojc907IGFhG9ML64oysTn-2BlcDdSHGC1MGGt4QK6j8a8WFZ7VDO0bxrABDpAMFrnmSgZ-2F96-2F-2F1uAWfuwcNW3oD566TaT-2FDDiskBrP4u0QaQXDO95Y59Flo6u2QCzEhb8k-3D",
+        "title": "Exam",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 7,
+        "user_id": 19238,
+        "domain": "url237.study.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

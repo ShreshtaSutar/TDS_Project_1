@@ -1,0 +1,2574 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 617409,
+        "name": "Akshit Mittal",
+        "username": "23f2004636",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004636/{size}/86136_2.png",
+        "created_at": "2025-04-09T13:03:21.854Z",
+        "cooked": "@carlton @Jivraj @Saransh_Saini Greetings sir!\nSir, I have a query about the criteria for earning bonus marks in the TDS course. I\u2019ve noticed that some students who completed GA7 are receiving bonus marks for extra peer reviews (5 bonus marks is quite significant as it improves grades as well). However, what about those of us who completed all 6 assignments but missed GA7 for some reason?\nAs the course is quite challenging due to the vast syllabus, bonus marks would be really helpful for many of us. Could you kindly clarify the situation?\nThank you and Regards\nAkshit",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:03:21.854Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 83,
+        "reads": 224,
+        "readers_count": 223,
+        "score": 902.4,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Akshit Mittal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 30,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21840,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/1",
+        "user_cakedate": "2023-09-18",
+        "user_birthdate": "1904-05-18",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 21
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 7
+          },
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "open_mouth",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 30,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 617415,
+        "name": "LAKSHAY",
+        "username": "lakshaygarg654",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "created_at": "2025-04-09T13:09:23.807Z",
+        "cooked": "Yes, I also missed the same assignment due to pressure from other courses.\nHowever, awarding a 5-mark bonus instead of a percentile-based system like GA4 seems quite different.\nIs this information available to everyone @carlton sir?",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:11:09.141Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 215,
+        "readers_count": 214,
+        "score": 96.0,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "LAKSHAY",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7193,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/2",
+        "user_cakedate": "2021-09-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617422,
+        "name": "DIGVIJAYSINH SANDEEPSINH CHUDASAMA",
+        "username": "21f2000588",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000588/{size}/478_2.png",
+        "created_at": "2025-04-09T13:21:15.459Z",
+        "cooked": "Hello @carlton @Jivraj @Saransh_Saini @s.anand sir,\nI hope you are doing well.\nAs per the grading document, we were informed that only the best 4 out of the 7 assessments would be considered for grading. However, there was no mention of bonus marks, and before the deadline, we were not informed about the +5 bonus marks for GA7. Due to other academic commitments, such as Project 2, some of us were unable to complete GA7.\nNow, we have come to know that some of our peers have received an email stating that they have been awarded +5 bonus marks, which directly contribute to the final score. In some cases, this may even impact the final grade. Since this information was not communicated earlier, we kindly request you to consider providing an alternative way for those who missed GA7 to earn these bonus marks\u2014perhaps through reviewing submissions or another form of assessment.\nWe sincerely request your understanding on this matter and would be grateful if you could provide an opportunity for us to earn the bonus marks as well.\nLooking forward to your kind consideration.\nBest regards,\nDigvijaysinh Chudasama",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:21:15.459Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 7,
+        "reads": 201,
+        "readers_count": 200,
+        "score": 198.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "DIGVIJAYSINH SANDEEPSINH CHUDASAMA",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 8,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6475,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/3",
+        "user_cakedate": "2021-09-06",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 6
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 8,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617425,
+        "name": "Sagandeep Kaur",
+        "username": "Sagan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png",
+        "created_at": "2025-04-09T13:22:04.086Z",
+        "cooked": "The Same happened to me. They should have informed this before.",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:22:04.086Z",
+        "reply_count": 2,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 183,
+        "readers_count": 182,
+        "score": 90.0,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Sagandeep Kaur",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 6475,
+          "username": "21f2000588",
+          "name": "DIGVIJAYSINH SANDEEPSINH CHUDASAMA",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000588/{size}/478_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22224,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/4",
+        "user_cakedate": "2023-09-19",
+        "user_birthdate": "1904-12-29",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617426,
+        "name": "Harsh jayswal",
+        "username": "Harshjayswal-2003",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/bcef8e/{size}.png",
+        "created_at": "2025-04-09T13:23:03.902Z",
+        "cooked": "Hello @carlton @Jivraj @Saransh_Saini @s.anand sir,\nI hope you are doing well.\nAs per the grading document, we were informed that only the best 4 out of the 7 assessments would be considered for grading. However, there was no mention of bonus marks, and before the deadline, we were not informed about the +5 bonus marks for GA7. Due to other academic commitments, such as Project 2, some of us were unable to complete GA7.\nNow, we have come to know that some of our peers have received an email stating that they have been awarded +5 bonus marks, which directly contribute to the final score. In some cases, this may even impact the final grade. Since this information was not communicated earlier, we kindly request you to consider providing an alternative way for those who missed GA7 to earn these bonus marks\u2014perhaps through reviewing submissions or another form of assessment.\nWe sincerely request your understanding on this matter and would be grateful if you could provide an opportunity for us to earn the bonus marks as well.\nLooking forward to your kind consideration.\nBest regards,\nHARSH JAYSWAL",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:23:03.902Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 181,
+        "readers_count": 180,
+        "score": 84.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Harsh jayswal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 22224,
+          "username": "Sagan",
+          "name": "Sagandeep Kaur",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27846,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/5",
+        "user_cakedate": "2024-02-20",
+        "user_birthdate": "1904-11-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617430,
+        "name": "Harsh jayswal",
+        "username": "Harshjayswal-2003",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/bcef8e/{size}.png",
+        "created_at": "2025-04-09T13:24:57.522Z",
+        "cooked": "@s.anand @carlton same happens for me also sir plz look into this matter.",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:24:57.522Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 173,
+        "readers_count": 172,
+        "score": 78.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Harsh jayswal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 27846,
+          "username": "Harshjayswal-2003",
+          "name": "Harsh jayswal",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/bcef8e/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27846,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/6",
+        "user_cakedate": "2024-02-20",
+        "user_birthdate": "1904-11-17",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617431,
+        "name": "ABHIJEET KUMAR ",
+        "username": "23f2004912",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+        "created_at": "2025-04-09T13:25:30.418Z",
+        "cooked": "@carlton @s.anand\nThere seems to be a sudden and unannounced change in the GA marking scheme, which feels quite arbitrary. Initially, we were told that GA would carry 15% weight, calculated as the best 4 out of 7. Based on this, after scoring full marks in four GAs, I didn\u2019t attempt the rest. Even then, I did complete GA5 and GA6, which you can verify.\nNow I\u2019m seeing in groups that there\u2019s an \u201cextra benefit\u201d being given for GA7. If any changes are being made to the evaluation criteria, they should be communicated clearly via email or discourse. Transparency is important, and as students, we have the right to be informed about such decisions in advance.\nI could point out several other issues, but to keep it brief \u2014 grading should be fair and consistent. Every student deserves an equal opportunity, and if GA7 is being considered differently, everyone should have the chance to attempt or review it accordingly.\n@carlton, we request you to kindly consider this matter. We are looking forward to a quick response \u2014 hopefully one that ensures fairness for all students.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:25:30.418Z",
+        "reply_count": 2,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 33,
+        "reads": 177,
+        "readers_count": 176,
+        "score": 314.2,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "ABHIJEET KUMAR ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 7193,
+          "username": "lakshaygarg654",
+          "name": "LAKSHAY",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 7,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21980,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/7",
+        "user_cakedate": "2023-09-18",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 6
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 7,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617432,
+        "name": "Vikram Suriyanarayanan",
+        "username": "vikramjncasr",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikramjncasr/{size}/1844_2.png",
+        "created_at": "2025-04-09T13:26:02.050Z",
+        "cooked": "@carlton sir ,\nThis would be a deviation from the grading format right sir? As some of us were proactive and closed the 4 GA requirement earlier, if such extra weightage is given to a certain  GA unannounced then how is it fair on the other students ?\nKindly consider",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:26:02.050Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 168,
+        "readers_count": 167,
+        "score": 77.4,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Vikram Suriyanarayanan",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 3935,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/8",
+        "user_cakedate": "2021-05-05",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617433,
+        "name": "Vinil",
+        "username": "23f2004837",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004837/{size}/67513_2.png",
+        "created_at": "2025-04-09T13:26:12.842Z",
+        "cooked": "same for me also \u2026\nPlease consider all the GA for the calculation and give bonus based on the overall performance in GA\u2019s instead of one GA.\n@carlton @Jivraj @Saransh_Saini",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:26:12.842Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 167,
+        "readers_count": 166,
+        "score": 77.4,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Vinil",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 22224,
+          "username": "Sagan",
+          "name": "Sagandeep Kaur",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22191,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/9",
+        "user_cakedate": "2023-09-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617434,
+        "name": "Mahi",
+        "username": "mahi.13",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mahi.13/{size}/68500_2.png",
+        "created_at": "2025-04-09T13:26:16.747Z",
+        "cooked": "Exactly! This should have been informed beforehand.\nIt\u2019s really unfair",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:26:16.747Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 163,
+        "readers_count": 162,
+        "score": 96.4,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Mahi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20525,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/10",
+        "user_cakedate": "2023-06-13",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617435,
+        "name": "Dhruv banerjee",
+        "username": "23f2004793",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004793/{size}/89083_2.png",
+        "created_at": "2025-04-09T13:26:37.649Z",
+        "cooked": "It the team wants to give bonus marks then why specifically to peer review week-7 ? Like all the GAs were equally important ! So please do something about this.",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:26:37.649Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 75.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Dhruv banerjee",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 25964,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/11",
+        "user_cakedate": "2024-01-30",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617439,
+        "name": "Akash Kumar",
+        "username": "akashkunwar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/akashkunwar/{size}/45300_2.png",
+        "created_at": "2025-04-09T13:28:14.002Z",
+        "cooked": "@carlton @Jivraj @Saransh_Saini @s.anand\nI have completed 5 GAs, but missed others due to the time commitment required, along with managing three other subjects and one project. I kindly request that 5 bonus marks be awarded to all, as the additional marks for GA were not communicated earlier. This could result in a disadvantage for those of us who were unaware of the extra marks for GA7. Thank you for considering this.\nRegards:\nAkash",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:28:14.002Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 160,
+        "readers_count": 159,
+        "score": 145.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Akash Kumar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 6,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14172,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/12",
+        "user_cakedate": "2022-09-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 6
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 6,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617443,
+        "name": "ABHIJEET KUMAR ",
+        "username": "23f2004912",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+        "created_at": "2025-04-09T13:30:47.548Z",
+        "cooked": "@carlton I genuinely wish I could respond more humbly, but the way this has unfolded makes it hard \u2014 and sadly, I\u2019m not MSD to handle it all with silence and a smile.",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:30:47.548Z",
+        "reply_count": 0,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 151,
+        "readers_count": 150,
+        "score": 148.8,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "ABHIJEET KUMAR ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 21980,
+          "username": "23f2004912",
+          "name": "ABHIJEET KUMAR ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 7,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21980,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/13",
+        "user_cakedate": "2023-09-18",
+        "reactions": [
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 6
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 7,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617458,
+        "name": "Palaash U.",
+        "username": "PalaashU",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/palaashu/{size}/110012_2.png",
+        "created_at": "2025-04-09T13:54:26.131Z",
+        "cooked": "Good evening @carlton @Jivraj @Saransh_Saini @s.anand Sir,\nI hope you are well\nAccording to the grading document, we were told that only the best 4 out of the 7 assessments would count towards our final grade. There was no mention of any bonus marks, and we were not informed about the +5 bonus marks for GA7 before the deadline. Because of other academic commitments like Project 2, some of us couldn\u2019t complete GA7.\nRecently, we found out that some students received an email saying they\u2019ve been given +5 bonus marks for GA7, which directly affects their final score and possibly their overall grade. Since this information wasn\u2019t shared earlier, we kindly request you to consider offering an alternative way for those who missed GA7 to earn the bonus marks. This could be through a submission review or another form of assessment.\nWe genuinely hope for your understanding and would be very grateful if you could provide a chance for us to earn the bonus marks too.\nBest regards,\nPalaash V. Upadhyay",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:54:26.131Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 150,
+        "readers_count": 149,
+        "score": 88.8,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Palaash U.",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19671,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/16",
+        "user_cakedate": "2023-06-12",
+        "user_birthdate": "1904-08-20",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617462,
+        "name": "Vedant Bhanushali",
+        "username": "Vedant22",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vedant22/{size}/67060_2.png",
+        "created_at": "2025-04-09T13:59:07.999Z",
+        "cooked": "\n\n\n 23f2004912:\n\nThere seems to be a sudden and unannounced change in the GA marking scheme, which feels quite arbitrary. Initially, we were told that GA would carry 15% weight, calculated as the best 4 out of 7. Based on this, after scoring full marks in four GAs, I didn\u2019t attempt the rest. Even then, I did complete GA5 and GA6, which you can verify.\nNow I\u2019m seeing in groups that there\u2019s an \u201cextra benefit\u201d being given for GA7. If any changes are being made to the evaluation criteria, they should be communicated clearly via email or discourse. Transparency is important, and as students, we have the right to be informed about such decisions in advance.\nI could point out several other issues, but to keep it brief \u2014 grading should be fair and consistent. Every student deserves an equal opportunity, and if GA7 is being considered differently, everyone should have the chance to attempt or review it accordingly.\n\n\nThere seems to be a sudden and unannounced change in the GA marking scheme, which feels quite arbitrary. Initially, we were told that GA would carry 15% weight, calculated as the best 4 out of 7. Based on this, after scoring full marks in four GAs, I didn\u2019t attempt the rest. Even then, I did complete GA5 and GA6, which you can verify.\nNow I\u2019m seeing in groups that there\u2019s an \u201cextra benefit\u201d being given for GA7. If any changes are being made to the evaluation criteria, they should be communicated clearly via email or discourse. Transparency is important, and as students, we have the right to be informed about such decisions in advance.\nI could point out several other issues, but to keep it brief \u2014 grading should be fair and consistent. Every student deserves an equal opportunity, and if GA7 is being considered differently, everyone should have the chance to attempt or review it accordingly.\n@carlton sir please look into this",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T13:59:07.999Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 1,
+        "incoming_link_count": 5,
+        "reads": 143,
+        "readers_count": 142,
+        "score": 82.8,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Vedant Bhanushali",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20257,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/17",
+        "user_cakedate": "2023-06-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617470,
+        "name": "Sonal Raikar",
+        "username": "Sonshre8585",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sonshre8585/{size}/66931_2.png",
+        "created_at": "2025-04-09T14:10:11.431Z",
+        "cooked": "@carlton @Jivraj @Saransh_Saini\nYes sir , we have completed all the previous ga but not able to do week 7  , we feel that the bonus should be given to all on the basis of ga and not only on week 7 . Or it should have been informed earlier if such bonus was to be given . Please do consider our request . Thank you",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T14:10:11.431Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 138,
+        "readers_count": 137,
+        "score": 91.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Sonal Raikar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19871,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/18",
+        "user_cakedate": "2023-06-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617475,
+        "name": "Mayank Singh",
+        "username": "23f1000598",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000598/{size}/56200_2.png",
+        "created_at": "2025-04-09T14:23:26.329Z",
+        "cooked": "Exactly , They have to informed this earlier , that week 7 have peer marks too , and now bonus too\nin the grading doc , they removed peer marks , so i thought it was removed , but its not",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T14:23:26.329Z",
+        "reply_count": 0,
+        "reply_to_post_number": 18,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 133,
+        "readers_count": 132,
+        "score": 80.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Mayank Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 19871,
+          "username": "Sonshre8585",
+          "name": "Sonal Raikar",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sonshre8585/{size}/66931_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15692,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/19",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617477,
+        "name": "Nimish",
+        "username": "23f2002121",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2002121/{size}/67323_2.png",
+        "created_at": "2025-04-09T14:28:06.628Z",
+        "cooked": "@carlton @Jivraj @Saransh_Saini @s.anand\nThe sudden introduction of bonus marks for GA7 in Tools in Data Science has left many students confused, as there was no prior intimation regarding this change. We had all planned our submissions based on the clearly communicated \u201cbest 4 out of 7\u201d policy. This unexpected shift has raised concerns about transparency and fairness principles that should be central to academic assessment. Fairness is not a privilege to be selectively granted; it is a fundamental right for every student. We respectfully urge the course coordinators to offer clarification and ensure that all students are evaluated on an equal footing. We hope the final grading reflects both justice and academic integrity.",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T14:28:06.628Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 145,
+        "readers_count": 144,
+        "score": 73.2,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Nimish",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 18726,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/20",
+        "user_cakedate": "2023-06-05",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617478,
+        "name": "D HARICHARAN ",
+        "username": "Haricharan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/haricharan/{size}/130405_2.png",
+        "created_at": "2025-04-09T14:28:31.250Z",
+        "cooked": "@carlton @Jivraj @Saransh_Saini @s.anand\nYes Sir, I also completed 6 GAs even tho it was written only best 4 out of 7 GAs would be considered for final grade, but couldn\u2019t complete GA 7 due to pressure of other subjects, if it was written in the grading document I would have done it, hoping you would understand Sir, Please do consider our request.\nThank you",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T14:28:31.250Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 154,
+        "readers_count": 153,
+        "score": 59.6,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "D HARICHARAN ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 18669,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/21",
+        "user_cakedate": "2023-06-05",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 617490,
+        "name": "Naman Gupta",
+        "username": "Namannn28",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namannn28/{size}/120573_2.png",
+        "created_at": "2025-04-09T14:40:38.325Z",
+        "cooked": "@carlton sir in the grading document it was mentioned best 4 out of 7 assignments but I did 6 GAs but skipped GA7 due to other assignments and projects but now we got to know that 5 bonus marks are given in ga 7 which seems unfair to all of us as mostly people who did GA7 are the one who were not able to complete previous GAs so giving bonus for the last day give them a edge\nIf it was announced before deadline of GA 7 it was okay and good for us to improve our grade but now it seems quite unfair so, please come with the best possible solution for this\nThanking you\nwaiting for your answer",
+        "post_number": 22,
+        "post_type": 1,
+        "posts_count": 52,
+        "updated_at": "2025-04-09T14:40:38.325Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 80.8,
+        "yours": false,
+        "topic_id": 172246,
+        "topic_slug": "bonus-marks-in-tds-for-jan-25",
+        "display_username": "Naman Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 43002,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/bonus-marks-in-tds-for-jan-25/172246/22",
+        "user_cakedate": "2025-01-11",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      617409,
+      617415,
+      617422,
+      617425,
+      617426,
+      617430,
+      617431,
+      617432,
+      617433,
+      617434,
+      617435,
+      617439,
+      617443,
+      617458,
+      617462,
+      617470,
+      617475,
+      617477,
+      617478,
+      617490,
+      617503,
+      617514,
+      617518,
+      617521,
+      617533,
+      617571,
+      617591,
+      617599,
+      617739,
+      617847,
+      617875,
+      618186,
+      618193,
+      618199,
+      618216,
+      618268,
+      618271,
+      618280,
+      618283,
+      618284,
+      618295,
+      618635,
+      618835,
+      618988,
+      618999,
+      619094,
+      619101,
+      619105,
+      619110,
+      619114,
+      621252,
+      621444
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      64
+    ],
+    [
+      29,
+      63
+    ],
+    [
+      32,
+      62
+    ],
+    [
+      42,
+      61
+    ],
+    [
+      43,
+      60
+    ],
+    [
+      44,
+      59
+    ],
+    [
+      51,
+      55
+    ],
+    [
+      52,
+      54
+    ]
+  ],
+  "tags": [
+    "clarification"
+  ],
+  "tags_descriptions": {},
+  "id": 172246,
+  "title": "Bonus Marks in TDS for Jan 25",
+  "fancy_title": "Bonus Marks in TDS for Jan 25",
+  "posts_count": 52,
+  "created_at": "2025-04-09T13:03:21.636Z",
+  "views": 693,
+  "reply_count": 36,
+  "like_count": 218,
+  "last_posted_at": "2025-04-19T08:58:39.763Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": true,
+  "archetype": "regular",
+  "slug": "bonus-marks-in-tds-for-jan-25",
+  "category_id": 34,
+  "word_count": 7623,
+  "deleted_at": null,
+  "user_id": 21840,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_172246",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 56,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 6,
+  "participant_count": 32,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 21840,
+        "username": "23f2004636",
+        "name": "Akshit Mittal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004636/{size}/86136_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 1,
+        "username": "jkmadathil",
+        "name": "Jayakrishnan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_color": "1affc6",
+        "flair_bg_color": "0040ff",
+        "flair_group_id": 41,
+        "admin": true,
+        "trust_level": 4
+      },
+      {
+        "id": 27771,
+        "username": "23F300327",
+        "name": "Mishkat Chougule",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f300327/{size}/91361_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14172,
+        "username": "akashkunwar",
+        "name": "Akash Kumar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/akashkunwar/{size}/45300_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 27846,
+        "username": "Harshjayswal-2003",
+        "name": "Harsh jayswal",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/bcef8e/{size}.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21980,
+        "username": "23f2004912",
+        "name": "ABHIJEET KUMAR ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 7193,
+        "username": "lakshaygarg654",
+        "name": "LAKSHAY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20600,
+        "username": "23f1001174",
+        "name": "Karthik V",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001174/{size}/68167_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17135,
+        "username": "23f1002223",
+        "name": "Pranaav",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002223/{size}/68963_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7795,
+        "username": "Yogesh1",
+        "name": "Yogesh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/yogesh1/{size}/32697_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22224,
+        "username": "Sagan",
+        "name": "Sagandeep Kaur",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 43002,
+        "username": "Namannn28",
+        "name": "Naman Gupta",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namannn28/{size}/120573_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16163,
+        "username": "22f3002034",
+        "name": "Muhammed Adhil Pt",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002034/{size}/66697_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20525,
+        "username": "mahi.13",
+        "name": "Mahi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mahi.13/{size}/68500_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 6475,
+        "username": "21f2000588",
+        "name": "DIGVIJAYSINH SANDEEPSINH CHUDASAMA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000588/{size}/478_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17736,
+        "username": "23f2000573",
+        "name": "B R GIRI SUBRAHMANYA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 18875,
+        "username": "23f2000983",
+        "name": "Aindree Chatterjee",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000983/{size}/67405_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20257,
+        "username": "Vedant22",
+        "name": "Vedant Bhanushali",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vedant22/{size}/67060_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 19671,
+        "username": "PalaashU",
+        "name": "Palaash U.",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/palaashu/{size}/110012_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15692,
+        "username": "23f1000598",
+        "name": "Mayank Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000598/{size}/56200_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19871,
+        "username": "Sonshre8585",
+        "name": "Sonal Raikar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sonshre8585/{size}/66931_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22191,
+        "username": "23f2004837",
+        "name": "Vinil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004837/{size}/67513_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25964,
+        "username": "23f2004793",
+        "name": "Dhruv banerjee",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004793/{size}/89083_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 21840,
+      "username": "23f2004636",
+      "name": "Akshit Mittal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004636/{size}/86136_2.png"
+    },
+    "last_poster": {
+      "id": 18875,
+      "username": "23f2000983",
+      "name": "Aindree Chatterjee",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000983/{size}/67405_2.png"
+    },
+    "links": [
+      {
+        "url": "https://forms.gle/DhBW4xdKyv7hXhXD9",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 21840,
+        "domain": "forms.gle",
+        "root_domain": "forms.gle"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

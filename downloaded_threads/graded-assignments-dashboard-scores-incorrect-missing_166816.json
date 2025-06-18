@@ -1,0 +1,2582 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 593909,
+        "name": "HARISH. S",
+        "username": "HARISH.S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png",
+        "created_at": "2025-02-11T17:03:21.205Z",
+        "cooked": "hello sir this is Harish. i completed and saved the week 2 and week 4 assignment. (didn\u2019t do week 3) but the graded assignment shows it is incomplete and the score is 0 for both the weeks . i am attaching the iages. kindly check and reply soon sir.\nimage1035\u00d7466 71 KB\nimage1035\u00d7453 27.2 KB\nthis is for week 4\nimage1678\u00d7847 141 KB\nimage1035\u00d7481 38.9 KB\nimage463\u00d7457 26.9 KB\nkindly check on this sir.",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-19T01:25:41.628Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 76,
+        "readers_count": 75,
+        "score": 34.2,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "HARISH. S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23180,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/1",
+        "user_cakedate": "2023-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 593937,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-11T18:21:52.000Z",
+        "cooked": "Could you send me your email id. thanks.",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-11T18:22:31.704Z",
+        "reply_count": 1,
+        "reply_to_post_number": 1,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 15.8,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 23180,
+          "username": "HARISH.S",
+          "name": "HARISH. S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 593944,
+        "name": "Divjot Singh",
+        "username": "24ds3000061",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000061/{size}/113018_2.png",
+        "created_at": "2025-02-11T18:46:15.785Z",
+        "cooked": "Hi, the same issue persists for me for GA 2 and 4. I also did not attemp GA 3. Please look into this. My email id: 24ds3000061@ds.study.iitm.ac.in",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-11T18:46:15.785Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 45.6,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Divjot Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 38791,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/3",
+        "user_cakedate": "2024-09-26",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 593980,
+        "name": "Revi",
+        "username": "22f2001532",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001532/{size}/46577_2.png",
+        "created_at": "2025-02-12T03:23:21.693Z",
+        "cooked": "My Graded assignment results are also not appearing in the dashboard. My email id is 22f2001532@ds.study.iitm.ac.in",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T03:23:21.693Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 30.2,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Revi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14403,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/4",
+        "user_cakedate": "2022-09-05",
+        "user_birthdate": "1904-06-10",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 593998,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-12T05:18:27.095Z",
+        "cooked": "@24ds3000061 @22f2001532\nCan you check the dashboard now, I\u2019ve been informed by operations that the scores have been pushed.\nGA 4 scores will be a little late to be pushed because there are some manual (i.e. automated using a custom written script) corrections that have to be made to Q4 for students who got Nur-Sultan as their city.\nKind regards",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T05:18:27.095Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 51,
+        "readers_count": 50,
+        "score": 14.6,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 14403,
+          "username": "22f2001532",
+          "name": "Revi",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001532/{size}/46577_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594002,
+        "name": "Revi",
+        "username": "22f2001532",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001532/{size}/46577_2.png",
+        "created_at": "2025-02-12T05:32:48.000Z",
+        "cooked": "Thanks Carlton. Now the results are visible in the dashboard.\nThanks\nREVI",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T05:33:05.694Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 46,
+        "readers_count": 45,
+        "score": 24.0,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Revi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14403,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/6",
+        "user_cakedate": "2022-09-05",
+        "user_birthdate": "1904-06-10",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594072,
+        "name": "Anushka Kumar",
+        "username": "22f2000559",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000559/{size}/13152_2.png",
+        "created_at": "2025-02-12T09:43:55.354Z",
+        "cooked": "@carlton Sir in my case, in week 2 it is showing \u201cAbsent\u201d but I have attempted and saved the answers\nScreenshot 2025-02-12 151022427\u00d7596 28.1 KB\nScreenshot 2025-02-12 1511011035\u00d7434 21 KB\nMy email ID is 22f2000559@ds.study.iitm.ac.in.\nThank you.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T09:43:55.354Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 34.0,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Anushka Kumar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13976,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/7",
+        "user_cakedate": "2022-08-01",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594080,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-12T10:04:58.164Z",
+        "cooked": "Hi @22f2000559\nI can confirm that our server did record your marks as 7, we will make a correction in the dashboard. Thanks for letting us know. My sincere apologies for the error.\nIf the marks on the dashboard are not changed within the next 7 days, please let us know. I will follow it up on my end and try to get the correction pushed as soon as possible.\nKind regards",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T10:04:58.164Z",
+        "reply_count": 1,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 12.8,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 13976,
+          "username": "22f2000559",
+          "name": "Anushka Kumar",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000559/{size}/13152_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594081,
+        "name": "Anushka Kumar",
+        "username": "22f2000559",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000559/{size}/13152_2.png",
+        "created_at": "2025-02-12T10:06:10.638Z",
+        "cooked": "Thank you so much Sir.",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-12T10:06:10.638Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 40,
+        "readers_count": 39,
+        "score": 22.8,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Anushka Kumar",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13976,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/9",
+        "user_cakedate": "2022-08-01",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594322,
+        "name": "QUMAR CHANDRAGUPT PRIYADARSHI",
+        "username": "spartacus",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/spartacus/{size}/127439_2.png",
+        "created_at": "2025-02-13T06:26:35.949Z",
+        "cooked": "Screenshot 2025-02-13 105611251\u00d7317 14.2 KB\nanother embedding",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-13T06:30:08.931Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 22.4,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "QUMAR CHANDRAGUPT PRIYADARSHI",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 23452,
+          "username": "spartacus",
+          "name": "QUMAR CHANDRAGUPT PRIYADARSHI",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/spartacus/{size}/127439_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23452,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/11",
+        "user_cakedate": "2023-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594325,
+        "name": "QUMAR CHANDRAGUPT PRIYADARSHI",
+        "username": "spartacus",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/spartacus/{size}/127439_2.png",
+        "created_at": "2025-02-13T06:28:59.121Z",
+        "cooked": "@carlton\nScreenshot 2025-02-13 1058351140\u00d7737 28.5 KB\nSir, In my dashboard i am getting Absent for GA3\nmy email id : 23f3001731@ds.study.iitm.ac.in\ni am not able to submit embeddings more than 1 so i am submitting it in another reply",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-13T06:28:59.121Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 39,
+        "readers_count": 38,
+        "score": 22.6,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "QUMAR CHANDRAGUPT PRIYADARSHI",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23452,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/12",
+        "user_cakedate": "2023-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594330,
+        "name": "Anvitha",
+        "username": "AnvithaV",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anvithav/{size}/67203_2.png",
+        "created_at": "2025-02-13T06:46:36.164Z",
+        "cooked": "Sir, I have attempted the graded assignment 2 and also saved it but my score is showing as absent. Please look into the issue sir.\nMy email id is 23f1002071@ds.study.iitm.ac.in\ngraded assignment page1886\u00d7776 45.5 KB\ncourse dashboard (1)1919\u00d7828 156 KB\n@carlton @Jivraj",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-13T09:34:36.840Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 27.2,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Anvitha",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20511,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/13",
+        "user_cakedate": "2023-06-13",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594515,
+        "name": "Shailendra Dhakad",
+        "username": "dshail",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dshail/{size}/46502_2.png",
+        "created_at": "2025-02-13T12:41:12.084Z",
+        "cooked": "Same issue I\u2019m facing in my dashboard for week - 3 it shows I\u2019m absent although on portal it is showing my marks.\nPlease update my dashboard.\nE-mail: 22f2000905@ds.study.iitm.ac.in\nTDS 2025 Jan GA3\nTDS-W3-Results2472\u00d71636 313 KB",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-13T12:41:12.084Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 36,
+        "readers_count": 35,
+        "score": 21.8,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Shailendra Dhakad",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15166,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/14",
+        "user_cakedate": "2022-09-14",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 594516,
+        "name": "Shailendra Dhakad",
+        "username": "dshail",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dshail/{size}/46502_2.png",
+        "created_at": "2025-02-13T12:42:30.391Z",
+        "cooked": "TDS 2025 Jan GA3-Dashboard2750\u00d71328 290 KB",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-13T12:42:30.391Z",
+        "reply_count": 2,
+        "reply_to_post_number": 14,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 31,
+        "readers_count": 30,
+        "score": 30.8,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Shailendra Dhakad",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15166,
+          "username": "dshail",
+          "name": "Shailendra Dhakad",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dshail/{size}/46502_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15166,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/15",
+        "user_cakedate": "2022-09-14",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595714,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-16T02:59:23.470Z",
+        "cooked": "Dear Students,\nOn the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email.\nKind regards",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T02:59:23.470Z",
+        "reply_count": 0,
+        "reply_to_post_number": 15,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 30,
+        "readers_count": 29,
+        "score": 5.6,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 15166,
+          "username": "dshail",
+          "name": "Shailendra Dhakad",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dshail/{size}/46502_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/16",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595715,
+        "name": "Sengathirsoorian E T",
+        "username": "22f3000370",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000370/{size}/131501_2.png",
+        "created_at": "2025-02-15T04:32:36.973Z",
+        "cooked": "Hello Sir/Mam,\nI had created this thread to inform that my marks for week -2 and week-4 graded assignment have not yet been updated and showing in the dashboard. But I have attended it, Please resolve the issue and do the needful actions.\nRegards,\nSengathirsoorian E T\n(22f3000370@ds.study.iitm.ac.in)\nWeek -4\nScreenshot_20250215-0958161080\u00d71852 263 KB\nI can\u2019t be able to enclose another screenshot of week-2 ( marks-5) as I was a new user.",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T03:00:57.059Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 30.0,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Sengathirsoorian E T",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16566,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/17",
+        "user_cakedate": "2023-01-30",
+        "user_birthdate": "1904-06-24",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595713,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-16T02:57:22.000Z",
+        "cooked": "On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email.\nKind regards",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T03:00:57.242Z",
+        "reply_count": 0,
+        "reply_to_post_number": 17,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 6.4,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 16566,
+          "username": "22f3000370",
+          "name": "Sengathirsoorian E T",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000370/{size}/131501_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/19",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595692,
+        "name": "23F3004407 RATANPRIYA SINGH",
+        "username": "23F3004407_RATANPRIY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004407_ratanpriy/{size}/68225_2.png",
+        "created_at": "2025-02-15T20:50:32.496Z",
+        "cooked": "Screenshot (674)1920\u00d71080 273 KB\n@Carlton D\u2019Silva sir can u please see this why it\u2019s given zero, it should be 8 right n in my dashboard it\u2019s showing absent so what i should do ?",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T06:31:21.736Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 32.4,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "23F3004407 RATANPRIYA SINGH",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247/150",
+            "internal": true,
+            "reflection": true,
+            "title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27784,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/20",
+        "assigned_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "assignment_note": null,
+        "user_cakedate": "2024-02-20",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595780,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-16T06:31:56.151Z",
+        "cooked": "Please refer to this post\n\n\n\n\nGRADED ASSIGNMENT RESULT NOT SHOWING , kindly check on this Tools in Data Science\n\n\n    On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email. \nKind regards\n  \n\n",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T06:31:56.151Z",
+        "reply_count": 1,
+        "reply_to_post_number": 20,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 39,
+        "readers_count": 38,
+        "score": 12.0,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 27784,
+          "username": "23F3004407_RATANPRIY",
+          "name": "23F3004407 RATANPRIYA SINGH",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004407_ratanpriy/{size}/68225_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/21",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 595802,
+        "name": "23F3004407 RATANPRIYA SINGH",
+        "username": "23F3004407_RATANPRIY",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004407_ratanpriy/{size}/68225_2.png",
+        "created_at": "2025-02-16T07:08:03.000Z",
+        "cooked": "Okk sir , n sir can u please tell me in which live session u have discussed regarding project becoz till week 3 i have see only n i having confusion in project so i want to see the session of project",
+        "post_number": 22,
+        "post_type": 1,
+        "posts_count": 72,
+        "updated_at": "2025-02-16T07:08:19.123Z",
+        "reply_count": 1,
+        "reply_to_post_number": 21,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 38,
+        "readers_count": 37,
+        "score": 12.0,
+        "yours": false,
+        "topic_id": 166816,
+        "topic_slug": "graded-assignments-dashboard-scores-incorrect-missing",
+        "display_username": "23F3004407 RATANPRIYA SINGH",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27784,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true,
+        "post_url": "/t/graded-assignments-dashboard-scores-incorrect-missing/166816/22",
+        "user_cakedate": "2024-02-20",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      593909,
+      593937,
+      593944,
+      593980,
+      593998,
+      594002,
+      594072,
+      594080,
+      594081,
+      594322,
+      594325,
+      594330,
+      594515,
+      594516,
+      595714,
+      595715,
+      595713,
+      595692,
+      595780,
+      595802,
+      595921,
+      596110,
+      596519,
+      596537,
+      596560,
+      596571,
+      596575,
+      596624,
+      596631,
+      596632,
+      596666,
+      596258,
+      596510,
+      596553,
+      596566,
+      596603,
+      596616,
+      596696,
+      596762,
+      596816,
+      596757,
+      596819,
+      596761,
+      596822,
+      596825,
+      596863,
+      596864,
+      596865,
+      596866,
+      596867,
+      596868,
+      596869,
+      596870,
+      596872,
+      596873,
+      596874,
+      596875,
+      596876,
+      596877,
+      596886,
+      596888,
+      596889,
+      596890,
+      596895,
+      596992,
+      597112,
+      597144,
+      597188,
+      597208,
+      597361,
+      597622,
+      597620
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      121
+    ],
+    [
+      4,
+      120
+    ],
+    [
+      10,
+      119
+    ],
+    [
+      15,
+      117
+    ],
+    [
+      19,
+      116
+    ],
+    [
+      23,
+      114
+    ],
+    [
+      31,
+      116
+    ],
+    [
+      32,
+      115
+    ],
+    [
+      33,
+      114
+    ],
+    [
+      46,
+      113
+    ],
+    [
+      70,
+      112
+    ],
+    [
+      72,
+      111
+    ]
+  ],
+  "tags": [
+    "operational",
+    "term1-2025",
+    "graded-assignment"
+  ],
+  "tags_descriptions": {},
+  "id": 166816,
+  "title": "Graded Assignments Dashboard Scores Incorrect/Missing",
+  "fancy_title": "Graded Assignments Dashboard Scores Incorrect/Missing",
+  "posts_count": 72,
+  "created_at": "2025-02-11T17:03:20.958Z",
+  "views": 199,
+  "reply_count": 43,
+  "like_count": 36,
+  "last_posted_at": "2025-02-21T03:42:15.854Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": true,
+  "archetype": "regular",
+  "slug": "graded-assignments-dashboard-scores-incorrect-missing",
+  "category_id": 34,
+  "word_count": 2572,
+  "deleted_at": null,
+  "user_id": 23180,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/6/56b130af1cc28926192b9915e2ea49a471168b8e_2_1024x461.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_166816",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 76,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 21,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 1035,
+      "height": 466,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/6/56b130af1cc28926192b9915e2ea49a471168b8e.png"
+    },
+    {
+      "max_width": 1024,
+      "max_height": 1024,
+      "width": 1024,
+      "height": 461,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/6/56b130af1cc28926192b9915e2ea49a471168b8e_2_1024x461.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "indirectly_assigned_to": {
+    "595692": {
+      "assigned_to": {
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+      },
+      "post_number": 20,
+      "assignment_note": null,
+      "assignment_status": null
+    },
+    "596819": {
+      "assigned_to": {
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+      },
+      "post_number": 46,
+      "assignment_note": null,
+      "assignment_status": null
+    }
+  },
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 26,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "Please check dashboard, I have been told by operations that the scores have been pushed for GA1, GA2, GA3 and GA4 \nKind regards",
+    "accepter_name": null,
+    "accepter_username": "carlton"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 34,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 17135,
+        "username": "23f1002223",
+        "name": "Pranaav",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002223/{size}/68963_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 13976,
+        "username": "22f2000559",
+        "name": "Anushka Kumar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000559/{size}/13152_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 27784,
+        "username": "23F3004407_RATANPRIY",
+        "name": "23F3004407 RATANPRIYA SINGH",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3004407_ratanpriy/{size}/68225_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 17862,
+        "username": "23f2000237",
+        "name": "Sakthivel S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000237/{size}/66999_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14403,
+        "username": "22f2001532",
+        "name": "Revi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001532/{size}/46577_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 43506,
+        "username": "23f2005283",
+        "name": "Chinmay Kapoor",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005283/{size}/128032_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 23452,
+        "username": "spartacus",
+        "name": "QUMAR CHANDRAGUPT PRIYADARSHI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/spartacus/{size}/127439_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 7742,
+        "username": "21f3000745",
+        "name": "Tanya kamboj",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000745/{size}/638_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15166,
+        "username": "dshail",
+        "name": "Shailendra Dhakad",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dshail/{size}/46502_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16041,
+        "username": "23f1000104",
+        "name": "Pathipati Srilakshmi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000104/{size}/122188_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 16305,
+        "username": "22f3000935",
+        "name": "ParamanandaSamantara",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000935/{size}/67178_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23180,
+        "username": "HARISH.S",
+        "name": "HARISH. S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16074,
+        "username": "22f3001316",
+        "name": "Harsh Kumar",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001316/{size}/101335_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12695,
+        "username": "shubham6",
+        "name": "Shubham Shrestha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/shubham6/{size}/12463_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16566,
+        "username": "22f3000370",
+        "name": "Sengathirsoorian E T",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000370/{size}/131501_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20511,
+        "username": "AnvithaV",
+        "name": "Anvitha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anvithav/{size}/67203_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22405,
+        "username": "23f1002510",
+        "name": "Gurumurthy",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002510/{size}/67652_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 38791,
+        "username": "24ds3000061",
+        "name": "Divjot Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000061/{size}/113018_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21999,
+        "username": "23f2004320",
+        "name": "thakur vishalkumar vinod",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004320/{size}/79240_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 23180,
+      "username": "HARISH.S",
+      "name": "HARISH. S",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/harish.s/{size}/67995_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

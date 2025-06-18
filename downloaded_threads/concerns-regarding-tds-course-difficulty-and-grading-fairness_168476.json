@@ -1,0 +1,3190 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 599766,
+        "name": "A LAKSHMI",
+        "username": "A_LAKSHMI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png",
+        "created_at": "2025-02-25T17:21:11.919Z",
+        "cooked": "Dear @jkmadathil @Anand @Bharathi\nFirst and foremost, we sincerely appreciate the efforts of the TDS team in supporting us throughout this course. The live sessions and guidance have been helpful, and we recognize the intent to make this a valuable learning experience.\nHowever, despite these efforts, many of us have faced significant challenges in keeping up with the course expectations.\nKey Challenges Faced\n Lack of Prerequisites\nThis course did not list any prerequisites, leading many students\u2014including those from non-technical backgrounds\u2014to enroll with the expectation that they could keep up. However, the reality is that the course content, assignments, and projects have been far more complex than anticipated, making it difficult to manage.\n Project Complexity & Deadline Pressure\nThe difficulty of the projects has been overwhelming, requiring most of us to rely heavily on peer support just to meet the deadlines. Despite putting in our best efforts, many of us struggled to complete them successfully.\n Course Structure Changes & Misleading Past Feedback\nMany students joined TDS based on past Discourse posts and feedback, which suggested a different course structure. With the recent changes, it has been a tough transition\u2014especially for working professionals and students without prior experience.\n Remote Open Exam (RoE) & Graded Assignments (GAs)\nWhile we have put in significant effort\u2014spending 2-3 days on Graded Assignments (GAs) to secure good scores\u2014we still find ourselves struggling to meet expectations for the projects and RoE, which are significantly harder than anticipated.\nWe completely understand the need to maintain academic standards, but we also hope fairness is considered. Since many of us are putting in our best efforts but still finding it hard to meet the course demands, we kindly request a revision of the grading pattern. Increasing the weightage of Graded Assignments (GAs) would help ensure that the dedication and hard work of students are fairly reflected in their grades. This would allow students to pass with a reasonable grade while still maintaining the integrity of the course.\nWe truly respect the effort that has gone into designing this course, and we are all here because we genuinely want to learn and grow. We only ask that the grading structure consider the diverse backgrounds of students so that everyone has a fair chance to succeed.\nThank you for your time and understanding. We appreciate your consideration and hope to find a way forward that benefits both students and the course objectives.",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-03-02T07:27:02.614Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 206,
+        "reads": 287,
+        "readers_count": 286,
+        "score": 2356.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "A LAKSHMI",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 85,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14374,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/1",
+        "user_cakedate": "2022-09-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 77
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 8
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 85,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 599768,
+        "name": "Mahi",
+        "username": "mahi.13",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mahi.13/{size}/68500_2.png",
+        "created_at": "2025-02-25T17:23:19.102Z",
+        "cooked": "Yes sir please look into this",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:23:19.102Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 254,
+        "readers_count": 253,
+        "score": 125.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Mahi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20525,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/2",
+        "user_cakedate": "2023-06-13",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599771,
+        "name": "Sarthak Gupta ",
+        "username": "22f1000376",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000376/{size}/12886_2.png",
+        "created_at": "2025-02-25T17:25:59.673Z",
+        "cooked": "@Anand @Bharathi Yes ma\u2019am please pay attention to our concern.",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:25:59.673Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 251,
+        "readers_count": 250,
+        "score": 94.8,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Sarthak Gupta ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15326,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/3",
+        "user_cakedate": "2022-09-25",
+        "user_birthdate": "1904-11-06",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599772,
+        "name": "SAKSHI PATHAK",
+        "username": "Sakshi6479",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sakshi6479/{size}/110446_2.png",
+        "created_at": "2025-02-25T17:27:50.727Z",
+        "cooked": "Yes sir, even it is tough for tech background students, just think about that how non-tech background students are handling the pressure for this course. Please consider this request.\n@carlton , @Saransh_Saini , @Jivraj , @Anand",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:30:37.848Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 249,
+        "readers_count": 248,
+        "score": 99.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "SAKSHI PATHAK",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40000,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/4",
+        "user_cakedate": "2024-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599775,
+        "name": "Kumar Rishabh ",
+        "username": "Rishabh2",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rishabh2/{size}/66901_2.png",
+        "created_at": "2025-02-25T17:31:26.262Z",
+        "cooked": "Yes @s.anand sir @jkmadathil  sir @Bharathi Mam,\nPlss look into this as this is becoming too too hectic ans stressful now Mam.",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:31:26.262Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 239,
+        "readers_count": 238,
+        "score": 122.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Kumar Rishabh ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 5,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20017,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/5",
+        "user_cakedate": "2023-06-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 5
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 5,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599786,
+        "name": "Sagandeep Kaur",
+        "username": "Sagan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png",
+        "created_at": "2025-02-25T17:45:42.047Z",
+        "cooked": "Right,\nI put 3 to 4 days on a GA. I still am not able to fully grasp the concept.\nI tried to attempt today\u2019s mock roe, it was a disaster. I hope I can do better on next mock.\nI completed my project but due to some issue I failed to submit it. That\u2019s was my mistake, and I highly regret it. I lost 20 marks because of it despite working so hard.",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:48:30.383Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 222,
+        "readers_count": 221,
+        "score": 94.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Sagandeep Kaur",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22224,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/6",
+        "user_cakedate": "2023-09-19",
+        "user_birthdate": "1904-12-29",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599787,
+        "name": "Telvin Varghese",
+        "username": "22f2001640",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001640/{size}/104_2.png",
+        "created_at": "2025-02-25T17:49:47.969Z",
+        "cooked": "Hi @s.anand @jkmadathil @Bharathi @carlton @Jivraj @Saransh_Saini\nCould you please look into the above issue?\nAdditionally, I\u2019d like to highlight a concern regarding the current grading pattern ( JAN 2025 Term ) and overall course structuring:\nGrading Concerns\nFinal Course Score:\nT = 0.15GAA + 0.2 ROE1 + 0.2 P1 + 0.2 P2 + 0.25 F\n(The weightage of Projects + ROE accounts for 60% of the total score.)\nFrom the following Discourse post, it appears that the ROE exam is extremely difficult to the point of being considered \u201cimpossible\u201d by students:\nWhat\u2019s the actual purpose of impossible ROE exam?.\nGiven this, many students may directly lose 20 marks due to ROE, significantly impacting their overall scores.\nFurthermore, for Project 1 (deadline: 16th Feb 2025), guidance was provided only in the week of the deadline. This was highly inconvenient, as the live session did not effectively address all student concerns. As a result, many students are at risk of losing a valuable 20 marks for Project 1.\nCourse Structuring & Scheduling Issues\n\nMany students pursuing this course are dual-degree students or working professionals, making it challenging to keep up with live sessions and deadlines.\nThe last-minute guidance for projects adds unnecessary pressure, especially for those juggling work or other academic commitments.\nThe structuring and scheduling of sessions feel inappropriate, with crucial guidance sessions being held too late, making it difficult to implement feedback or clarify doubts in time.\n\nRequest for Improvement\nTo ensure a smoother learning experience, I request:\n\nEarly guidance and detailed instructions for Project 2, well in advance of the deadline.\nMore structured and accessible support, considering the diverse student base, including working professionals.\nBetter management of exam difficulty levels, ensuring that assessments are fair and reflect actual learning rather than being unnecessarily tough.\n\nI hope these concerns can be taken into account, and necessary improvements can be made. Looking forward to your response.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:52:41.202Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 216,
+        "readers_count": 215,
+        "score": 493.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Telvin Varghese",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838",
+            "internal": true,
+            "reflection": false,
+            "title": "What's the actual purpose of impossible ROE exam?",
+            "clicks": 8
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 29,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14992,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/7",
+        "user_cakedate": "2022-09-10",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 27
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 29,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599794,
+        "name": "Debashis Saha",
+        "username": "23f1002909",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002909/{size}/67598_2.png",
+        "created_at": "2025-02-25T17:55:29.035Z",
+        "cooked": "Please look into it sir.",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T17:55:29.035Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 202,
+        "readers_count": 201,
+        "score": 55.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Debashis Saha",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17776,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/8",
+        "user_cakedate": "2023-06-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599811,
+        "name": "Jayakrishnan",
+        "username": "jkmadathil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "created_at": "2025-02-25T18:34:40.325Z",
+        "cooked": "Thank you @A_LAKSHMI for the detailed post. This is much appreciated. Thought of quickly stepping in before Anand or other members from the course team gives a more detailed response.\nLet me be Open and Blunt to all in saying that the grading pattern will not be changed.  And the points below are some of quick things that came to my mind while reading the detailed listing of the challenges that have been put in the OP.\n\nTDS team have been tinkering with the course structure for the past 3 terms. You can check this Discourse thread where students have unanimously said that this is not an easy subject. In fact the first page of the TDS course GA1 itself should have given everyone an indication of what lies ahead. Anand has explicitly written down the below words:\n\n\nThis course is quite hard\nHere\u2019s students\u2019 feedback:\n\nIt used to be an easy course until 2024. # # #\nNow it\u2019s hard and covers more. Take it in your last semester if possible. # # #\nPlan extra time. It takes more time than typical 3-credit courses. # # #\nLLMs grade you \u2013 unpredictably. # #\nThe ROE is hard. #\n\nTake Graded assignment 1 to check if you\u2019re ready for this course. Please drop this course (do it in a later term) if you score low. It\u2019ll be too tough for you now.\n\n\nTDS (or for that matter any course in this Degree program) is not supposed to be a single person effort. You should be realizing this even in your real life. A significant part of our learning process is social by nature. The only difference in this course is that we we explicitly encourage you to collaborate. If there is one main life lesson that we want you to learn out of this course then it is just this - Surviving tough situations require support all around us, and there is no shame in asking for help\nAgain to quote Anand:\n\n\nWe encourage learning by sharing\nYou CAN copy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).\nWhy should you copy? Because in real life, there\u2019s no time to re-invent the wheel. You\u2019ll be working in teams on the shoulders of giants. It\u2019s important to learn how to do that well.\nTo learn well, understand what you\u2019re copying. If you\u2019re short of time, prioritize.\nTo learn better, teach what you\u2019ve learnt.\n\n\nNow will be a good point to reflect on the optimization problem of Grades versus Learning. The larger question for each of you is to consider the short-term advantage of better grades versus the long term advantage of improving the fundamentals related to tools usage (not just for Data Science, but in every day life itself).\nOnce again Anand has a nice blog where [I think] he is trying to explain that neither do we know nor do students realize what is going to ultimately benefit us. This is a journey that all of us are taking together, and we hope such open interactions along with the course will make the learning (or teaching) experience enjoyable  and internally make us more humble.\nWhether you like it or not, life is becoming more complex day by day. And unless you figure out your optimization strategy, it is going to be a bumpy ride. And this is true even for the TDS course team members. Each of us are also juggling multiple responsibilities (some even doing 4 projects in this term) while ensuring that needed support can be provided to the learners. This is not lighten the issues that any of you have highlighted here, but just to point out that there is no flowery path for anyone here.\nThen the major question will be, why are all of doing this crazy business of learning tools in this way. The simplest answer is - Tools are evolving day by day, and unless we realize that they are just \u201ctools\u201d, it is going to consume us an eternity to master them The point of all the exercises and assessments, is for you to understand the fundamental aspects related to a tool and figure out your own strategies for getting a grip on them.\n@22f2001640 Management of time and difficulty levels are a shared responsibility. All of you have been sufficiently warned that the learning process wont be easy. In fact we have released all major content well in advance, so that learners can benefit from early access. And from our side, we also have realized the supporting learners wouldn\u2019t be easy. But I see that the TDS course team members have been putting their heart and soul in this course (and support), and even in this week they have prepared 3 sets of ROEs in order to ensure that all of you get enough practice opportunity.\n",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T18:34:40.325Z",
+        "reply_count": 4,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 26,
+        "reads": 201,
+        "readers_count": 200,
+        "score": 289.8,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Jayakrishnan",
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_bg_color": "0040ff",
+        "flair_color": "1affc6",
+        "flair_group_id": 41,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/84",
+            "internal": true,
+            "reflection": false,
+            "title": "Diploma Course Feedback (T32024) and Course Selection (T12025) Thread",
+            "clicks": 9
+          },
+          {
+            "url": "https://www.s-anand.net/blog/should-courses-be-hard-or-easy/",
+            "internal": false,
+            "reflection": false,
+            "title": "Should courses be hard or easy? - S Anand",
+            "clicks": 6
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+            "internal": true,
+            "reflection": false,
+            "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+            "clicks": 5
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60",
+            "internal": true,
+            "reflection": false,
+            "title": "[2024 T1] Diploma Level Feedback and Course Selection for May 2024 Term",
+            "clicks": 4
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+            "internal": true,
+            "reflection": false,
+            "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45",
+            "internal": true,
+            "reflection": false,
+            "title": "Diploma Course Feedback (T32024) and Course Selection (T12025) Thread",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6",
+            "internal": true,
+            "reflection": false,
+            "title": "What should I take next?",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681",
+            "internal": true,
+            "reflection": false,
+            "title": "Difficulty Rating for Diploma Subjects 2.0 ( based on student ratings and my experience)",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194",
+            "internal": true,
+            "reflection": false,
+            "title": "Difficulty rating for Diploma Subjects ( based on students opinion)",
+            "clicks": 3
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10",
+            "internal": true,
+            "reflection": false,
+            "title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+            "clicks": 2
+          },
+          {
+            "url": "https://tds.s-anand.net/#/",
+            "internal": false,
+            "reflection": false,
+            "title": "Tools in Data Science",
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9",
+            "internal": true,
+            "reflection": false,
+            "title": "Wrong marks in Project 2",
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62",
+            "internal": true,
+            "reflection": false,
+            "title": "[2024 T2] Diploma Level Feedback and Course Selection for September 2024 Term",
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4",
+            "internal": true,
+            "reflection": false,
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7",
+            "internal": true,
+            "reflection": false,
+            "clicks": 2
+          },
+          {
+            "url": "https://exam.sanand.workers.dev/tds-2025-01-ga1",
+            "internal": false,
+            "reflection": false,
+            "title": "Technical Assessment",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Leader",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 7,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": true,
+        "staff": true,
+        "group_moderator": true,
+        "user_id": 1,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/9",
+        "user_cakedate": "2021-03-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 7
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 7,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 599819,
+        "name": "Suhani Dubey",
+        "username": "23f1002698",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002698/{size}/66931_2.png",
+        "created_at": "2025-02-25T21:19:52.440Z",
+        "cooked": "Regarding your point of the short term benefits of grades vs the long term benefits of learning, I think I\u2019m speaking for a lot of my peers that we\u2019re not concerned about grades at this point, we just at least want to pass this course.\nI\u2019m a standalone degree potential student and while I have learned a lot from the modules and do not condone dumbing it down, but at least after all this hard work I should be able to pass the course.\nWhile grades don\u2019t matter in front of learning things but when passing the course itself is on the line then the learnings are overshadowed by the lack of marks. I want to invest myself in the ROE and the remaining project, but at this point I\u2019m so frustrated about getting at least 40 that rather than a valuable learning experience, this course seems like a burden to me.\nI understand that the grading can\u2019t be changed. All I hope and request that project 2 and end term turn out to be more approachable than project 1 and ROE so that after all this hard work, students like me at least get the privilege to pass.",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-25T21:20:11.666Z",
+        "reply_count": 1,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 172,
+        "readers_count": 171,
+        "score": 214.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Suhani Dubey",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 1,
+          "username": "jkmadathil",
+          "name": "Jayakrishnan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 10,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 20052,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/10",
+        "user_cakedate": "2023-06-12",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 10
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 10,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 600121,
+        "name": "Rishit",
+        "username": "Rrishit",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rrishit/{size}/112505_2.png",
+        "created_at": "2025-02-26T09:28:00.959Z",
+        "cooked": "Nicely highlighted the concern of all students.\nTDS as a course has been really tedious this term. It\u2019s a headache for those with non-technical background.\nIITM Management please look into this matter on urgent basis.",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-26T09:28:00.959Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 151,
+        "readers_count": 150,
+        "score": 75.0,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Rishit",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 35818,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/11",
+        "user_cakedate": "2024-09-21",
+        "user_birthdate": "1904-02-20",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 600485,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2025-02-26T19:19:58.232Z",
+        "cooked": "Dam\u2026 Even when I have finished the course (with a B ) I\u2019m still getting dragged into this   \u2026",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-26T19:19:58.232Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 133,
+        "readers_count": 132,
+        "score": 41.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 1,
+          "username": "jkmadathil",
+          "name": "Jayakrishnan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/12",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 600486,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2025-02-26T19:22:11.465Z",
+        "cooked": "But still this is a huge Problem \u2026 \n\n\n\n jkmadathil:\n\nLLMs grade you \u2013 unpredictably. # #\n\n",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-26T19:22:11.465Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 131,
+        "readers_count": 130,
+        "score": 26.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/13",
+        "user_cakedate": "2023-06-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 600906,
+        "name": "Ayush Kumar Shaw ",
+        "username": "23f2001286",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001286/{size}/67594_2.png",
+        "created_at": "2025-02-27T16:59:38.492Z",
+        "cooked": "Great! a nice post sir, I accept it is hard and I am harder than this too.",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-27T16:59:38.492Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 121,
+        "readers_count": 120,
+        "score": 39.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Ayush Kumar Shaw ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 1,
+          "username": "jkmadathil",
+          "name": "Jayakrishnan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19088,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/14",
+        "user_cakedate": "2023-06-07",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 600959,
+        "name": "Naman S. ",
+        "username": "namanshyamsukha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+        "created_at": "2025-02-27T18:13:51.518Z",
+        "cooked": "Truly agree with your point. It is hard. If the marking scheme is unpredictable, why not remove the whole grading system from this course. This is punishment even when you do learn. Hopefully, I would like a better grading system in future, even the course is designed very well!",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-27T18:14:35.230Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 21,
+        "reads": 122,
+        "readers_count": 121,
+        "score": 129.4,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Naman S. ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 20052,
+          "username": "23f1002698",
+          "name": "Suhani Dubey",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002698/{size}/66931_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12334,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/15",
+        "user_cakedate": "2022-04-30",
+        "user_birthdate": "1904-01-11",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601215,
+        "name": "Ritwik Trivedi",
+        "username": "22f1000120",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/85f322/{size}.png",
+        "created_at": "2025-02-28T13:31:40.672Z",
+        "cooked": "Seeing the difficulty of TDS I feel like appying to Anand Sir\u2019s company lol. I am barely surviving but enjoying every moment of it. But seriously though remembering everything is super difficult.",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-28T13:33:34.746Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 118,
+        "readers_count": 117,
+        "score": 28.2,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Ritwik Trivedi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8725,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/16",
+        "user_cakedate": "2021-12-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 601221,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-28T13:48:45.642Z",
+        "cooked": "You will survive. Just watch tonight\u2019s session.  and prepare and practise.",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 17,
+        "updated_at": "2025-02-28T13:48:45.642Z",
+        "reply_count": 0,
+        "reply_to_post_number": 16,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 117,
+        "readers_count": 116,
+        "score": 62.8,
+        "yours": false,
+        "topic_id": 168476,
+        "topic_slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 8725,
+          "username": "22f1000120",
+          "name": "Ritwik Trivedi",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/85f322/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/17",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      599766,
+      599768,
+      599771,
+      599772,
+      599775,
+      599786,
+      599787,
+      599794,
+      599811,
+      599819,
+      600121,
+      600485,
+      600486,
+      600906,
+      600959,
+      601215,
+      601221
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      107
+    ],
+    [
+      11,
+      106
+    ],
+    [
+      14,
+      105
+    ],
+    [
+      16,
+      104
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 5,
+      "unread": 0,
+      "new_posts": 5,
+      "unread_posts": 5,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 173,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 30,
+      "unread": 0,
+      "new_posts": 56,
+      "unread_posts": 56,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1221,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178878,
+      "title": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+      "fancy_title": "Getting an api key error upon running npx -y promptfoo eval &ndash;config project-tds-virtual-ta-promptfoo.yaml",
+      "slug": "getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T15:59:44.146Z",
+      "last_posted_at": "2025-06-12T09:04:32.396Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T09:04:32.396Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 34,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23837,
+            "username": "23f1000129",
+            "name": "Suyash Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000129/{size}/122013_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 178898,
+      "title": "Api Key Error",
+      "fancy_title": "Api Key Error",
+      "slug": "api-key-error",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T18:29:53.636Z",
+      "last_posted_at": "2025-06-12T06:50:28.438Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T06:50:28.438Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 37,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 30904,
+            "username": "24ds2000087",
+            "name": "Banani Mallick",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds2000087/{size}/119469_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178881,
+      "title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "slug": "ga4-data-sourcing-discussion-thread-tds-may-2025",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2025-06-11T16:23:45.872Z",
+      "last_posted_at": "2025-06-11T16:23:46.149Z",
+      "bumped": true,
+      "bumped_at": "2025-06-11T16:23:46.149Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term2-2025",
+        "graded-assignment",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 42,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "diploma-level",
+    "term1-2025"
+  ],
+  "tags_descriptions": {},
+  "id": 168476,
+  "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+  "fancy_title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+  "posts_count": 17,
+  "created_at": "2025-02-25T17:21:11.726Z",
+  "views": 554,
+  "reply_count": 6,
+  "like_count": 157,
+  "last_posted_at": "2025-02-28T13:48:45.642Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+  "category_id": 34,
+  "word_count": 2414,
+  "deleted_at": null,
+  "user_id": 14374,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_168476",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 17,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 1,
+  "participant_count": 16,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 160611,
+      "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+      "fancy_title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+      "slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+      "posts_count": 14,
+      "reply_count": 10,
+      "highest_post_number": 14,
+      "image_url": null,
+      "created_at": "2024-12-27T08:01:11.879Z",
+      "last_posted_at": "2024-12-27T15:42:07.821Z",
+      "bumped": true,
+      "bumped_at": "2024-12-27T15:42:07.821Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 52,
+      "views": 414,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17202,
+            "username": "22f3002811",
+            "name": "Aditya Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22415,
+            "username": "23f2005059",
+            "name": "Hameed",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15475,
+            "username": "22f3002293",
+            "name": "Rajat Goel",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 34509,
+            "username": "Devanathan",
+            "name": "Aishwarya Maan Srivastava",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/devanathan/{size}/109803_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 23495,
+            "username": "23f2004790",
+            "name": "Rudransh Srivastava",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004790/{size}/67132_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 170147,
+      "title": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates",
+      "fancy_title": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates",
+      "slug": "concerns-regarding-various-issues-graded-assignments-project-doubts-and-roe-score-updates",
+      "posts_count": 5,
+      "reply_count": 2,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2025-03-17T05:32:42.862Z",
+      "last_posted_at": "2025-03-17T12:43:30.265Z",
+      "bumped": true,
+      "bumped_at": "2025-03-17T12:43:30.265Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 15,
+      "views": 185,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 7193,
+            "username": "lakshaygarg654",
+            "name": "LAKSHAY",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lakshaygarg654/{size}/129814_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 21980,
+            "username": "23f2004912",
+            "name": "ABHIJEET KUMAR ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004912/{size}/108710_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 141413,
+      "title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+      "fancy_title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+      "slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+      "posts_count": 14,
+      "reply_count": 12,
+      "highest_post_number": 17,
+      "image_url": null,
+      "created_at": "2024-07-29T02:42:05.573Z",
+      "last_posted_at": "2025-03-01T15:58:09.265Z",
+      "bumped": true,
+      "bumped_at": "2025-03-01T15:58:09.265Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds",
+        "tds-roe"
+      ],
+      "tags_descriptions": {},
+      "like_count": 49,
+      "views": 599,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17075,
+            "username": "23ds1000034",
+            "name": "Sarfraz Ahmed",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000034/{size}/66738_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15826,
+            "username": "iitmanupam",
+            "name": "Anupam Chandra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7974,
+            "username": "Arun2",
+            "name": "Arun",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/{size}/27130_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12334,
+            "username": "namanshyamsukha",
+            "name": "Naman S. ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 126159,
+      "title": "Not clear regarding the TDS score",
+      "fancy_title": "Not clear regarding the TDS score",
+      "slug": "not-clear-regarding-the-tds-score",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2024-04-06T07:48:28.462Z",
+      "last_posted_at": "2024-04-10T04:55:07.346Z",
+      "bumped": true,
+      "bumped_at": "2024-04-10T04:55:07.346Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 7,
+      "views": 152,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 923,
+            "username": "KAJAL_PARIKH",
+            "name": "KAJAL PARIKH",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kajal_parikh/{size}/181_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 5225,
+            "username": "lokesh47",
+            "name": "Lokesh Kumar Mahawar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lokesh47/{size}/692_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14344,
+            "username": "22f2001152",
+            "name": "Lovleen Chadha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001152/{size}/1945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 126961,
+      "title": "Project 1 Wrongly Evaluated",
+      "fancy_title": "Project 1 Wrongly Evaluated",
+      "slug": "project-1-wrongly-evaluated",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T13:41:52.866Z",
+      "last_posted_at": "2024-04-21T03:24:27.143Z",
+      "bumped": true,
+      "bumped_at": "2024-04-21T03:24:27.143Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 55,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16809,
+            "username": "Parnikaa",
+            "name": "Parnikaa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/parnikaa/{size}/92888_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12082,
+            "username": "PremKumarGupta",
+            "name": "Prem Kumar Gupta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/b5ac83/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 17202,
+        "username": "22f3002811",
+        "name": "Aditya Gupta",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14992,
+        "username": "22f2001640",
+        "name": "Telvin Varghese",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001640/{size}/104_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 8725,
+        "username": "22f1000120",
+        "name": "Ritwik Trivedi",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/85f322/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20525,
+        "username": "mahi.13",
+        "name": "Mahi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mahi.13/{size}/68500_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 1,
+        "username": "jkmadathil",
+        "name": "Jayakrishnan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_color": "1affc6",
+        "flair_bg_color": "0040ff",
+        "flair_group_id": 41,
+        "admin": true,
+        "trust_level": 4
+      },
+      {
+        "id": 19088,
+        "username": "23f2001286",
+        "name": "Ayush Kumar Shaw ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001286/{size}/67594_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20052,
+        "username": "23f1002698",
+        "name": "Suhani Dubey",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002698/{size}/66931_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22224,
+        "username": "Sagan",
+        "name": "Sagandeep Kaur",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sagan/{size}/95367_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 40000,
+        "username": "Sakshi6479",
+        "name": "SAKSHI PATHAK",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sakshi6479/{size}/110446_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 35818,
+        "username": "Rrishit",
+        "name": "Rishit",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rrishit/{size}/112505_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17776,
+        "username": "23f1002909",
+        "name": "Debashis Saha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002909/{size}/67598_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 20017,
+        "username": "Rishabh2",
+        "name": "Kumar Rishabh ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rishabh2/{size}/66901_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12334,
+        "username": "namanshyamsukha",
+        "name": "Naman S. ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14374,
+        "username": "A_LAKSHMI",
+        "name": "A LAKSHMI",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15326,
+        "username": "22f1000376",
+        "name": "Sarthak Gupta ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000376/{size}/12886_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 14374,
+      "username": "A_LAKSHMI",
+      "name": "A LAKSHMI",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    },
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/84",
+        "title": "Diploma Course Feedback (T32024) and Course Selection (T12025) Thread",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 9,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838",
+        "title": "What's the actual purpose of impossible ROE exam?",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 8,
+        "user_id": 14992,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://www.s-anand.net/blog/should-courses-be-hard-or-easy/",
+        "title": "Should courses be hard or easy? - S Anand",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 6,
+        "user_id": 1,
+        "domain": "www.s-anand.net",
+        "root_domain": "s-anand.net"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+        "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60",
+        "title": "[2024 T1] Diploma Level Feedback and Course Selection for May 2024 Term",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6",
+        "title": "What should I take next?",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+        "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681",
+        "title": "Difficulty Rating for Diploma Subjects 2.0 ( based on student ratings and my experience)",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45",
+        "title": "Diploma Course Feedback (T32024) and Course Selection (T12025) Thread",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194",
+        "title": "Difficulty rating for Diploma Subjects ( based on students opinion)",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://tds.s-anand.net/#/",
+        "title": "Tools in Data Science",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "tds.s-anand.net",
+        "root_domain": "s-anand.net"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62",
+        "title": "[2024 T2] Diploma Level Feedback and Course Selection for September 2024 Term",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4",
+        "title": null,
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7",
+        "title": null,
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10",
+        "title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9",
+        "title": "Wrong marks in Project 2",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

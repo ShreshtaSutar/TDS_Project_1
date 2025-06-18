@@ -1,0 +1,2146 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 617737,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-04-10T07:52:12.871Z",
+        "cooked": "Mock Exam: Tools in Data Science\nThe end term and the mock has been created using the TDS GPT Assistant. Since the GPT has ALL the GAs, Course Content Modules, Live Session Transcriptions (its works like RAG), it is really able to help you prepare for the end term. Use it!\nTherefore you can also create your own mocks.\n\n\n\nChatGPT\n\n\nChatGPT - IITM TDS Teaching Assistant\nTA for IIT Madras' Data Science course, guiding students with questions.\n\n\n\n\n\nBelow are variant questions across various topics relevant to the course. These questions have been curated from the topics areas we are focussing on. Therefore it will be very similar in content to the end term.\n\nWhat it does not contain: Scenario based questions. These are complex to construct. We will address the topics for these questions in the live session.\n\n\nLLMs\nPandas\nGit, Docker, Bash\n\n\nQ1: HTTP Method Semantics\nWhich HTTP method is not idempotent, meaning repeated identical requests may result in different outcomes each time?\n\nA. GET\nB. PUT\nC. POST\nD. DELETE\n\nAnswer: C. POST\nQ2: IDE Features\nWhich feature is least likely to be found in a standard code editor or IDE?\n\nA. Code formatting tools\nB. Integrated terminal\nC. Git integration\nD. Cloud hosting of Docker containers\n\nAnswer: D. Cloud hosting of Docker containers\nQ3: Pandas Summary Methods\nYou have a DataFrame with a region column. To get a quick summary of how many entries are in each region, which method is most useful?\n\nA. df.describe()\nB. df[\u201cregion\u201d].value_counts()\nC. df.count()\nD. df.groupby(\u201cregion\u201d).sum()\n\nAnswer: B. df[\u201cregion\u201d].value_counts()\nQ4: Python Exception Scope\nYou want to safely open a file, handle any errors, and ensure the file is always closed in Python. Which pattern should you use?\n\nA. try: open(...) then finally: close()\nB. open() and then except\nC. open() and then raise\nD. Use with open(...) as f: block\n\nAnswer: D. Use with open(...) as f: block\nQ5: Chrome DevTools - Debugging\nA frontend developer wants to trace JavaScript function calls step-by-step. Which Chrome DevTools panel should they use?\n\nA. Console\nB. Application\nC. Sources\nD. Elements\n\nAnswer: C. Sources\nQ6: Data Cleaning Tools\nYou are cleaning survey responses and want to automatically match similar text entries like \u201cNYC\u201d, \u201cNew York City\u201d, and \u201cnewyorkcity\u201d. Which approach/tool would be most effective?\n\nA. TRIM() in Excel\nB. Manual Find and Replace\nC. Fuzzy matching or clustering in OpenRefine\nD. COUNTIF()\n\nAnswer: C. Fuzzy matching or clustering in OpenRefine\nQ7: Geospatial Libraries\nWhich pair of Python libraries is best suited for geospatial analysis and rendering static maps?\n\nA. pandas and seaborn\nB. geopandas and matplotlib\nC. folium and flask\nD. sklearn and dash\n\nAnswer: B. geopandas and matplotlib\nQ8: Statistical Significance\nA psychologist tests if a training program changes memory performance and finds a p-value of 0.08. What can be concluded at the 0.05 significance level?\n\nA. The result is highly significant\nB. The null hypothesis must be rejected\nC. There is insufficient evidence to reject the null hypothesis\nD. The program is proven to work\n\nAnswer: C. There is insufficient evidence to reject the null hypothesis\nQ9: Purpose of Kumu\nWhat is a key use case for a tool like Kumu?\n\nA. Animating time series\nB. Designing deep learning models\nC. Visualizing stakeholder networks and system relationships\nD. Performing statistical analysis\n\nAnswer: C. Visualizing stakeholder networks and system relationships\nQ10: DevTools Performance Diagnostics\nTo diagnose a slow webpage, you want to analyze scripts, rendering times, and long tasks. Which DevTools panel provides a timeline-based view?\n\nA. Elements\nB. Performance\nC. Network\nD. Lighthouse\n\nAnswer: B. Performance\nQ11: Git Configuration\nWhich of the following files helps configure a Git project\u2019s name, email, and default branch?\n\nA. .gitignore\nB. .gitattributes\nC. .git/config\nD. README.md\n\nAnswer: C. .git/config\nQ13: Safe HTTP Method\nWhich HTTP method is considered safe, meaning it is only used for retrieval and must not change server state?\n\nA. GET\nB. DELETE\nC. PATCH\nD. POST\n\nAnswer: A. GET\nQ14: Deduplicating Text Entries\nA dataset has entries like \u201cIBM\u201d, \u201cI.B.M.\u201d, and \u201cInternational Business Machines\u201d. What is the best tool to cluster these for cleaning?\n\nA. Excel TRIM\nB. OpenRefine using key collision or fingerprinting\nC. pandas merge()\nD. CONCATENATE()\n\nAnswer: B. OpenRefine using key collision or fingerprinting\nQ15: Geospatial + Interactive Mapping\nA conservation biologist wants to visualize real-time animal tracking data on an interactive map. Which libraries would be best?\n\nA. geopandas and plotly\nB. folium and pandas\nC. seaborn and shapely\nD. rasterio and altair\n\nAnswer: B. folium and pandas\nQ16: Pandas - Filtering Unique Entries\nYou have a DataFrame of customer orders and want to list only those customers who ordered once. Which Pandas method chain is most suitable?\n\nA. df.groupby(\u201ccustomer\u201d).sum()\nB. df[\u201ccustomer\u201d].value_counts() == 1\nC. df.drop_duplicates()\nD. df[\u201ccustomer\u201d].nunique()\n\nAnswer: B. df[\u201ccustomer\u201d].value_counts() == 1\nQ17: Purpose of Kumu in System Design\nHow does Kumu help in system design or stakeholder mapping?\n\nA. Organizing spreadsheets\nB. Identifying leverage points in complex systems through visual maps\nC. Rendering line graphs\nD. Sending notifications\n\nAnswer: B. Identifying leverage points in complex systems through visual maps\nQ18: Python Exception - Multiple Handlers\nWhich structure allows Python to handle different types of exceptions separately?\n\nA. try\u2026finally\nB. if\u2026else\nC. Multiple except blocks\nD. Nested try blocks\n\nAnswer: C. Multiple except blocks\nQ19: Understanding Statistical Power\nIf a study has low statistical power, what is most likely to occur?\n\nA. False positive (Type I error)\nB. False negative (Type II error)\nC. Confounding\nD. Multicollinearity\n\nAnswer: B. False negative (Type II error)\nQ20: Git Basics - Staging Area\nWhich Git command moves modified files to the staging area?\n\nA. git push\nB. git add\nC. git fetch\nD. git init\n\nAnswer: B. git add\nQ21: Chrome DevTools - Local Storage\nWhere can you inspect local storage items (e.g. tokens, preferences) in Chrome DevTools?\n\nA. Console\nB. Application > Local Storage\nC. Elements\nD. Sources\n\nAnswer: B. Application > Local Storage\nQ22: Chrome DevTools - JS Performance\nWhich DevTools feature helps measure execution time of scripts and CPU usage?\n\nA. Console\nB. Network\nC. Performance\nD. Application\n\nAnswer: C. Performance\nQ23: Excel Data Import - Scientific Notation Issue\nYou import a CSV file where product IDs like \"1E10\" are being interpreted as scientific notation in Excel. What is the best way to preserve these IDs as text?\n\nA. Format the column as General\nB. Use =TEXT(A1, \"0\") after import\nC. Set column format to Text during import or Text-to-Columns\nD. Change regional settings\n\nAnswer: C. Set column format to Text during import or Text-to-Columns\n\nModule: Everyday Tools\nQ1: Spreadsheet Functions\nYou have a dataset in Excel where column A contains full names in the format \u201cLast Name, First Name\u201d. Which function can you use to extract the first name into a separate column?\n\nA. =LEFT(A1, FIND(\",\", A1)-1)\nB. =RIGHT(A1, LEN(A1) - FIND(\",\", A1))\nC. =MID(A1, FIND(\",\", A1)+2, LEN(A1))\nD. =SPLIT(A1, \",\")\n\nAnswer: C \u2014 The MID function extracts text from the middle of a string. By finding the position of the comma and adding 2 (to skip the comma and space), it extracts the first name. Option A extracts the last name, Option B results in an error due to incorrect syntax, and Option D is not a valid Excel function.\n\nModule: Data Sourcing\nQ2: Web Scraping Ethics\nWhen performing web scraping to collect data, which of the following practices is considered unethical?\n\nA. Respecting the website\u2019s robots.txt file.\nB. Sending requests at a rate that mimics human browsing behavior.\nC. Scraping data from a website that requires login without permission.\nD. Citing the source of the data collected.\n\nAnswer: C \u2014 Scraping data from a website that requires login without permission violates the site\u2019s terms of service and user privacy. Options A, B, and D are ethical practices that respect the website\u2019s policies and data ownership.\n\nModule: Data Preparation\nQ3: Handling Missing Data\nIn a dataset, you notice that several entries in the \u201cAge\u201d column are missing. Which method is generally not appropriate for handling these missing values?\n\nA. Replacing missing values with the mean age.\nB. Deleting rows with missing age values.\nC. Replacing missing values with a fixed age, such as 0.\nD. Leaving the missing values as they are without any action.\n\nAnswer: D \u2014 Leaving missing values unaddressed can lead to errors in analysis and modeling. Options A, B, and C are common strategies for handling missing data, depending on the context and the extent of the missingness.\n\nModule: Data Analysis\nQ4: Statistical Measures\nWhich of the following statistical measures is not sensitive to extreme values (outliers) in a dataset?\n\nA. Mean\nB. Median\nC. Standard Deviation\nD. Range\n\nAnswer: B \u2014 The median represents the middle value of a dataset and is not affected by outliers. In contrast, the mean, standard deviation, and range can be significantly influenced by extreme values.\n\nModule: Large Language Models\nQ5: Tokenization in NLP\nIn Natural Language Processing, what is the primary purpose of tokenization?\n\nA. To translate text from one language to another.\nB. To split text into individual words or subwords.\nC. To encrypt text for secure communication.\nD. To summarize large texts into shorter versions.\n\nAnswer: B \u2014 Tokenization involves breaking down text into smaller components, such as words or subwords, which can then be processed by language models. This is a fundamental step in NLP tasks.\n\nModule: Geospatial and Network Analysis\nQ6: Geographic Coordinate Systems\nWhich of the following coordinate systems is commonly used to represent locations on Earth\u2019s surface?\n\nA. Cartesian Coordinate System\nB. Polar Coordinate System\nC. Geographic Coordinate System (Latitude and Longitude)\nD. Cylindrical Coordinate System\n\nAnswer: C \u2014 The Geographic Coordinate System uses latitude and longitude to specify locations on Earth\u2019s surface. This system is widely used in geospatial analysis.\n\nModule: Data Visualization\nQ7: Effective Data Visualization\nWhen creating a bar chart to compare the sales performance of different products, which practice should be avoided?\n\nA. Ordering bars from highest to lowest value.\nB. Using different colors for each bar without a legend.\nC. Starting the y-axis at zero.\nD. Labeling each bar with its exact value.\n\nAnswer: B \u2014 Using different colors for each bar without a legend can confuse the audience, as they may assume the colors represent different categories. Consistency and clarity are key in effective data visualization.\n\nModule: Everyday Tools\nQ8: VS Code Feature Use\nYou are editing a Python script in Visual Studio Code and want to quickly find and edit all occurrences of a variable name in the current file. What feature should you use?\n\nA. Git integration\nB. Debug panel\nC. Multi-cursor editing\nD. Terminal commands\n\nAnswer: C \u2014 Multi-cursor editing allows you to place multiple cursors in a file and edit text in multiple locations at once. It is useful for refactoring variable names or repeated patterns.\n\nModule: Data Sourcing\nQ9: Data API Identification\nWhich of the following data sources is most likely to provide structured data accessible via an API?\n\nA. A scanned PDF document\nB. A screenshot of a chart\nC. The World Bank data portal\nD. A newspaper article\n\nAnswer: C \u2014 The World Bank data portal provides structured datasets accessible via APIs. The other options involve unstructured or image-based content not suitable for direct data access.\n\nModule: Data Preparation\nQ10: Data Type Conversion in Excel\nYou imported a CSV file into Excel, and one of the columns containing numbers is treated as text. What is the easiest way to convert it into numeric format?\n\nA. Use the CONCAT function\nB. Format the column as Text\nC. Use the VALUE() function\nD. Use SUBSTITUTE()\n\nAnswer: C \u2014 The VALUE function converts text that appears as numbers into actual numeric values. This is useful when data is imported with formatting issues.\n\nModule: Data Analysis\nQ11: Outlier Detection\nYou are analyzing a dataset of employee salaries. Which visualization is best for quickly identifying outliers?\n\nA. Line chart\nB. Box plot\nC. Histogram\nD. Pie chart\n\nAnswer: B \u2014 A box plot clearly shows the spread of data and highlights outliers as individual points beyond the whiskers.\n\nModule: Large Language Models\nQ12: Prompt Engineering Strategy\nTo get consistent, structured responses from a language model when extracting key information, which approach is most effective?\n\nA. Ask the model to \u201csummarize\u201d the text\nB. Use open-ended questions\nC. Use system messages and JSON schema formatting\nD. Provide only one-word inputs\n\nAnswer: C \u2014 System messages and structured output formats like JSON schemas guide the model to generate reliable and consistent structured responses.\n\nModule: Geospatial and Network Analysis\nQ13: Network Centrality\nIn a social network graph of coworkers, which metric best identifies the person who connects the most groups together?\n\nA. Degree centrality\nB. Closeness centrality\nC. Betweenness centrality\nD. Eigenvector centrality\n\nAnswer: C \u2014 Betweenness centrality measures how often a node appears on shortest paths between other nodes, highlighting connectors or \u201cbridges\u201d in the network.\n\nModule: Data Visualization\nQ14: Choosing the Right Chart\nYou want to show how the composition of a marketing budget changes across three years. Which visualization is most appropriate?\n\nA. Pie charts for each year\nB. Scatter plots\nC. Stacked bar chart\nD. Line chart\n\nAnswer: C \u2014 A stacked bar chart shows parts of a whole across different categories and time periods, making it easier to compare budget composition over years.",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-10T08:00:00.621Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 100,
+        "reads": 351,
+        "readers_count": 350,
+        "score": 812.0,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+            "internal": false,
+            "reflection": false,
+            "clicks": 125
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 17,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/1",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 16
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 17,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 617741,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-04-10T07:55:57.345Z",
+        "cooked": "",
+        "post_number": 2,
+        "post_type": 3,
+        "posts_count": 10,
+        "updated_at": "2025-04-10T07:55:57.345Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 285,
+        "readers_count": 284,
+        "score": 70.6,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "action_code": "pinned.enabled",
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618104,
+        "name": "Jayaram",
+        "username": "22f3002723",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002723/{size}/110636_2.png",
+        "created_at": "2025-04-11T05:30:28.919Z",
+        "cooked": "@carlton @Jivraj\nany link for last term\u2019s end term question answer",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-11T05:30:28.919Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 7,
+        "reads": 279,
+        "readers_count": 278,
+        "score": 94.0,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Jayaram",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17038,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/4",
+        "user_cakedate": "2023-04-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618184,
+        "name": "Durga Prasad",
+        "username": "22f3001307",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001307/{size}/70467_2.png",
+        "created_at": "2025-04-11T08:45:48.950Z",
+        "cooked": "\n\n\nquizpractice.space\n\n\n\nPractise End Term Quiz Question Papers\nPractice with IITM's online BS degree question papers and quizzes to improve your preparation.\n\n\n\n\n\n",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-11T08:45:48.950Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 277,
+        "readers_count": 276,
+        "score": 128.6,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Durga Prasad",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://quizpractice.space/exam/7a6ff569-f50c-40e7-a08b-f5c334392600",
+            "internal": false,
+            "reflection": false,
+            "title": "Practise End Term Quiz Question Papers",
+            "clicks": 82
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 17038,
+          "username": "22f3002723",
+          "name": "Jayaram",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002723/{size}/110636_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15780,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618380,
+        "name": "Tushar Jalan ",
+        "username": "23f2003751",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003751/{size}/68010_2.png",
+        "created_at": "2025-04-11T19:56:15.807Z",
+        "cooked": "So here is more questions in the form of a little quiz (shared by someone in the group,DM for Credit )\n\ngkmfrombs.github.io\n\n\nQuiz from PDF\n\n\n\n\n\nThat has 350 questions if you don\u2019t want to go through all of them(it\u2019s pretty time consuming)\nin that case just do this PDF.(This pdf contains all the questions that is a bit conceptual i would say and some questions which i failed to do  )\n\n\naccounts.google.com\n\n\nGoogle Drive: Sign-in\nAccess Google Drive with a Google account (for personal use) or Google Workspace account (for business use).\n\n\n\n\n\n\n(If you know context to the pdf\u2019s name,we are friends )\nThank you,\nKindeeesstt Regards,(hopefully the last post on discourse for TDS),\nTushar Jalan",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-11T20:05:22.100Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 259,
+        "readers_count": 258,
+        "score": 110.2,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Tushar Jalan ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://gkmfrombs.github.io/tds_quiz/",
+            "internal": false,
+            "reflection": false,
+            "title": "Quiz from PDF",
+            "clicks": 85
+          },
+          {
+            "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1TdXX4mcWaA-ugY9nL0hm1zTa_SJGic3T%2Fview%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1TdXX4mcWaA-ugY9nL0hm1zTa_SJGic3T%2Fview%3Fusp%3Dsharing&ifkv=AXH0vVsCl9rHQxcRPKDEBdF3oOkGtLRjZ-BFKdcccxSGUFkdSijsEgmjtYG0tuTwCSdBHRs3zNjm3g&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1894439260%3A1744401916671974",
+            "internal": false,
+            "reflection": false,
+            "clicks": 66
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21420,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/6",
+        "user_cakedate": "2023-09-18",
+        "user_birthdate": "1904-04-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618392,
+        "name": "Tanush Tambe",
+        "username": "22f3002248",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002248/{size}/111205_2.png",
+        "created_at": "2025-04-12T00:18:31.370Z",
+        "cooked": "Thank you for your efforts\nThanks\nEdit: Opened in incognito and it worked.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-12T00:46:48.895Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 234,
+        "readers_count": 233,
+        "score": 45.2,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Tanush Tambe",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 21420,
+          "username": "23f2003751",
+          "name": "Tushar Jalan ",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003751/{size}/68010_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17433,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/7",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618619,
+        "name": "Divjot Singh",
+        "username": "24ds3000061",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000061/{size}/113018_2.png",
+        "created_at": "2025-04-12T11:48:23.569Z",
+        "cooked": "Hi @carlton please upload the recording of Thursday\u2019s TDS session on the YouTube playlist",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-12T11:48:23.569Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 195,
+        "readers_count": 194,
+        "score": 42.4,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Divjot Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 38791,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/8",
+        "user_cakedate": "2024-09-26",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618626,
+        "name": "VENKATESWARLU THATHA ",
+        "username": "Venkatesh_2k01",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/venkatesh_2k01/{size}/119822_2.png",
+        "created_at": "2025-04-12T12:00:50.407Z",
+        "cooked": "@carlton sir i have done the 350 questions . i am able to answer 80% of the questions on my own, correctly. will end term also be similar to these questions? are pyqs any helpful ?",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-12T12:23:26.227Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 192,
+        "readers_count": 191,
+        "score": 36.4,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "VENKATESWARLU THATHA ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22552,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/9",
+        "user_cakedate": "2023-09-23",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618628,
+        "name": "Jivraj Singh Shekhawat",
+        "username": "Jivraj",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "created_at": "2025-04-12T12:09:15.641Z",
+        "cooked": "Live Session - TDS - 2025/04/10 20:00 GMT+05:30 - Recording - Google Drive\nAccess recording through this gdrive link",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-12T12:09:15.641Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 5,
+        "reads": 195,
+        "readers_count": 194,
+        "score": 77.0,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Jivraj Singh Shekhawat",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://drive.google.com/file/d/1nzmGBhYoIxY9ZRMoO5yksi3E7GH5xXub/view",
+            "internal": false,
+            "reflection": false,
+            "title": "Live Session - TDS - 2025/04/10 20:00 GMT+05:30 - Recording - Google Drive",
+            "clicks": 22
+          }
+        ],
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 38791,
+          "username": "24ds3000061",
+          "name": "Divjot Singh",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000061/{size}/113018_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 15651,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/10",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 618783,
+        "name": "Pranaav",
+        "username": "23f1002223",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002223/{size}/68963_2.png",
+        "created_at": "2025-04-13T02:26:36.725Z",
+        "cooked": "Thank you for the questions sir.",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 10,
+        "updated_at": "2025-04-13T02:26:36.725Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 114,
+        "readers_count": 113,
+        "score": 30.6,
+        "yours": false,
+        "topic_id": 172333,
+        "topic_slug": "end-term-mock-tds-jan-25",
+        "display_username": "Pranaav",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17135,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/end-term-mock-tds-jan-25/172333/11",
+        "user_cakedate": "2023-06-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      617737,
+      617741,
+      618104,
+      618184,
+      618380,
+      618392,
+      618619,
+      618626,
+      618628,
+      618783
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      63
+    ],
+    [
+      3,
+      62
+    ],
+    [
+      7,
+      61
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 5,
+      "unread": 0,
+      "new_posts": 5,
+      "unread_posts": 5,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 173,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 30,
+      "unread": 0,
+      "new_posts": 56,
+      "unread_posts": 56,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1221,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178878,
+      "title": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+      "fancy_title": "Getting an api key error upon running npx -y promptfoo eval &ndash;config project-tds-virtual-ta-promptfoo.yaml",
+      "slug": "getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T15:59:44.146Z",
+      "last_posted_at": "2025-06-12T09:04:32.396Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T09:04:32.396Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 34,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23837,
+            "username": "23f1000129",
+            "name": "Suyash Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000129/{size}/122013_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 178898,
+      "title": "Api Key Error",
+      "fancy_title": "Api Key Error",
+      "slug": "api-key-error",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T18:29:53.636Z",
+      "last_posted_at": "2025-06-12T06:50:28.438Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T06:50:28.438Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 37,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 30904,
+            "username": "24ds2000087",
+            "name": "Banani Mallick",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds2000087/{size}/119469_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178881,
+      "title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "slug": "ga4-data-sourcing-discussion-thread-tds-may-2025",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2025-06-11T16:23:45.872Z",
+      "last_posted_at": "2025-06-11T16:23:46.149Z",
+      "bumped": true,
+      "bumped_at": "2025-06-11T16:23:46.149Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term2-2025",
+        "graded-assignment",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 42,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "term1-2025",
+    "end-term-exam",
+    "mock"
+  ],
+  "tags_descriptions": {},
+  "id": 172333,
+  "title": "END TERM MOCK [TDS Jan 25]",
+  "fancy_title": "END TERM MOCK [TDS Jan 25]",
+  "posts_count": 10,
+  "created_at": "2025-04-10T07:52:12.506Z",
+  "views": 736,
+  "reply_count": 3,
+  "like_count": 24,
+  "last_posted_at": "2025-04-13T02:26:36.725Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "end-term-mock-tds-jan-25",
+  "category_id": 34,
+  "word_count": 2471,
+  "deleted_at": null,
+  "user_id": 16094,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_172333",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 11,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 6,
+  "participant_count": 9,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 144255,
+      "title": "End Term Mock Issue",
+      "fancy_title": "End Term Mock Issue",
+      "slug": "end-term-mock-issue",
+      "posts_count": 2,
+      "reply_count": 1,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-08-28T12:56:55.147Z",
+      "last_posted_at": "2024-08-29T07:31:55.777Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T08:07:29.320Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 140,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 11330,
+            "username": "21f3001740",
+            "name": "Aditya Swaroop",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001740/{size}/35806_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 84380,
+      "title": "Mock for end term - TDS",
+      "fancy_title": "Mock for end term - TDS",
+      "slug": "mock-for-end-term-tds",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2023-04-18T16:35:18.688Z",
+      "last_posted_at": "2023-04-18T16:35:18.879Z",
+      "bumped": true,
+      "bumped_at": "2023-04-18T16:35:18.879Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "quiz",
+        "mock"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 76,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 6580,
+            "username": "21f2000683",
+            "name": "Harshal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2000683/{size}/111598_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 42380,
+      "title": "Mock + Sample Questions for end term",
+      "fancy_title": "Mock + Sample Questions for end term",
+      "slug": "mock-sample-questions-for-end-term",
+      "posts_count": 10,
+      "reply_count": 7,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2022-03-27T19:29:08.852Z",
+      "last_posted_at": "2022-04-01T04:00:25.573Z",
+      "bumped": true,
+      "bumped_at": "2022-04-01T04:00:25.573Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 8,
+      "views": 227,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 5337,
+            "username": "ss48836",
+            "name": "Sumit Sahu",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ss48836/{size}/114_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1970,
+            "username": "Ani",
+            "name": "Animesh Sharma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ani/{size}/432_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7906,
+            "username": "sathiesh",
+            "name": "Sathiesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sathiesh/{size}/12463_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3312,
+            "username": "PROSTAB_KUNDU",
+            "name": "PROSTAB KUNDU",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prostab_kundu/{size}/330_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1062,
+            "username": "winterrolls",
+            "name": "Kautuk N D",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/winterrolls/{size}/24435_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 43033,
+      "title": "Mock for End Term",
+      "fancy_title": "Mock for End Term",
+      "slug": "mock-for-end-term",
+      "posts_count": 8,
+      "reply_count": 6,
+      "highest_post_number": 8,
+      "image_url": null,
+      "created_at": "2022-03-31T02:52:43.714Z",
+      "last_posted_at": "2024-04-27T03:39:49.139Z",
+      "bumped": true,
+      "bumped_at": "2024-04-27T03:39:49.139Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 136,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 730,
+            "username": "aaysha007",
+            "name": "Aaysha Mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aaysha007/{size}/345_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2547,
+            "username": "Sunita",
+            "name": "Sunita Nair",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sunita/{size}/116_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 19725,
+            "username": "Sethiaman",
+            "name": "Aman sethi",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sethiaman/{size}/73501_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12082,
+            "username": "PremKumarGupta",
+            "name": "Prem Kumar Gupta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/b5ac83/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 126864,
+      "title": "End term guide",
+      "fancy_title": "End term guide",
+      "slug": "end-term-guide",
+      "posts_count": 7,
+      "reply_count": 4,
+      "highest_post_number": 7,
+      "image_url": null,
+      "created_at": "2024-04-18T03:54:26.459Z",
+      "last_posted_at": "2024-04-27T06:01:28.591Z",
+      "bumped": true,
+      "bumped_at": "2024-04-27T06:01:28.591Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 5,
+      "views": 190,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 12397,
+            "username": "22f1001426",
+            "name": "Lakshya jain",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/7ea924/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8015,
+            "username": "21f2001138",
+            "name": "Ranjith",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f2001138/{size}/13866_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23581,
+            "username": "23ds3000140",
+            "name": "Ayushi Desai",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000140/{size}/66756_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 715,
+            "username": "Aerobender",
+            "name": "Utsa Dastidar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aerobender/{size}/17036_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 9248,
+            "username": "21f3001237",
+            "name": "Aakanksha Chandrashekhar Dixit",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001237/{size}/14204_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 17038,
+        "username": "22f3002723",
+        "name": "Jayaram",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002723/{size}/110636_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22552,
+        "username": "Venkatesh_2k01",
+        "name": "VENKATESWARLU THATHA ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/venkatesh_2k01/{size}/119822_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 17135,
+        "username": "23f1002223",
+        "name": "Pranaav",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002223/{size}/68963_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 38791,
+        "username": "24ds3000061",
+        "name": "Divjot Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000061/{size}/113018_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21420,
+        "username": "23f2003751",
+        "name": "Tushar Jalan ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003751/{size}/68010_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15780,
+        "username": "22f3001307",
+        "name": "Durga Prasad",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001307/{size}/70467_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17433,
+        "username": "22f3002248",
+        "name": "Tanush Tambe",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002248/{size}/111205_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    },
+    "last_poster": {
+      "id": 17135,
+      "username": "23f1002223",
+      "name": "Pranaav",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002223/{size}/68963_2.png"
+    },
+    "links": [
+      {
+        "url": "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 125,
+        "user_id": 16094,
+        "domain": "chatgpt.com",
+        "root_domain": "chatgpt.com"
+      },
+      {
+        "url": "https://gkmfrombs.github.io/tds_quiz/",
+        "title": "Quiz from PDF",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 85,
+        "user_id": 21420,
+        "domain": "gkmfrombs.github.io",
+        "root_domain": "gkmfrombs.github.io"
+      },
+      {
+        "url": "https://quizpractice.space/exam/7a6ff569-f50c-40e7-a08b-f5c334392600",
+        "title": "Practise End Term Quiz Question Papers",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 82,
+        "user_id": 15780,
+        "domain": "quizpractice.space",
+        "root_domain": "quizpractice.space"
+      },
+      {
+        "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1TdXX4mcWaA-ugY9nL0hm1zTa_SJGic3T%2Fview%3Fusp%3Dsharing&followup=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1TdXX4mcWaA-ugY9nL0hm1zTa_SJGic3T%2Fview%3Fusp%3Dsharing&ifkv=AXH0vVsCl9rHQxcRPKDEBdF3oOkGtLRjZ-BFKdcccxSGUFkdSijsEgmjtYG0tuTwCSdBHRs3zNjm3g&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1894439260%3A1744401916671974",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 66,
+        "user_id": 21420,
+        "domain": "accounts.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1nzmGBhYoIxY9ZRMoO5yksi3E7GH5xXub/view",
+        "title": "Live Session - TDS - 2025/04/10 20:00 GMT+05:30 - Recording - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 22,
+        "user_id": 15651,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

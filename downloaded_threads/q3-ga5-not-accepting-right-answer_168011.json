@@ -1,0 +1,1755 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 598100,
+        "name": "Muskan Aggarwal",
+        "username": "muskan2431",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muskan2431/{size}/24004_2.png",
+        "created_at": "2025-02-21T18:32:17.871Z",
+        "cooked": "image1337\u00d7683 31.9 KB\nIt seems that the question in Graded Assignment 5 for TDS is producing incorrect results despite the same logic working correctly for other variations of the problem. Please check into this question once as I have cross checked with many of the students and chatgpt and all of us faced  this issue in this question. Thanks!\n@carlton @s.anand\ncode to take reference from:\nimport gzip\nimport pandas as pd\nfrom datetime import datetime\n\nlog_path = 's-anand.net-May-2024.gz'\nstart_time = datetime.strptime('01:00:00', '%H:%M:%S').time()\nend_time = datetime.strptime('15:00:00', '%H:%M:%S').time()\nlog_data = []\n\ndef parse_log(line):\n    parts = line.split(' ')\n    log_time = datetime.strptime(parts[3][1:], '%d/%b/%Y:%H:%M:%S')\n    method, url, status = parts[5][1:], parts[6], int(parts[8])\n    return log_time, method, url, status\n\nwith gzip.open(log_path, 'rt') as file:\n    for entry in file:\n        log_time, method, url, status = parse_log(entry)\n        if method == 'GET' and url.startswith('/blog/') and 200 <= status < 300:\n            if log_time.weekday() == 0 and start_time <= log_time.time() < end_time:\n                log_data.append(entry)\n\nprint(f\"Successful GET requests: {len(log_data)}\")\n\nps: I shared code after the deadline hopefully no issues there! ",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-26T14:26:14.575Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 17,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 95.2,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Muskan Aggarwal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 5,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 11716,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/1",
+        "user_cakedate": "2022-02-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 598177,
+        "name": "Amit",
+        "username": "amitchaurasia",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amitchaurasia/{size}/66858_2.png",
+        "created_at": "2025-02-22T04:08:00.787Z",
+        "cooked": "I\u2019m also facing same kind of issue in Q3, GA5, while cross checked answer from different methods getting same result 1603, which is showing incorrect.\nKindly check this issue.\nThanks",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-22T04:10:23.475Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 6.8,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Amit",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16541,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/4",
+        "user_cakedate": "2023-01-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 598240,
+        "name": "Aryan Singh",
+        "username": "Aryxn",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/9d8465/{size}.png",
+        "created_at": "2025-02-22T05:52:55.677Z",
+        "cooked": "The same issue is being faced by many students, not only for this condition, but others as well. Please look into it",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-22T05:52:55.677Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 30,
+        "readers_count": 29,
+        "score": 6.0,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Aryan Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 3146,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/5",
+        "user_cakedate": "2021-05-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 598344,
+        "name": "B R GIRI SUBRAHMANYA",
+        "username": "23f2000573",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+        "created_at": "2025-02-22T08:28:29.532Z",
+        "cooked": "actually i got 130 as answer. but the answer accepted by the portal was 129. i felt like, i have to change one or two numbers front and back, i tried the same before. it worked ",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-22T08:28:29.532Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 10.0,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "B R GIRI SUBRAHMANYA",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17736,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/6",
+        "user_cakedate": "2023-06-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 598383,
+        "name": "Muskan Aggarwal",
+        "username": "muskan2431",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muskan2431/{size}/24004_2.png",
+        "created_at": "2025-02-22T09:57:39.167Z",
+        "cooked": "For the same question? But it shouldnt be +1 -1 to get the correct answer right.",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-22T09:57:39.167Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 5.0,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Muskan Aggarwal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 17736,
+          "username": "23f2000573",
+          "name": "B R GIRI SUBRAHMANYA",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 11716,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/7",
+        "user_cakedate": "2022-02-01",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 598948,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-24T11:48:02.411Z",
+        "cooked": "Hi @muskan2431 we are running some checks.\nPlease bear with us,\nKind regards",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-24T11:48:02.411Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 10.0,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 599493,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2025-02-25T11:13:32.454Z",
+        "cooked": "We have determined that some students were affected by GA5 Q3. Whoever we have identified as having received the incorrect assessment will receive 1 mark for that particular question. These are the students that we have identified as been assessed incorrectly:\n\n\n\n\nSN\nEmail\n\n\n\n\n1\n21f1000131@ds.study.iitm.ac.in\n\n\n2\n21f1001484@ds.study.iitm.ac.in\n\n\n3\n21f1001631@ds.study.iitm.ac.in\n\n\n4\n21f1001729@ds.study.iitm.ac.in\n\n\n5\n21f1001890@ds.study.iitm.ac.in\n\n\n6\n21f1002734@ds.study.iitm.ac.in\n\n\n7\n21f1002773@ds.study.iitm.ac.in\n\n\n8\n21f1003135@ds.study.iitm.ac.in\n\n\n9\n21f1003475@ds.study.iitm.ac.in\n\n\n10\n21f1003816@ds.study.iitm.ac.in\n\n\n11\n21f1005422@ds.study.iitm.ac.in\n\n\n12\n21f1005510@ds.study.iitm.ac.in\n\n\n13\n21f1006234@ds.study.iitm.ac.in\n\n\n14\n21f1006309@ds.study.iitm.ac.in\n\n\n15\n21f1006867@ds.study.iitm.ac.in\n\n\n16\n21f2000525@ds.study.iitm.ac.in\n\n\n17\n21f2000913@ds.study.iitm.ac.in\n\n\n18\n21f2000998@ds.study.iitm.ac.in\n\n\n19\n21f2001061@ds.study.iitm.ac.in\n\n\n20\n21f2001080@ds.study.iitm.ac.in\n\n\n21\n21f2001543@ds.study.iitm.ac.in\n\n\n22\n21f3000311@ds.study.iitm.ac.in\n\n\n23\n21f3000355@ds.study.iitm.ac.in\n\n\n24\n21f3000512@ds.study.iitm.ac.in\n\n\n25\n21f3000591@ds.study.iitm.ac.in\n\n\n26\n21f3000687@ds.study.iitm.ac.in\n\n\n27\n21f3000813@ds.study.iitm.ac.in\n\n\n28\n21f3001091@ds.study.iitm.ac.in\n\n\n29\n21f3001161@ds.study.iitm.ac.in\n\n\n30\n21f3001936@ds.study.iitm.ac.in\n\n\n31\n21f3001965@ds.study.iitm.ac.in\n\n\n32\n21f3002158@ds.study.iitm.ac.in\n\n\n33\n21f3002431@ds.study.iitm.ac.in\n\n\n34\n21f3002444@ds.study.iitm.ac.in\n\n\n35\n21f3002647@ds.study.iitm.ac.in\n\n\n36\n21f3002782@ds.study.iitm.ac.in\n\n\n37\n21f3003195@ds.study.iitm.ac.in\n\n\n38\n22ds2000011@ds.study.iitm.ac.in\n\n\n39\n22f1000376@ds.study.iitm.ac.in\n\n\n40\n22f1000821@ds.study.iitm.ac.in\n\n\n41\n22f1000902@ds.study.iitm.ac.in\n\n\n42\n22f1000935@ds.study.iitm.ac.in\n\n\n43\n22f1000989@ds.study.iitm.ac.in\n\n\n44\n22f1001095@ds.study.iitm.ac.in\n\n\n45\n22f1001316@ds.study.iitm.ac.in\n\n\n46\n22f1001391@ds.study.iitm.ac.in\n\n\n47\n22f1001416@ds.study.iitm.ac.in\n\n\n48\n22f1001438@ds.study.iitm.ac.in\n\n\n49\n22f1001542@ds.study.iitm.ac.in\n\n\n50\n22f1001551@ds.study.iitm.ac.in\n\n\n51\n22f1001552@ds.study.iitm.ac.in\n\n\n52\n22f1001862@ds.study.iitm.ac.in\n\n\n53\n22f2000108@ds.study.iitm.ac.in\n\n\n54\n22f2000113@ds.study.iitm.ac.in\n\n\n55\n22f2000116@ds.study.iitm.ac.in\n\n\n56\n22f2000273@ds.study.iitm.ac.in\n\n\n57\n22f2000467@ds.study.iitm.ac.in\n\n\n58\n22f2000813@ds.study.iitm.ac.in\n\n\n59\n22f2000898@ds.study.iitm.ac.in\n\n\n60\n22f2000946@ds.study.iitm.ac.in\n\n\n61\n22f2001041@ds.study.iitm.ac.in\n\n\n62\n22f2001336@ds.study.iitm.ac.in\n\n\n63\n22f2001532@ds.study.iitm.ac.in\n\n\n64\n22f2001590@ds.study.iitm.ac.in\n\n\n65\n22f3000275@ds.study.iitm.ac.in\n\n\n66\n22f3000337@ds.study.iitm.ac.in\n\n\n67\n22f3000419@ds.study.iitm.ac.in\n\n\n68\n22f3000422@ds.study.iitm.ac.in\n\n\n69\n22f3000487@ds.study.iitm.ac.in\n\n\n70\n22f3000563@ds.study.iitm.ac.in\n\n\n71\n22f3000694@ds.study.iitm.ac.in\n\n\n72\n22f3000814@ds.study.iitm.ac.in\n\n\n73\n22f3000819@ds.study.iitm.ac.in\n\n\n74\n22f3000831@ds.study.iitm.ac.in\n\n\n75\n22f3000833@ds.study.iitm.ac.in\n\n\n76\n22f3001050@ds.study.iitm.ac.in\n\n\n77\n22f3001074@ds.study.iitm.ac.in\n\n\n78\n22f3001108@ds.study.iitm.ac.in\n\n\n79\n22f3001278@ds.study.iitm.ac.in\n\n\n80\n22f3001316@ds.study.iitm.ac.in\n\n\n81\n22f3001675@ds.study.iitm.ac.in\n\n\n82\n22f3001688@ds.study.iitm.ac.in\n\n\n83\n22f3001777@ds.study.iitm.ac.in\n\n\n84\n22f3001834@ds.study.iitm.ac.in\n\n\n85\n22f3001930@ds.study.iitm.ac.in\n\n\n86\n22f3001961@ds.study.iitm.ac.in\n\n\n87\n22f3001967@ds.study.iitm.ac.in\n\n\n88\n22f3002011@ds.study.iitm.ac.in\n\n\n89\n22f3002175@ds.study.iitm.ac.in\n\n\n90\n22f3002184@ds.study.iitm.ac.in\n\n\n91\n22f3002236@ds.study.iitm.ac.in\n\n\n92\n22f3002265@ds.study.iitm.ac.in\n\n\n93\n22f3002291@ds.study.iitm.ac.in\n\n\n94\n22f3002307@ds.study.iitm.ac.in\n\n\n95\n22f3002394@ds.study.iitm.ac.in\n\n\n96\n22f3002447@ds.study.iitm.ac.in\n\n\n97\n22f3002498@ds.study.iitm.ac.in\n\n\n98\n22f3002565@ds.study.iitm.ac.in\n\n\n99\n22f3002634@ds.study.iitm.ac.in\n\n\n100\n22f3002712@ds.study.iitm.ac.in\n\n\n101\n22f3002813@ds.study.iitm.ac.in\n\n\n102\n22f3002844@ds.study.iitm.ac.in\n\n\n103\n22f3002948@ds.study.iitm.ac.in\n\n\n104\n22f3003003@ds.study.iitm.ac.in\n\n\n105\n22f3003237@ds.study.iitm.ac.in\n\n\n106\n23ds1000032@ds.study.iitm.ac.in\n\n\n107\n23ds2000055@ds.study.iitm.ac.in\n\n\n108\n23ds2000069@ds.study.iitm.ac.in\n\n\n109\n23ds3000146@ds.study.iitm.ac.in\n\n\n110\n23ds3000149@ds.study.iitm.ac.in\n\n\n111\n23ds3000224@ds.study.iitm.ac.in\n\n\n112\n23f1000232@ds.study.iitm.ac.in\n\n\n113\n23f1000257@ds.study.iitm.ac.in\n\n\n114\n23f1000292@ds.study.iitm.ac.in\n\n\n115\n23f1000587@ds.study.iitm.ac.in\n\n\n116\n23f1000776@ds.study.iitm.ac.in\n\n\n117\n23f1000813@ds.study.iitm.ac.in\n\n\n118\n23f1000844@ds.study.iitm.ac.in\n\n\n119\n23f1001472@ds.study.iitm.ac.in\n\n\n120\n23f1001651@ds.study.iitm.ac.in\n\n\n121\n23f1001684@ds.study.iitm.ac.in\n\n\n122\n23f1001788@ds.study.iitm.ac.in\n\n\n123\n23f1001861@ds.study.iitm.ac.in\n\n\n124\n23f1002075@ds.study.iitm.ac.in\n\n\n125\n23f1002114@ds.study.iitm.ac.in\n\n\n126\n23f1002279@ds.study.iitm.ac.in\n\n\n127\n23f1002345@ds.study.iitm.ac.in\n\n\n128\n23f1002362@ds.study.iitm.ac.in\n\n\n129\n23f1002535@ds.study.iitm.ac.in\n\n\n130\n23f1002563@ds.study.iitm.ac.in\n\n\n131\n23f1002586@ds.study.iitm.ac.in\n\n\n132\n23f1002630@ds.study.iitm.ac.in\n\n\n133\n23f1002929@ds.study.iitm.ac.in\n\n\n134\n23f1003000@ds.study.iitm.ac.in\n\n\n135\n23f1003115@ds.study.iitm.ac.in\n\n\n136\n23f2000119@ds.study.iitm.ac.in\n\n\n137\n23f2000273@ds.study.iitm.ac.in\n\n\n138\n23f2000762@ds.study.iitm.ac.in\n\n\n139\n23f2000794@ds.study.iitm.ac.in\n\n\n140\n23f2000822@ds.study.iitm.ac.in\n\n\n141\n23f2000926@ds.study.iitm.ac.in\n\n\n142\n23f2000942@ds.study.iitm.ac.in\n\n\n143\n23f2001274@ds.study.iitm.ac.in\n\n\n144\n23f2001347@ds.study.iitm.ac.in\n\n\n145\n23f2001494@ds.study.iitm.ac.in\n\n\n146\n23f2001529@ds.study.iitm.ac.in\n\n\n147\n23f2001539@ds.study.iitm.ac.in\n\n\n148\n23f2001661@ds.study.iitm.ac.in\n\n\n149\n23f2001960@ds.study.iitm.ac.in\n\n\n150\n23f2001992@ds.study.iitm.ac.in\n\n\n151\n23f2002034@ds.study.iitm.ac.in\n\n\n152\n23f2002121@ds.study.iitm.ac.in\n\n\n153\n23f2002865@ds.study.iitm.ac.in\n\n\n154\n23f2002939@ds.study.iitm.ac.in\n\n\n155\n23f2003529@ds.study.iitm.ac.in\n\n\n156\n23f2003751@ds.study.iitm.ac.in\n\n\n157\n23f2003893@ds.study.iitm.ac.in\n\n\n158\n23f2004115@ds.study.iitm.ac.in\n\n\n159\n23f2004244@ds.study.iitm.ac.in\n\n\n160\n23f2004366@ds.study.iitm.ac.in\n\n\n161\n23f2004443@ds.study.iitm.ac.in\n\n\n162\n23f2004473@ds.study.iitm.ac.in\n\n\n163\n23f2004510@ds.study.iitm.ac.in\n\n\n164\n23f2004637@ds.study.iitm.ac.in\n\n\n165\n23f2004770@ds.study.iitm.ac.in\n\n\n166\n23f2004793@ds.study.iitm.ac.in\n\n\n167\n23f2004936@ds.study.iitm.ac.in\n\n\n168\n23f2004979@ds.study.iitm.ac.in\n\n\n169\n23f2005010@ds.study.iitm.ac.in\n\n\n170\n23f2005193@ds.study.iitm.ac.in\n\n\n171\n23f2005325@ds.study.iitm.ac.in\n\n\n172\n23f2005398@ds.study.iitm.ac.in\n\n\n173\n23f2005474@ds.study.iitm.ac.in\n\n\n174\n23f2005525@ds.study.iitm.ac.in\n\n\n175\n23f2005665@ds.study.iitm.ac.in\n\n\n176\n23f2005701@ds.study.iitm.ac.in\n\n\n177\n23f2005706@ds.study.iitm.ac.in\n\n\n178\n23f2005738@ds.study.iitm.ac.in\n\n\n179\n23f3000975@ds.study.iitm.ac.in\n\n\n180\n23f3001271@ds.study.iitm.ac.in\n\n\n181\n23f3001462@ds.study.iitm.ac.in\n\n\n182\n23f3001572@ds.study.iitm.ac.in\n\n\n183\n23f3001745@ds.study.iitm.ac.in\n\n\n184\n23f3001752@ds.study.iitm.ac.in\n\n\n185\n23f3001764@ds.study.iitm.ac.in\n\n\n186\n23f3001848@ds.study.iitm.ac.in\n\n\n187\n23f3002196@ds.study.iitm.ac.in\n\n\n188\n23f3002427@ds.study.iitm.ac.in\n\n\n189\n23f3002537@ds.study.iitm.ac.in\n\n\n190\n23f3002643@ds.study.iitm.ac.in\n\n\n191\n23f3003016@ds.study.iitm.ac.in\n\n\n192\n23f3003027@ds.study.iitm.ac.in\n\n\n193\n23f3003871@ds.study.iitm.ac.in\n\n\n194\n23f3004013@ds.study.iitm.ac.in\n\n\n195\n23f3004024@ds.study.iitm.ac.in\n\n\n196\n23f3004066@ds.study.iitm.ac.in\n\n\n197\n23f3004134@ds.study.iitm.ac.in\n\n\n198\n23f3004230@ds.study.iitm.ac.in\n\n\n199\n23f3004238@ds.study.iitm.ac.in\n\n\n200\n23f3004264@ds.study.iitm.ac.in\n\n\n201\n23f3004394@ds.study.iitm.ac.in\n\n\n202\n23f3004444@ds.study.iitm.ac.in\n\n\n203\n24ds1000079@ds.study.iitm.ac.in\n\n\n204\n24ds2000062@ds.study.iitm.ac.in\n\n\n205\n24ds2000101@ds.study.iitm.ac.in\n\n\n206\n24ds2000112@ds.study.iitm.ac.in\n\n\n207\n24ds3000028@ds.study.iitm.ac.in\n\n\n208\n24ds3000031@ds.study.iitm.ac.in\n\n\n209\n24ds3000074@ds.study.iitm.ac.in\n\n\n210\n24f1000010@ds.study.iitm.ac.in\n\n\n211\n24f1000400@ds.study.iitm.ac.in\n\n\n212\n24f1000784@ds.study.iitm.ac.in\n\n\n213\n24f1000925@ds.study.iitm.ac.in\n\n\n214\n24f1001396@ds.study.iitm.ac.in\n\n\n215\n24f1001439@ds.study.iitm.ac.in\n\n\n216\n24f1001520@ds.study.iitm.ac.in\n\n\n217\n24f1002390@ds.study.iitm.ac.in\n\n\n218\n24f1002474@ds.study.iitm.ac.in\n\n\n219\n24f2000994@ds.study.iitm.ac.in\n\n\n220\n24f2002746@ds.study.iitm.ac.in\n\n\n221\n24f2003375@ds.study.iitm.ac.in\n\n\n222\n24f2004863@ds.study.iitm.ac.in\n\n\n\nKind regards,\nTDS Team",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 7,
+        "updated_at": "2025-02-25T11:13:32.454Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 23,
+        "readers_count": 22,
+        "score": 19.2,
+        "yours": false,
+        "topic_id": 168011,
+        "topic_slug": "q3-ga5-not-accepting-right-answer",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/q3-ga5-not-accepting-right-answer/168011/9",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      598100,
+      598177,
+      598240,
+      598344,
+      598383,
+      598948,
+      599493
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      111
+    ],
+    [
+      2,
+      110
+    ],
+    [
+      6,
+      108
+    ],
+    [
+      7,
+      107
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 5,
+      "unread": 0,
+      "new_posts": 5,
+      "unread_posts": 5,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 173,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 30,
+      "unread": 0,
+      "new_posts": 56,
+      "unread_posts": 56,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1221,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178878,
+      "title": "Getting an api key error upon running npx -y promptfoo eval --config project-tds-virtual-ta-promptfoo.yaml",
+      "fancy_title": "Getting an api key error upon running npx -y promptfoo eval &ndash;config project-tds-virtual-ta-promptfoo.yaml",
+      "slug": "getting-an-api-key-error-upon-running-npx-y-promptfoo-eval-config-project-tds-virtual-ta-promptfoo-yaml",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T15:59:44.146Z",
+      "last_posted_at": "2025-06-12T09:04:32.396Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T09:04:32.396Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 34,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 23837,
+            "username": "23f1000129",
+            "name": "Suyash Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000129/{size}/122013_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 178898,
+      "title": "Api Key Error",
+      "fancy_title": "Api Key Error",
+      "slug": "api-key-error",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-11T18:29:53.636Z",
+      "last_posted_at": "2025-06-12T06:50:28.438Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T06:50:28.438Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 37,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 30904,
+            "username": "24ds2000087",
+            "name": "Banani Mallick",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds2000087/{size}/119469_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178881,
+      "title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA4 - Data Sourcing - Discussion Thread [TDS May 2025]",
+      "slug": "ga4-data-sourcing-discussion-thread-tds-may-2025",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2025-06-11T16:23:45.872Z",
+      "last_posted_at": "2025-06-11T16:23:46.149Z",
+      "bumped": true,
+      "bumped_at": "2025-06-11T16:23:46.149Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term2-2025",
+        "graded-assignment",
+        "week-4"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 42,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "term1-2025",
+    "graded-assignment",
+    "week-5"
+  ],
+  "tags_descriptions": {},
+  "id": 168011,
+  "title": "Q3, GA5 not accepting right answer",
+  "fancy_title": "Q3, GA5 not accepting right answer",
+  "posts_count": 7,
+  "created_at": "2025-02-21T18:32:17.618Z",
+  "views": 83,
+  "reply_count": 2,
+  "like_count": 1,
+  "last_posted_at": "2025-02-25T11:13:32.454Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "q3-ga5-not-accepting-right-answer",
+  "category_id": 34,
+  "word_count": 1920,
+  "deleted_at": null,
+  "user_id": 11716,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/5/158680f0acc5ef430efd87e8a1cc59a78e6d5e07_2_1024x523.png",
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_168011",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 9,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 5,
+  "show_read_indicator": false,
+  "thumbnails": [
+    {
+      "max_width": null,
+      "max_height": null,
+      "width": 1337,
+      "height": 683,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/1/5/158680f0acc5ef430efd87e8a1cc59a78e6d5e07.png"
+    },
+    {
+      "max_width": 1024,
+      "max_height": 1024,
+      "width": 1024,
+      "height": 523,
+      "url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/1/5/158680f0acc5ef430efd87e8a1cc59a78e6d5e07_2_1024x523.png"
+    }
+  ],
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 151850,
+      "title": "Graded Assignment Issue",
+      "fancy_title": "Graded Assignment Issue",
+      "slug": "graded-assignment-issue",
+      "posts_count": 14,
+      "reply_count": 10,
+      "highest_post_number": 14,
+      "image_url": null,
+      "created_at": "2024-10-10T11:50:57.428Z",
+      "last_posted_at": "2024-10-11T09:16:14.190Z",
+      "bumped": true,
+      "bumped_at": "2024-10-11T09:16:14.190Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 115,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17597,
+            "username": "22f3000757",
+            "name": "Anshu Raj",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000757/{size}/67246_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17066,
+            "username": "23f1000966",
+            "name": "Aryan Thakur",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000966/{size}/67154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23427,
+            "username": "23f2003080",
+            "name": "Vinay Kasaudhan ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003080/{size}/87862_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 24024,
+            "username": "23ds3000248",
+            "name": "Bhavin",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds3000248/{size}/68154_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 72307,
+      "title": "TDS Week 7 &8 GA extension of submission date",
+      "fancy_title": "TDS Week 7 &amp;8 GA extension of submission date",
+      "slug": "tds-week-7-8-ga-extension-of-submission-date",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2022-11-30T19:00:30.848Z",
+      "last_posted_at": "2022-12-04T01:15:28.518Z",
+      "bumped": true,
+      "bumped_at": "2022-12-04T01:15:28.518Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds",
+        "week-7",
+        "tools",
+        "graded-question",
+        "week-8"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 123,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9162,
+            "username": "22ds1000152",
+            "name": "GP",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000152/{size}/36841_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2423,
+            "username": "gkthenayil",
+            "name": "GOPESH KRISHNA T",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/gkthenayil/{size}/20147_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 11132,
+            "username": "prabhu2022",
+            "name": "Prabhu R",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prabhu2022/{size}/13325_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13394,
+            "username": "Sherwin",
+            "name": "Sherwin Cherian Abraham",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sherwin/{size}/13547_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3987,
+            "username": "21f1002952",
+            "name": "Renjith K S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1002952/{size}/76_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 126407,
+      "title": "Graded Assignment - 8 Error in Submission",
+      "fancy_title": "Graded Assignment - 8 Error in Submission",
+      "slug": "graded-assignment-8-error-in-submission",
+      "posts_count": 12,
+      "reply_count": 4,
+      "highest_post_number": 13,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/f/b/fbc9bbda855456aaae8bb4e0003c36317399a679_2_1024x354.png",
+      "created_at": "2024-04-09T09:12:35.689Z",
+      "last_posted_at": "2024-04-11T08:42:06.382Z",
+      "bumped": true,
+      "bumped_at": "2024-04-11T08:42:06.382Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 21,
+      "views": 226,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 13371,
+            "username": "Learner_HS",
+            "name": "PURNENDU SHUKLA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/learner_hs/{size}/13282_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3292,
+            "username": "Prashanth",
+            "name": "Prashanth G",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/prashanth/{size}/581_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12145,
+            "username": "22f1001447",
+            "name": "Khushi Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001447/{size}/38864_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 13011,
+            "username": "Aditya_Patel",
+            "name": "Aditya Singh Patel",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aditya_patel/{size}/14261_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 111816,
+      "title": "Week 6 a TDS assignment",
+      "fancy_title": "Week 6 a TDS assignment",
+      "slug": "week-6-a-tds-assignment",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/e/dedb688ab94839bead7ad828c83f154884e98b1a.png",
+      "created_at": "2023-12-12T05:28:34.314Z",
+      "last_posted_at": "2023-12-15T14:46:57.816Z",
+      "bumped": true,
+      "bumped_at": "2023-12-15T14:46:57.816Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 83,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 12434,
+            "username": "22ds2000105",
+            "name": "Alagammai Deepa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds2000105/{size}/12613_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6616,
+            "username": "aaruni-kale",
+            "name": "Aaruni Kale",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/aaruni-kale/{size}/53900_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 82755,
+      "title": "Incorrect Assignment Score",
+      "fancy_title": "Incorrect Assignment Score",
+      "slug": "incorrect-assignment-score",
+      "posts_count": 20,
+      "reply_count": 15,
+      "highest_post_number": 20,
+      "image_url": null,
+      "created_at": "2023-03-30T04:21:07.053Z",
+      "last_posted_at": "2023-04-25T13:52:04.352Z",
+      "bumped": true,
+      "bumped_at": "2023-04-25T13:52:04.352Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 4,
+      "views": 204,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1673,
+            "username": "satadru_iitm",
+            "name": "Satadru Bhattacharya",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/satadru_iitm/{size}/13454_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1998,
+            "username": "Preetam",
+            "name": "Preetam Mukherjee",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/preetam/{size}/57403_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1041,
+            "username": "Navvpatil_13",
+            "name": "Navin patil",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/navvpatil_13/{size}/13011_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 9,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "We have determined that some students were affected by GA5 Q3. Whoever we have identified as having received the incorrect assessment will receive 1 mark for that particular question. These are the students that we have identified as been assessed incorrectly: \n\n\n\n\nSN\nEmail\n\n\n\n\n1\n21f1000131@ds.study&hellip;",
+    "accepter_name": null,
+    "accepter_username": "carlton"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 11716,
+        "username": "muskan2431",
+        "name": "Muskan Aggarwal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muskan2431/{size}/24004_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 3146,
+        "username": "Aryxn",
+        "name": "Aryan Singh",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/a/9d8465/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16541,
+        "username": "amitchaurasia",
+        "name": "Amit",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amitchaurasia/{size}/66858_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17736,
+        "username": "23f2000573",
+        "name": "B R GIRI SUBRAHMANYA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 11716,
+      "username": "muskan2431",
+      "name": "Muskan Aggarwal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/muskan2431/{size}/24004_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
