@@ -91,26 +91,30 @@ TDS_Virtual_Teaching_Assistant/
 
 ## 🔧 Setup Instructions
 
-1. Install dependencies  
+1. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
-2. Add your API key in `.env`
+2. **Add your API key in `.env`**
 
    ```bash
    API_KEY="your_api_key_here"
    ```
-3. Run the app
+
+3. **Run the app**
 
    ```bash
    uvicorn app:app --reload
    ```
-4. Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for the interactive API UI.
+
+4. **Visit the interactive API UI**
+   [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
 
-Example query:
+## 🧪 Example Query
 
 ```json
 {
@@ -147,19 +151,16 @@ Example query:
 
 ## 🖼️ Project Demo
 
-The project is live at: [https://tds-project-1-qt1e.onrender.com/docs#/](https://tds-project-1-qt1e.onrender.com/docs#/)
+The project is live at:
+🌐 [**https://tds-project-1-qt1e.onrender.com/docs#/**](https://tds-project-1-qt1e.onrender.com/docs#/)
 
 ### Example Interaction
 
-| Query | Response |
-|-------|-----------|
-| ![Question Example](images/query_example.png) | ![Answer Example](images/response_example.png) |
+| Query                                         | Response                                       |
+| Is this course really very hard ? | Yes, this course is considered very hard. Feedback from students indicates that it has become significantly more difficult compared to previous terms, with many students struggling to pass. The course requires more time than typical 3-credit courses, and assessments are described as challenging, particularly the remote open exams and the final in-person exam. Additionally, the unpredictability of grading by LLMs adds to the difficulty level. |
+| ![Question Example]("C:\Users\ASHWINI\Pictures\Screenshots\Screenshot 2025-11-13 063051.png") | ![Answer Example]("C:\Users\ASHWINI\Pictures\Screenshots\Screenshot 2025-11-13 063353.png") |
 
 > The assistant retrieves relevant course and discourse content to answer queries intelligently.
-
----
-
-🌐 **Live Demo:** [TDS Virtual TA on Render](https://tds-project-1-qt1e.onrender.com/docs#/)
 
 ---
 
