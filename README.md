@@ -156,9 +156,9 @@ The project is live at:
 
 ### Example Interaction
 
-| Query                                         | Response                                       |
-| Is this course really very hard ?             | Yes, this course is considered very hard. Feedback from students indicates that it has become significantly more difficult compared to previous terms, with many students struggling to pass. The course requires more time than typical 3-credit courses, and assessments are described as challenging, particularly the remote open exams and the final in-person exam. Additionally, the unpredictability of grading by LLMs adds to the difficulty level. |
-| ![Question Example]("images/query_example.png") | ![Answer Example]("images/response_example.png") |
+| **Query** | **Response** |
+|----------|--------------|
+| **Is this course really very hard?** <br><br> ![Question Example](images/query_example.png) | **Yes, this course is considered very hard. Feedback from students indicates that it has become significantly more difficult compared to previous terms, with many students struggling to pass. The course requires more time than typical 3-credit courses, and assessments are described as challenging, particularly the remote open exams and the final in-person exam. Additionally, the unpredictability of grading by LLMs adds to the difficulty level.** <br><br> ![Answer Example](images/response_example.png) |
 
 > The assistant retrieves relevant course and discourse content to answer queries intelligently.
 
