@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Render deploy hook
-        run: curl <https://tds-project-1-qt1e.onrender.com>
+        run: curl <https://api.render.com/deploy/srv-d49amt3e5dus73ckomk0?key=ySSlCcNCS8c>
